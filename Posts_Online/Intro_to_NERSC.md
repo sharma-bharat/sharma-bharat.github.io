@@ -1,4 +1,8 @@
-# Introduction to NERSC/Cori
+---
+layout: default 
+title: Posts/Introduction to NERSC/Cori
+---
+
 source: https://docs.nersc.gov/
 
 ## System Specification
