@@ -3,6 +3,12 @@ layout: default
 title: Posts 
 description: 
 ---
+**Introduction to NERSC**. <br>
+Contains example scripts and most common commands. <br>
+[Tutorial](https://sharma-bharat.github.io/Posts_Online/Intro_to_NERSC.html)
+
+<hr>
+
 Most commonly used NCO commands with examples: <br>
 [NCO tools](https://sharma-bharat.github.io/Posts_Online/nco_tools.html)
 
