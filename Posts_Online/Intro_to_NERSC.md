@@ -3,7 +3,7 @@ source: https://docs.nersc.gov/
 
 ## System Specification
 |System Partition |	Processor |	Clock Rate |Physical Cores Per Node |Threads/Core 	|Sockets Per Node |	Memory Per Node|
-|:----------------|:----------|:-----------|:-----------------------|:--------------|:----------------|:---------------|
+|----------------|----------|-----------|-----------------------|--------------|----------------|---------------|
 |Login 	|Intel Xeon Processor E5-2698 v3 	|2.3 GHz 	|32 	|2 	|2 |	515 GB|
 |*Haswell* 	|Intel Xeon Processor E5-2698 v3 |	2.3 GHz |	32 |	2 |	2 |	128 GB|
 |*KNL* |	Intel Xeon Phi Processor 7250 |	1.4 GHz |	68| 	4 |	1 |	96 GB (DDR4), 16 GB (MCDRAM)|
@@ -58,7 +58,7 @@ Note that the quota on the Community File System and on Global Common is shared 
 
 NERSC uses [Slurm](https://slurm.schedmd.com/) for cluster/resource management and job scheduling. Slurm is responsible for allocating resources to users, providing a framework for starting, executing and monitoring work on allocated resources and scheduling work for future execution.
 
-### Additional Resources¶
+### Additional Resources
 
 -    Documentation: https://slurm.schedmd.com/documentation.html
 -    Tutorial: https://slurm.schedmd.com/tutorials.html
