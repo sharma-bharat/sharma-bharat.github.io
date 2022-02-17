@@ -124,6 +124,15 @@ srun -n 192 --mpi=pmi2 python calc_anomalies_ssa_mpi.py -src 0 -var pr
 To avoid HDF errors, type the following on the terminal of interactive node:
 `export HDF5_USE_FILE_LOCKING=FALSE`
 
+### SCRATCH
+`$SCRATCH` or `cd /global/cscratch1/sd/bharat`
+
+### CMIP6 Data
+`/global/cfs/cdirs/m3522/cmip6/CMIP6`
+
+### Project Community File System (CFS), use this to share data with other members
+`/global/cfs/cdirs/m2467`
+
 <hr>
 
 ## Backups
