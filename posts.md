@@ -5,7 +5,8 @@ description:
 ---
 **Introduction to NERSC**. <br>
 Contains example scripts and most common commands. <br>
-[Tutorial](https://sharma-bharat.github.io/Posts_Online/Intro_to_NERSC.html)
+[Tutorial](https://sharma-bharat.github.io/Posts_Online/NERSC_Tutorial.html)<br>
+[Notes](https://sharma-bharat.github.io/Posts_Online/Intro_to_NERSC.html)
 
 <hr>
 
