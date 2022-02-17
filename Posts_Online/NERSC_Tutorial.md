@@ -41,6 +41,10 @@ Login Nodes
 
 Password Prompt: Your set password + OTP
 
+To set up OTP: follow these [instructions](https://docs.nersc.gov/connect/mfa/)
+- You want to follow steps in **Creating and Installing a Token**.
+- I use Google Authenticator app to see my TOTP.
+
 ---
 
 ##  Data Transfer Nodes
@@ -124,6 +128,9 @@ How to request for `interactive node`? [Link](https://docs.nersc.gov/jobs/intera
 
 path : `cd /project/projectdirs/m2467/www/bharat/` <br>
 webpage : `https://portal.nersc.gov/project/m2467/`
+
+If you are not able to see your files just run the following command on the terminal:
+`chmod 755 * `
 
 ---
 
