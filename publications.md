@@ -22,6 +22,13 @@ featured-img: assets/images/earth-wide.jpg
 
 Warner, M., **Sharma, Bharat**, Bhatia, U., and Ganguly, A. (2019), “Evaluation of Cascading Infrastructure Failures and Optimal Recovery from a Network Science Perspective.” In: Ghanbarnejad F., Saha Roy R, Karimi F., Delvenne JC., Mitra B. (eds) Dynamics On and Of Complex Networks III. DOOCN 2017. Springer Proceedings in Complexity. Springer, Cham. [Chapter](https://doi.org/10.1007/978-3-030-14683-2_3)
 
+## Data/Software Publications
+
+Codes/Software for the paper "Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300" ,2022, [![DOI](https://zenodo.org/badge/413554760.svg)](https://zenodo.org/badge/latestdoi/413554760)
+
+Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300, from CESM1(BGC) fully-coupled runs from 1850 to 2300, comprising of historical (1850-2005), Representative Concentration Pathway 8.5 (2005-2100), and Extension Concentration Pathway 8.5 (2101-2300). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5548153.svg)](https://doi.org/10.5281/zenodo.5548153)
+
+
 ## Invited Presentations
 **Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., and Hoffman, F. M., "Quantifying the Changes in Carbon Cycle Extremes Due to Land Use Change and Attribution to Climate Drivers Through Year 2300". Reducing Uncertainties in Biogeochemical Interactions through Synthesis and Computation. Feb 19, 2021. Url: [bgc-feedbacks.org/research/presentations/](https://www.bgc-feedbacks.org/research/presentations/Sharma_RUBISCO-SFA_20210219.pdf).
 
