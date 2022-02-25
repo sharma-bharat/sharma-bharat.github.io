@@ -40,6 +40,12 @@ Comparing two latex files: <br>
 
 <hr>
 
+Python for Computational Earth Sciences, by Michael Kelleher (ORNL): <br>
+[Tutorial](https://code.ornl.gov/25k/pyces)
+
+
+<hr>
+
 Keeping track of your incomes and expenses: <br>
 [Expense Manager](https://sharma-bharat.github.io/Posts_Online/expense_manager.html)
 
@@ -47,5 +53,6 @@ Keeping track of your incomes and expenses: <br>
 
 Organising Journal Club 2018, ORNL! Let's talk Science! <br>
 [More Info](https://www.climatemodeling.org/~bharat/journal_club.html)
+
 
 
