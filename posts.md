@@ -40,8 +40,8 @@ Comparing two latex files: <br>
 
 <hr>
 
-Python for Computational Earth Sciences, by Michael Kelleher (ORNL): <br>
-[Tutorial](https://code.ornl.gov/25k/pyces)
+Python for Computational Earth Sciences: <br>
+[Tutorial by Michael Kelleher (ORNL)](https://code.ornl.gov/25k/pyces)
 
 
 <hr>
