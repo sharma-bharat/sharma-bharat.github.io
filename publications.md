@@ -6,11 +6,11 @@ featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal Publications
 
-**Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., and Hoffman, F. M. (_Manuscript in Review_), "Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300". Journal of Geophysical Research - Biogeosciences.
+**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman (_Manuscript in Review_), "Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300". Journal of Geophysical Research - Biogeosciences.
 
-**Sharma, Bharat**, Kumar, J., Ganguly, A. R., and Hoffman, F. M., "Increased Occurrence of Climate-Induced Extremes in Biomass Productivity in the 21st Century". _Manuscript in Preparation_ 
+**Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman, "Increased Occurrence of Climate-Induced Extremes in Biomass Productivity in the 21st Century". _Manuscript in Preparation_ 
 
-**Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., and Hoffman, F. M., "Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models." _Manuscript in Preparation_ 
+**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman, "Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models." _Manuscript in Preparation_ 
 
 
 ## Dissertation
@@ -30,14 +30,18 @@ Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attribu
 
 
 ## Invited Presentations
-**Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., and Hoffman, F. M., "Quantifying the Changes in Carbon Cycle Extremes Due to Land Use Change and Attribution to Climate Drivers Through Year 2300". Reducing Uncertainties in Biogeochemical Interactions through Synthesis and Computation. Feb 19, 2021. Url: [bgc-feedbacks.org/research/presentations/](https://www.bgc-feedbacks.org/research/presentations/Sharma_RUBISCO-SFA_20210219.pdf).
+**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman, "Quantifying the Changes in Carbon Cycle Extremes Due to Land Use Change and Attribution to Climate Drivers Through Year 2300". Reducing Uncertainties in Biogeochemical Interactions through Synthesis and Computation. Feb 19, 2021. Url: [bgc-feedbacks.org/research/presentations/](https://www.bgc-feedbacks.org/research/presentations/Sharma_RUBISCO-SFA_20210219.pdf).
 
 
 ## Conference Presentations
 
-**Sharma, Bharat**, Kumar, J., Hoffman, F. M., and Ganguly, A. R. December 17, 2021. “Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.” Improving Earth System Predictability (B041), American Geophysical Union Fall Meeting. New Orleans, LA. [AGU](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=71-89-8B-05-7E-BE-42-CF-33-5D-F5-8A-F4-6A-77-AC&guestview=true).
+**Sharma, Bharat**, Jitendra Kumar, Forrest M. Hoffman, and Auroop R. Ganguly December 17, 2021. “Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.” Improving Earth System Predictability (B041), American Geophysical Union Fall Meeting. New Orleans, LA. [AGU](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=71-89-8B-05-7E-BE-42-CF-33-5D-F5-8A-F4-6A-77-AC&guestview=true).
 
-**Sharma, Bharat**, Kumar, J., Hoffman, F. M., and Ganguly, A. R. December 12, 2020.  “Detection and Attribution of Climate-Driven Extremes in Net Biome Productivity from 1850 through 2100.” Abstrat B019-0009 presented at American Geophysical Union (AGU) Fall Meeting (December 1–17, 2020).  Virtual. 
+Morgan Steckler, **Sharma, Bharat**, Forrest M. Hoffman, William W. Hargrove and Jitendra Kumar December 14, 2021. "Effects of meteorological and ecological disturbances on tropical vegetation phenology." Understanding Phenological Responses and Feedbacks in Terrestrial Vegetation: Patterns, Mechanisms, and Consequences (B33D), American Geophysical Union Fall Meeting. New Orleans, LA.
+
+
+
+**Sharma, Bharat**, Jitendra Kumar, Forrest M. Hoffman, and Auroop R. Ganguly December 12, 2020.  “Detection and Attribution of Climate-Driven Extremes in Net Biome Productivity from 1850 through 2100.” Abstrat B019-0009 presented at American Geophysical Union (AGU) Fall Meeting (December 1–17, 2020).  Virtual. 
 
 **Sharma, Bharat**, Forrest M. Hoffman, Jitendra Kumar, and Auroop R. Ganguly. December 13, 2018. “Cumulative Impacts of Human-Induced Changes on Carbon Cycle Extremes.” Abstract 368411 presented at the 100th American Meteorological Society (AMS) Annual Meeting, In Robert Dickinson Symposium (January 12–16, 2020), Boston, Massachusetts, USA.
 
