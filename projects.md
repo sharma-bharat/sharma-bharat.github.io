@@ -36,7 +36,7 @@ The quantitative analysis using VISSIM 7 software confirmed the hypothesis that 
 
 <hr>
 
-_* I changed my name is 2016 from Dikshit to Bharat Dikshit Sharma_
+_* Name changed in 2016_
 
 <!---
 ## Spectral Synthesis for Geostationary Satellite-to-Satellite Translation
