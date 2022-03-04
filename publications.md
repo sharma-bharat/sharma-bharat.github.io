@@ -30,8 +30,8 @@ _Manuscript in Preparation_
 Warner, M., **Sharma, Bharat**, Bhatia, U., and Ganguly, A. (2019).
 Evaluation of Cascading Infrastructure Failures and Optimal Recovery from a Network Science Perspective. 
 In: Ghanbarnejad F., Saha Roy R, Karimi F., Delvenne JC., Mitra B. (eds) Dynamics On and Of Complex Networks III. DOOCN 2017. 
-Springer Proceedings in Complexity. Springer, Cham. [Chapter](https://doi.org/10.1007/978-3-030-14683-2_3)
-[![DOI: 10.1007/978-3-030-14683-2_3](https://doi.org/10.1007/978-3-030-14683-2_3)
+Springer Proceedings in Complexity. Springer, Cham. 
+[DOI: 10.1007/978-3-030-14683-2_3](https://doi.org/10.1007/978-3-030-14683-2_3)
 
 
 ## Data/Software Publications
