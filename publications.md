@@ -94,6 +94,13 @@ December 15, 2017.
 Abstract B53J-02 presented at the 2017 American Geophysical Union (AGU) Fall Meeting (December 11–15, 2017), 
 New Orleans, Louisiana, USA.
 
+**Sharma, Bharat**, Mary E. Warner, Udit Bhatia, and Auroop R. Ganguly. 
+December 15, 2017. 
+“Cascading Interdependencies of Built and Societal Systems.”
+In: Symposium on Human Dynamics in Smart and Connected Communities: Spatial-Social Networks in GIS.
+2017 American Association of Geographers (AAG) Annual Meeting (April 5-9, 2017), 
+Boston, Massachusetts, USA.
+
 ## Certifications
 
 **Machine Learning, Data Science and Deep Learning with Python**. 
