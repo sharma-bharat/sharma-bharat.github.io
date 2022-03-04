@@ -9,6 +9,32 @@ For Publications : [Click Here](https://sharma-bharat.github.io/publications.htm
 
 ## Work Experience
 
+**Technical University of Munich (TUM), Germany** (Mar'16 - Aug'16)  <br>
+Master Thesis at Department of Urban Structure \& Transport Planning. <br>
+An approach to study interaction between evacuation and land use \& transportation structures.
+
+**Obermeyer Planen + Beraten GmbH, Munich, Germany** (Mar'15 - Aug'16)
+Intern + Part-time employee, Department of Rail Design and Engineering. <br>
+Project ‘High-speed railway between Košice and the Twin-City region Vienna-Bratislava \url{http://www.breitspur.com/}', creating high performance transportation from Russia, China and Asian countries to Central Europe. <br>
+Supported Phase 1 System Development, analysis of the pre-feasibility studies, selection of suitable rail corridor and terminal locations.
+
+**Technical University of Munich (TUM), Germany** (Jun'14 - Jul'15) <br>
+Graduate Research Assistant, Department of Urban Structure \& Transport Planning. <br>
+Project ‘MOR€CO’, aims to improve accessibility and to foster sustainable mobility by an optimized polycentric settlement development in the Alpine Space. <br>
+Estimated the mobility costs in the metropolitan region of Munich.
+<br>
+Project ‘WAM’, aims to better understand the dynamics of residential location, workplace and mobility of households and highlight the reciprocal spatial dependence of these decisions. <br>
+Created the travel time matrix for the metropolitan region of Munich.
+
+**Oct 14 – Mar 15	Technical University of Munich (TUM), Germany** (Oct'14 - Mar'15) <br>
+Project with TUM, BMW Automobiles, MVV (Public Transport Company) and City of Munich. <br>
+Examined whether the new BMW Innovation and Research Center successfully fitted into the Northern Munich by analyzing spatial strategies, current development projects and the inter-action of non-motorized mobility, and provided measures like location of transit station, convenient stores and bike paths among other steps to plan better transit.
+
+**GMR Airport Developers Limited, New Delhi, India** (Jul'12 - Sep'13) <br>
+Executive Civil Engineer, Terminal 3, New Delhi International Airport <br>
+Supported civil engineering projects and maintenance, preparation and analysis of BOQ, SAP.
+In charge of quality control for relaying of runway 29/11 and taxiways with Larsen & Tubro Ltd. (ECC).
+
 
 
 ## Certifications
