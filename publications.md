@@ -11,9 +11,13 @@ Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and
 Journal of Geophysical Research - Biogeosciences.
 _Manuscript in Review_
 
-**Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman, "Increased Occurrence of Climate-Induced Extremes in Biomass Productivity in the 21st Century". _Manuscript in Preparation_ 
+**Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman.
+Increased Occurrence of Climate-Induced Extremes in Biomass Productivity in the 21st Century. 
+_Manuscript in Preparation_ 
 
-**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman, "Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models." _Manuscript in Preparation_ 
+**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman.
+Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
+_Manuscript in Preparation_ 
 
 
 ## Dissertation
@@ -23,7 +27,11 @@ _Manuscript in Review_
 
 ## Book Chapters
 
-Warner, M., **Sharma, Bharat**, Bhatia, U., and Ganguly, A. (2019), “Evaluation of Cascading Infrastructure Failures and Optimal Recovery from a Network Science Perspective.” In: Ghanbarnejad F., Saha Roy R, Karimi F., Delvenne JC., Mitra B. (eds) Dynamics On and Of Complex Networks III. DOOCN 2017. Springer Proceedings in Complexity. Springer, Cham. [Chapter](https://doi.org/10.1007/978-3-030-14683-2_3)
+Warner, M., **Sharma, Bharat**, Bhatia, U., and Ganguly, A. (2019).
+Evaluation of Cascading Infrastructure Failures and Optimal Recovery from a Network Science Perspective. 
+In: Ghanbarnejad F., Saha Roy R, Karimi F., Delvenne JC., Mitra B. (eds) Dynamics On and Of Complex Networks III. DOOCN 2017. 
+Springer Proceedings in Complexity. Springer, Cham. [Chapter](https://doi.org/10.1007/978-3-030-14683-2_3)
+[![DOI](https://doi.org/10.1007/978-3-030-14683-2_3.svg)](https://doi.org/10.1007/978-3-030-14683-2_3)
 
 ## Data/Software Publications
 
