@@ -94,13 +94,16 @@ December 15, 2017.
 Abstract B53J-02 presented at the 2017 American Geophysical Union (AGU) Fall Meeting (December 11–15, 2017), 
 New Orleans, Louisiana, USA.
 
-## Workshops
+## Certifications
 
-**Machine Learning, Data Science and Deep Learning with Python**. by Frank Kane (Udemy). Feb 1 - Mar 13, 2021
+**Machine Learning, Data Science and Deep Learning with Python**. 
+Udemy. Mar, 2021
 
-**New Advances in Land Carbon Cycle Modeling**. by Center for Ecosystem Science and Society Northern Arizona University. July 20-31, 2020
+**New Advances in Land Carbon Cycle Modeling**. 
+Center for Ecosystem Science and Society Northern Arizona University. July, 2020
 
-**Introduction to Machine Learning**. by Ranga Raju Vatsavai, North Carolina State University (NCSU). May 13-14, 2019
+**Introduction to Machine Learning**. 
+Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 
 
