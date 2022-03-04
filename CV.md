@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications 
+title: CV 
 description: 
 featured-img: assets/images/earth-wide.jpg
 ---
@@ -13,7 +13,7 @@ For Publications : [Click Here](https://sharma-bharat.github.io/publications.htm
 Master Thesis at Department of Urban Structure \& Transport Planning. <br>
 An approach to study interaction between evacuation and land use \& transportation structures.
 
-**Obermeyer Planen + Beraten GmbH, Munich, Germany** (Mar'15 - Aug'16)
+**Obermeyer Planen + Beraten GmbH, Munich, Germany** (Mar'15 - Aug'16) <br>
 Intern + Part-time employee, Department of Rail Design and Engineering. <br>
 Project ‘High-speed railway between Košice and the Twin-City region Vienna-Bratislava \url{http://www.breitspur.com/}', creating high performance transportation from Russia, China and Asian countries to Central Europe. <br>
 Supported Phase 1 System Development, analysis of the pre-feasibility studies, selection of suitable rail corridor and terminal locations.
@@ -21,8 +21,8 @@ Supported Phase 1 System Development, analysis of the pre-feasibility studies, s
 **Technical University of Munich (TUM), Germany** (Jun'14 - Jul'15) <br>
 Graduate Research Assistant, Department of Urban Structure \& Transport Planning. <br>
 Project ‘MOR€CO’, aims to improve accessibility and to foster sustainable mobility by an optimized polycentric settlement development in the Alpine Space. <br>
-Estimated the mobility costs in the metropolitan region of Munich.
-<br>
+Estimated the mobility costs in the metropolitan region of Munich.<br>
+
 Project ‘WAM’, aims to better understand the dynamics of residential location, workplace and mobility of households and highlight the reciprocal spatial dependence of these decisions. <br>
 Created the travel time matrix for the metropolitan region of Munich.
 
