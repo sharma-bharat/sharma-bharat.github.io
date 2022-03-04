@@ -39,8 +39,6 @@ Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attribu
 
 Morgan Steckler, **Sharma, Bharat**, Forrest M. Hoffman, William W. Hargrove and Jitendra Kumar December 14, 2021. "Effects of meteorological and ecological disturbances on tropical vegetation phenology." Understanding Phenological Responses and Feedbacks in Terrestrial Vegetation: Patterns, Mechanisms, and Consequences (B33D), American Geophysical Union Fall Meeting. New Orleans, LA.
 
-
-
 **Sharma, Bharat**, Jitendra Kumar, Forrest M. Hoffman, and Auroop R. Ganguly December 12, 2020.  “Detection and Attribution of Climate-Driven Extremes in Net Biome Productivity from 1850 through 2100.” Abstrat B019-0009 presented at American Geophysical Union (AGU) Fall Meeting (December 1–17, 2020).  Virtual. 
 
 **Sharma, Bharat**, Forrest M. Hoffman, Jitendra Kumar, and Auroop R. Ganguly. December 13, 2018. “Cumulative Impacts of Human-Induced Changes on Carbon Cycle Extremes.” Abstract 368411 presented at the 100th American Meteorological Society (AMS) Annual Meeting, In Robert Dickinson Symposium (January 12–16, 2020), Boston, Massachusetts, USA.
@@ -52,6 +50,17 @@ Morgan Steckler, **Sharma, Bharat**, Forrest M. Hoffman, William W. Hargrove and
 **Sharma, Bharat**, Forrest M. Hoffman, Jitendra Kumar, Nathan Collier, and Auroop Ganguly. April 11, 2018. “Identification of Spatio-temporal Contiguous Carbon Cycle Extreme Events.” 2018 U.S.-International Association for Landscape Ecology (US-IALE) Annual Meeting (April 8–12, 2018), Chicago, Illinois, USA.
 
 **Sharma, Bharat**, Forrest M. Hoffman, Jitendra Kumar, and Auroop R. Ganguly. December 15, 2017. “Carbon Cycle Extremes in the 22nd and 23rd Century and Attribution to Climate Drivers.” Abstract B53J-02 presented at the 2017 American Geophysical Union (AGU) Fall Meeting (December 11–15, 2017), New Orleans, Louisiana, USA.
+
+## Workshops
+
+**Machine Learning, Data Science and Deep Learning with Python**. by Frank Kane (Udemy). Feb 1 - Mar 13, 2021
+
+**New Advances in Land Carbon Cycle Modeling**. by Center for Ecosystem Science and Society Northern Arizona University. July 20-31, 2020
+
+**Introduction to Machine Learning**. by Ranga Raju Vatsavai, North Carolina State University (NCSU). May 13-14, 2019
+
+
+
 
 ## Teaching Roles
 
