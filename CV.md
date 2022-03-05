@@ -5,7 +5,7 @@ description:
 featured-img: assets/images/earth-wide.jpg
 ---
 
-For Publications : [Click Here](https://sharma-bharat.github.io/publications.html)
+For Publications and Presentations : [Click Here!](https://sharma-bharat.github.io/publications.html)
 
 ## Work Experience
 
