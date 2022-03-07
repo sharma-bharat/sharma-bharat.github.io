@@ -19,6 +19,24 @@ _Manuscript in Preparation_
 Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
 _Manuscript in Preparation_ 
 
+Sharma R. K., Khandelwal, T. and **Sharma, Bharat**. (2013). Compaction and Subgrade Characteristics of Clay
+Soil Modified with Beas Sand, Fly Ash, and Waste Ceramic. Recent Trends in Civil Engineering & Technology.
+STM Journals. Volume 3, Issue 2, ISSN: 2249–8753. 
+[Recent Trends in Civil Engineering & Technology (2013)<sup>*</sup>](./papers/Characteristic_paper_UG.pdf) <br>
+
+
+Khandelwal, T., **Sharma, Bharat**, Thareja, P. and Sharma R. K. (2013). Comparative Study of various Commer-
+cially Available Programs in Slope Stability and Simulation of Dynamic Loading. Recent Trends in Civil Engineering
+& Technology. STM Journals. Volume 3, Issue 2, ISSN: 2249–8753. 
+[Recent Trends in Civil Engineering & Technology (2013)<sup>*</sup>](./papers/Comparative_paper_UG.pdf) <br>
+
+## Master Thesis
+
+Sharma, Bharat. (2016). Resilience in Urban Citie: An approach to study interaction between evacuation and
+land use & transportation infrastructure. Technical University of Munich, Germany. Chair of Urban Structure and
+Transport Planning.
+[Master Thesis (2016)](./papers/Sharma_masterthesis_TUM_2016.pdf) <br>
+
 
 ## Dissertation
 
