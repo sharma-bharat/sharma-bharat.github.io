@@ -22,13 +22,13 @@ _Manuscript in Preparation_
 Sharma R. K., Khandelwal, T. and **Sharma, Bharat**<sup>*</sup>. (2013). Compaction and Subgrade Characteristics of Clay
 Soil Modified with Beas Sand, Fly Ash, and Waste Ceramic. Recent Trends in Civil Engineering & Technology.
 STM Journals. Volume 3, Issue 2, ISSN: 2249–8753. 
-[Recent Trends in Civil Engineering & Technology (2013)<sup>*</sup>](./papers/Characteristic_paper_UG.pdf) <br>
+[Link](./papers/Characteristic_paper_UG.pdf) <br>
 
 
 Khandelwal, T., **Sharma, Bharat**<sup>*</sup>, Thareja, P. and Sharma R. K. (2013). Comparative Study of various Commer-
 cially Available Programs in Slope Stability and Simulation of Dynamic Loading. Recent Trends in Civil Engineering
 & Technology. STM Journals. Volume 3, Issue 2, ISSN: 2249–8753. 
-[Recent Trends in Civil Engineering & Technology (2013)<sup>*</sup>](./papers/Comparative_paper_UG.pdf) <br>
+[Link](./papers/Comparative_paper_UG.pdf) <br>
 
 ## Master Thesis
 
