@@ -1,11 +1,13 @@
 ---
 layout: default
-title: CV 
+title: Work Experience 
 description: 
 featured-img: assets/images/earth-wide.jpg
 ---
 
+<!---
 For Publications and Presentations : [Click Here!](https://sharma-bharat.github.io/publications.html)
+-->
 
 ## Work Experience
 
