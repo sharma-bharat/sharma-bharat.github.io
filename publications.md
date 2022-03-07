@@ -119,3 +119,7 @@ In: Symposium on Human Dynamics in Smart and Connected Communities: Spatial-Soci
 2017 American Association of Geographers (AAG) Annual Meeting (April 5-9, 2017), 
 Boston, Massachusetts, USA.
 
+
+<hr>
+
+_* Name changed in 2016_
