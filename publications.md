@@ -40,7 +40,7 @@ Transport Planning.
 
 ## Ph.D. Dissertation
 
-**Advisors and Mentors** [Dr. Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/), [Dr. Jitendra Kumar](https://www.ornl.gov/staff-profile/jitendra-kumar), and [Dr. Forrest M. Hoffman](https://www.climatemodeling.org/~forrest/)
+**Advisors and Mentors :** [Dr. Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/), [Dr. Jitendra Kumar](https://www.ornl.gov/staff-profile/jitendra-kumar), and [Dr. Forrest M. Hoffman](https://www.climatemodeling.org/~forrest/)
 
 **Sharma, Bharat**, “Detection of Carbon Cycle Extremes and Attribution to Climate Drivers using upscalled GPP products and Earth System Models.”, expected 2022. Northeastern University. 
 
