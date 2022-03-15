@@ -6,7 +6,7 @@ featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal Publications
 
-**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman. ). 
+**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman. (2022). 
 Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300. 
 Journal of Geophysical Research - Biogeosciences.
 _Manuscript in Review_
