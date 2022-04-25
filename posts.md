@@ -43,6 +43,10 @@ Comparing two latex files: <br>
 Python for Computational Earth Sciences: <br>
 [Tutorial by Michael Kelleher (ORNL)](https://code.ornl.gov/25k/pyces)
 
+<hr>
+
+Correct word count of latex files.
+[LatexCount](https://www.ctan.org/pkg/latexcount)
 
 <hr>
 
