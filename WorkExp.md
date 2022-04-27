@@ -57,12 +57,13 @@ Pragya Kandel (University of Knoxville, Tennessee) <br>
 Russ Limber (University of Knoxville, Tennessee) <br>
 Morgan Steckler (University of Knoxville, Tennessee) <br>
 Sophia Bailey (Northeastern University, Boston, Massachusetts) <br>
+Co-mentored the class project of 30 graduate and undergraduate students (CIVE 5363, Spring 2021) <br>
 
 ## Teaching Roles
 
 **CIVE 5363 Climate Science, Engineering Adaptation, and Policy**. Spring 2021 <br>
 *Offers an evidence-based glimpse of what has been called a clear and present danger to mankind. Analyzes case studies from the magic of the butterfly effect in chaos theory to the deep challenges in physics, biogeochemistry, and data sciences. Covers topics from experimental design to satellite-based remote sensing, all the way to the design and operations of next-generation hydraulic infrastructures, transportation systems, smart grids, and communication networks, including the impacts on coastal or inland cities, the resilience to weather hazards, and the sustainability of water-energy-food resources. Includes policy issues and risk-informed trade-offs in renewable energy, environmental regulations, and emissions control. Graduate students are required to complete a mandatory class project.* <br>
-**Responsibilities**: Taught lectures, created study material, designed and graded assignments and conducted tutorial sessions and mentored projects for 30 graduate students. Received excellent reviews.
+**Responsibilities**: Taught lectures, created study material, designed and graded assignments and conducted tutorial sessions and mentored projects for 30 students. Received excellent reviews.
 
 **CIVE 2260 Materials for the Built Environment**. Spring 2018 <br>
 *Introduces the physical, mechanical, and chemical properties of materials of importance to civil engineers. Offers an overview of the ways in which these properties affect the material selection process, material behavior, and the design process.* <br>
