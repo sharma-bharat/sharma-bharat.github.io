@@ -52,9 +52,9 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 ## Organisation Roles
 
-**Journal Club (ORNL)**. Summer 2018
+**Journal Club (ORNL)**. Summer 2018 (Attendees: 15-20)
 *The Journal Club was a informal voluntary group of students, postdocs, and ORNL personnel interested in Earth system science.* <br>
-**Responsibilities**: In-charge of scheduling and coordinating the paper presentations, and maintaining the [website][https://www.climatemodeling.org/~bharat/journal_club.html].
+**Responsibilities**: In-charge of scheduling and coordinating the paper presentations, and maintaining the [website](https://www.climatemodeling.org/~bharat/journal_club.html).
 
 ## Mentorship Roles (1 Male, 3 Female Students)
 
