@@ -53,10 +53,10 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 ## Mentorship Roles (1 Male, 3 Female Students)
 
-Pragya Kandel (University of Knoxville, Tennessee) <br>
-Russ Limber (University of Knoxville, Tennessee) <br>
-Morgan Steckler (University of Knoxville, Tennessee) <br>
-Sophia Bailey (Northeastern University, Boston, Massachusetts) <br>
+**Pragya Kandel** (University of Knoxville, Tennessee) <br>
+**Russ Limber** (University of Knoxville, Tennessee) <br>
+**Morgan Steckler** (University of Knoxville, Tennessee) <br>
+**Sophia Bailey** (Northeastern University, Boston, Massachusetts) <br>
 Co-mentored the class project of 30 graduate and undergraduate students (CIVE 5363, Spring 2021) <br>
 
 ## Teaching Roles
