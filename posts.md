@@ -28,6 +28,13 @@ How to fix the dimensions of the netCDF files?: <br>
 If you are facing issues masking NaNs of your netCDF files, Check out the following post: <br>
 [How to mask fill values in existing netcdf file?](https://sharma-bharat.github.io/Posts_Online/mask_fillvalue.html)
 
+
+<hr>
+
+Installation of Jupyter on Thesues or any other remote computer. <br>
+[Jupyter On Remote](https://www.climatemodeling.org/~bharat/Jupyter_On_Theseus.html)
+
+
 <hr>
 
 Basic Linux: <br>
@@ -43,6 +50,10 @@ Comparing two latex files: <br>
 Python for Computational Earth Sciences: <br>
 [Tutorial by Michael Kelleher (ORNL)](https://code.ornl.gov/25k/pyces)
 
+<hr>
+
+Correct word count of latex files.
+[LatexCount](https://www.ctan.org/pkg/latexcount)
 
 <hr>
 

@@ -50,14 +50,25 @@ Center for Ecosystem Science and Society Northern Arizona University. July, 2020
 **Introduction to Machine Learning**. 
 Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
+## Organisation Roles
 
+**Journal Club (ORNL)**. Summer 2018 (Attendees: 15-20)
+*The Journal Club was a informal voluntary group of students, postdocs, and ORNL personnel interested in Earth system science.* <br>
+**Responsibilities**: In-charge of scheduling and coordinating the paper presentations, and maintaining the [website](https://www.climatemodeling.org/~bharat/journal_club.html).
 
+## Mentorship Roles (1 Male, 3 Female Students)
+
+**Pragya Kandel** (University of Knoxville, Tennessee) <br>
+**Russ Limber** (University of Knoxville, Tennessee) <br>
+**Morgan Steckler** (University of Knoxville, Tennessee) <br>
+**Sophia Bailey** (Northeastern University, Boston, Massachusetts) <br>
+Co-mentored the class project of 30 graduate and undergraduate students (CIVE 5363, Spring 2021) <br>
 
 ## Teaching Roles
 
 **CIVE 5363 Climate Science, Engineering Adaptation, and Policy**. Spring 2021 <br>
 *Offers an evidence-based glimpse of what has been called a clear and present danger to mankind. Analyzes case studies from the magic of the butterfly effect in chaos theory to the deep challenges in physics, biogeochemistry, and data sciences. Covers topics from experimental design to satellite-based remote sensing, all the way to the design and operations of next-generation hydraulic infrastructures, transportation systems, smart grids, and communication networks, including the impacts on coastal or inland cities, the resilience to weather hazards, and the sustainability of water-energy-food resources. Includes policy issues and risk-informed trade-offs in renewable energy, environmental regulations, and emissions control. Graduate students are required to complete a mandatory class project.* <br>
-**Responsibilities**: Taught lectures, created study material, designed and graded assignments and conducted tutorial sessions and mentored projects for 30 graduate students. Received excellent reviews.
+**Responsibilities**: Taught lectures, created study material, designed and graded assignments and conducted tutorial sessions and mentored projects for 30 students. Received excellent reviews.
 
 **CIVE 2260 Materials for the Built Environment**. Spring 2018 <br>
 *Introduces the physical, mechanical, and chemical properties of materials of importance to civil engineers. Offers an overview of the ways in which these properties affect the material selection process, material behavior, and the design process.* <br>
@@ -71,11 +82,7 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 *Introduces engineering probability and statistics, as well as engineering economic analysis for project or design evaluation. Case studies are used to illustrate the integration of these areas in the design/system analysis process. Topics in engineering probability and statistics include descriptive statistics, expected value of random variables, and hypotheses testing. Statistical process control and sampling methods are introduced. Reliability methods for the analysis and improvement of system/design performance are discussed. Also covers fundamental concepts of time value of money and economic evaluation of alternatives, including the effects of depreciation and taxes.* <br>
 **Responsibilities**: Designed and taught tutorials, graded assignments and conducted tutorial sessions and held office hours for answering queries of 56 students.
 
-## Organisation Roles
 
-**Journal Club (ORNL)**. Summer 2018
-*The Journal Club was a informal voluntary group of students, postdocs, and ORNL personnel interested in Earth system science.*
-**Responsibilities**: In-charge of scheduling and coordinating the paper presentations, and maintaining the [website][https://www.climatemodeling.org/~bharat/journal_club.html].
 
 ## Highlights
 

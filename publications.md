@@ -6,7 +6,7 @@ featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal Publications
 
-**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman. ). 
+**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman. (2022). 
 Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300. 
 Journal of Geophysical Research - Biogeosciences.
 _Manuscript in Review_
@@ -38,7 +38,9 @@ Transport Planning.
 [Master Thesis (2016)](./papers/Sharma_masterthesis_TUM_2016.pdf) <br>
 
 
-## Dissertation
+## Ph.D. Dissertation
+
+**Advisors and Mentors :** <a href="https://coe.northeastern.edu/people/ganguly-auroop/" target="_blank">Dr. Auroop R. Ganguly</a>, <a href="https://www.ornl.gov/staff-profile/jitendra-kumar" target="_blank">Dr. Jitendra Kumar</a>, and <a href="https://www.climatemodeling.org/~forrest/" target="_blank">Dr. Forrest M. Hoffman</a>
 
 **Sharma, Bharat**, “Detection of Carbon Cycle Extremes and Attribution to Climate Drivers using upscalled GPP products and Earth System Models.”, expected 2022. Northeastern University. 
 
