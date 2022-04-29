@@ -11,11 +11,11 @@ Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and
 Journal of Geophysical Research - Biogeosciences.
 _Manuscript in Review_
 
-**Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman.
-Increased Occurrence of Climate-Induced Extremes in Biomass Productivity in the 21st Century. 
+**Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman. (2022).
+Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century
 _Manuscript in Preparation_ 
 
-**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman.
+**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman. (2022).
 Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
 _Manuscript in Preparation_ 
 
