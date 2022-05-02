@@ -42,7 +42,7 @@ Transport Planning.
 
 **Advisors and Mentors :** <a href="https://coe.northeastern.edu/people/ganguly-auroop/" target="_blank">Dr. Auroop R. Ganguly</a>, <a href="https://www.ornl.gov/staff-profile/jitendra-kumar" target="_blank">Dr. Jitendra Kumar</a>, and <a href="https://www.climatemodeling.org/~forrest/" target="_blank">Dr. Forrest M. Hoffman</a>
 
-**Sharma, Bharat**, “Detection of Carbon Cycle Extremes and Attribution to Climate Drivers using upscalled GPP products and Earth System Models.”, expected 2022. Northeastern University. 
+**Sharma, Bharat**, “Detection of Carbon Cycle Extremes and Attribution to Compound Climate Drivers using upscalled GPP products and Earth System Models.” expected 2022. Northeastern University. 
 
 
 ## Book Chapters

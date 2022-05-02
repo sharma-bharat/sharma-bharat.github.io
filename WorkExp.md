@@ -12,8 +12,8 @@ For Publications and Presentations : [Click Here!](https://sharma-bharat.github.
 ## Work Experience
 
 **Technical University of Munich (TUM), Germany** (Mar'16 - Aug'16)  <br>
-Master Thesis at Department of Urban Structure \& Transport Planning. <br>
-An approach to study interaction between evacuation and land use \& transportation structures.
+Master Thesis at Department of Urban Structure & Transport Planning. <br>
+An approach to study interaction between evacuation and land use & transportation structures.
 
 **Obermeyer Planen + Beraten GmbH, Munich, Germany** (Mar'15 - Aug'16) <br>
 Intern + Part-time employee, Department of Rail Design and Engineering. <br>
@@ -21,7 +21,7 @@ Project ‘High-speed railway between Košice and the Twin-City region Vienna-Br
 Supported Phase 1 System Development, analysis of the pre-feasibility studies, selection of suitable rail corridor and terminal locations.
 
 **Technical University of Munich (TUM), Germany** (Jun'14 - Jul'15) <br>
-Graduate Research Assistant, Department of Urban Structure \& Transport Planning. <br>
+Graduate Research Assistant, Department of Urban Structure & Transport Planning. <br>
 Project ‘MOR€CO’, aims to improve accessibility and to foster sustainable mobility by an optimized polycentric settlement development in the Alpine Space. <br>
 Estimated the mobility costs in the metropolitan region of Munich.<br>
 
