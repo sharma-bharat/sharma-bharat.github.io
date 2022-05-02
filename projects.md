@@ -10,8 +10,8 @@ description:
 **Authors:** Bharat Sharma and Benjamin Buettner <br>
 **Abstract:** The usage of the word resilience in the last decade has tremendously increased in several fields, including the field of urban planning. Generally understood as capacity to absorb and bounce back; resilience aims to prepare a person or a city for uncertainties, shocks, and stresses.
 The development of urban structure varies across the world. Recently increased awareness regarding environmental and air quality has attested the advantages of Transit Oriented Development over Transit Adjacent or Automobile-Oriented devel- opment.
-In this thesis, an attempt to analyze the response of cities with different land use structure when stuck with warning based disaster has been made. Therefore, same transport infrastructure and supply has been modeled so as to generate results close to the reality. Different parameters - for instance, evacuation time, queue lengths, vehicle travel time, average delay time, and average speed - were analyzed for both cities.
-The quantitative analysis using VISSIM 7 software confirmed the hypothesis that transit oriented developments if faced with a shock, perform better than car de- pendent city structure. <br>
+In this thesis, an attempt to analyze the response of cities with different land use structure when stuck with warning based disaster has been made. Therefore, same transport infrastructure and supply has been modeled so as to generate results close to the reality. Different parameters - for instance, evacuation time, queue lengths, vehicle travel time, average delay time, and average speed - were analyzed.
+The quantitative analysis using VISSIM 7 software confirmed the hypothesis that transit oriented developments if faced with a shock, perform better than car dependent city structure. <br>
 **Report:** [Master Thesis (2016)](./papers/Sharma_masterthesis_TUM_2016.pdf) <br>
 **Simulation:** [Congestion on Evacuation Paths](https://drive.google.com/file/d/1RmKv6HtWiJtIxZzoLH1_aY79XTkZlVrm/view?usp=sharing)
 
