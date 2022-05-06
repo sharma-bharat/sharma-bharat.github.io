@@ -30,19 +30,12 @@ cially Available Programs in Slope Stability and Simulation of Dynamic Loading. 
 & Technology. STM Journals. Volume 3, Issue 2, ISSN: 2249–8753. 
 [Download](./papers/Comparative_paper_UG.pdf) <br>
 
-## Master Thesis
-
-Sharma, Bharat. (2016). Resilience in Urban Citie: An approach to study interaction between evacuation and
-land use & transportation infrastructure. Technical University of Munich, Germany. Chair of Urban Structure and
-Transport Planning.
-[Master Thesis (2016)](./papers/Sharma_masterthesis_TUM_2016.pdf) <br>
-
 
 ## Ph.D. Dissertation
 
 **Advisors and Mentors :** <a href="https://coe.northeastern.edu/people/ganguly-auroop/" target="_blank">Dr. Auroop R. Ganguly</a>, <a href="https://www.ornl.gov/staff-profile/jitendra-kumar" target="_blank">Dr. Jitendra Kumar</a>, and <a href="https://www.climatemodeling.org/~forrest/" target="_blank">Dr. Forrest M. Hoffman</a>
 
-**Sharma, Bharat**, “Detection of Carbon Cycle Extremes and Attribution to Compound Climate Drivers using upscalled GPP products and Earth System Models.” expected 2022. Northeastern University. 
+**Sharma, Bharat**, “Quantification of Carbon Cycle Extremes Under Climate and Land Use & Cover Change and Attribution to Compound Climate Drivers.” expected 2022. Northeastern University. 
 
 
 ## Book Chapters
@@ -60,6 +53,13 @@ Codes/Software for the paper "Quantifying Carbon Cycle Extremes and Attributing 
 
 Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300, from CESM1(BGC) fully-coupled runs from 1850 to 2300, comprising of historical (1850-2005), Representative Concentration Pathway 8.5 (2005-2100), and Extension Concentration Pathway 8.5 (2101-2300). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5548153.svg)](https://doi.org/10.5281/zenodo.5548153)
 
+
+## Master Thesis
+
+Sharma, Bharat. (2016). Resilience in Urban Citie: An approach to study interaction between evacuation and
+land use & transportation infrastructure. Technical University of Munich, Germany. Chair of Urban Structure and
+Transport Planning.
+[Master Thesis (2016)](./papers/Sharma_masterthesis_TUM_2016.pdf) <br>
 
 ## Invited Presentations
 **Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman, "Quantifying the Changes in Carbon Cycle Extremes Due to Land Use Change and Attribution to Climate Drivers Through Year 2300". Reducing Uncertainties in Biogeochemical Interactions through Synthesis and Computation. Feb 19, 2021. Url: [bgc-feedbacks.org/research/presentations/](https://www.bgc-feedbacks.org/research/presentations/Sharma_RUBISCO-SFA_20210219.pdf).
