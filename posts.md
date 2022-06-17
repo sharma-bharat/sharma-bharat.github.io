@@ -32,7 +32,7 @@ If you are facing issues masking NaNs of your netCDF files, Check out the follow
 <hr>
 
 Installation of Jupyter on Thesues or any other remote computer. <br>
-[Jupyter On Remote](https://www.climatemodeling.org/~bharat/Jupyter_On_Theseus.html)
+[Jupyter On Remote](https://sharma-bharat.github.io/Posts_Online/Jupyter_On_Theseus.html)
 
 
 <hr>
