@@ -48,7 +48,7 @@ Comparing two latex files: <br>
 <hr>
 
 Python for Computational Earth Sciences: <br>
-[Tutorial by Michael Kelleher (ORNL)](https://code.ornl.gov/25k/pyces)
+[Tutorial by Michael Kelleher (ORNL)](https://code.ornl.gov/pyces/pyces-2021)
 
 <hr>
 
