@@ -3,6 +3,19 @@ layout: default
 title: Projects 
 description: 
 ---
+## Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use and Land Cover Change From 1850 to 2300
+
+![alt text](assets/images/Threshold_GPPExt_1850-2300.png "Increasing Threshold of GPP Extremes due to Climate and Land Use and Land Cover Changes")
+**Authors:** Bharat Sharma, Jitendra Kumar, Nathan Collier, Auroop Ganguly, and Forrest M. Hoffman  <br>
+**Abstract:** The increasing atmospheric carbon dioxide (CO2) mole fraction affects global climate through radiative (trapping longwave radiation) and physiological effects (reduction of plant transpiration). We use the simulations of the Community Earth System Model (CESM1-BGC) forced with Representative Concentration Pathway 8.5 to investigate climate-vegetation feedbacks from 1850 to the year 2300. Human-induced land use and land cover change (LULCC), through biogeochemical and biogeophysical processes, alter the climate and modify photosynthetic activity. The changing characteristics of extreme anomalies in photosynthesis, referred to as carbon cycle extremes, increase the uncertainty of terrestrial ecosystems to act as a net carbon sink. However, the role of LULCC in altering carbon cycle extremes under business-as-usual (continuously rising) CO2 emissions is unknown. Here we show that LULCC magnifies the intensity, frequency, and extent of carbon cycle extremes, resulting in a net reduction in expected photosynthetic activity in the future. We found that large temporally contiguous negative carbon cycle extremes are due to a persistent decrease in soil moisture, which is triggered by declines in precipitation. With LULCC and global warming, vegetation exhibits increased vulnerability to hot and dry environmental conditions, increasing the frequency of fire events and resulting in considerable losses in photosynthetic activity. While most regions show strengthening of negative carbon cycle extremes, a few locations show a weakening effect driven by declining vegetation cover or benign climate conditions for photosynthesis. Increasing hot, dry, and fire-driven carbon cycle extremes are essential for improving carbon cycle modeling and estimation of ecosystem responses to LULCC and rising CO2 mole fractions. Moreover, large aberrations in vegetation productivity represent potential and growing threats to human lives, wildlife, and food security. <br>
+
+
+
+**Paper:** [JGR Biogeosciences (2022)](https://doi.org/10.1029/2021JG006738) 
+[Download](./papers/Sharma_2022_CarbonExtremes_LULCC.pdf) <br>
+
+<hr>
+
 ## Resilience in Urban Areas : An Approach to Study Interaction between Evacuation and Land Use & Transportation Structures
 
 ![alt text](assets/images/Vissimlouisiana.jpg "VISSIM Model NOLA")
