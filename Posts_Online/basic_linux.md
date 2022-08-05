@@ -2,6 +2,8 @@
 layout: default 
 title: Posts/Basic Linux Commands
 ---
+## UCAR Linux Tutorial
+https://www.meted.ucar.edu/ucar/unix/
 
 ## Basic Linux Commands 
 Read more: https://nicojourdain.github.io/students_dir/students_linux/
