@@ -4,6 +4,7 @@ title: Posts/Basic Linux Commands
 ---
 ## UCAR Linux Tutorial
 https://www.meted.ucar.edu/ucar/unix/
+Key Commands : [link](unix_commands_takeaway.pdf)
 
 ## Basic Linux Commands 
 Read more: https://nicojourdain.github.io/students_dir/students_linux/
