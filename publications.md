@@ -12,7 +12,7 @@ featured-img: assets/images/earth-wide.jpg
 Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century
 _Manuscript in Preparation_ 
 
-**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman. (2022).
+**Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman. (2022).
 Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
 _Manuscript in Preparation_ 
 
