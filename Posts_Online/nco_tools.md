@@ -150,9 +150,46 @@ ncks -d time,1560,1919 bnu_gpp_regrid_sel.nc bnu_gpp_regrid_sel_time.nc
 ncks -d lat,0,179 bnu_gpp_regrid_sel_time.nc bnu_gpp_regrid_sel_time_l1.nc
 ncks -d time,12,1151 b.e10.BRCP85BDRD.pftcon.f09_g16.001.clm2.h0.SMOIST.200501-210012.nc rcp.nc
 ```
+
+ncks is smart to understand time slices
+slicing time period 2001-01-01 to 2013-12-31
+e.g.
+```
+ncks -d time,2001-01-01,2013-12-31 CESM2_ssp585_r1i1p1f1_gpp_anomalies_gC.nc CESM2_ssp585_r1i1p1f1_gpp_anomalies_gC_2001_2013.nc
+```
 ---
 ## Change the type of the variable
 
 `ncap2 -s 'var2=double(var1)' in.nc out.nc`
 
 ---
+
+## Computing the temporal standard deviation
+Calculate the temporal standard deviation
+See the [NCO manual](http://nco.sourceforge.net/nco.html#Operation-Types) on this but, in short, the commands are:
+
+```
+#Calculate the time mean of variable_name.
+ncwa -O -v tas -a time CESM2_ssp585_r1i1p1f1_anomalies_tas_2001_2013.nc out.nc
+#Calculate the deviations with respect to the mean.
+ncbo -O -v tas CESM2_ssp585_r1i1p1f1_anomalies_tas_2001_2013.nc out.nc out.nc
+#Sum the square of the deviations, divide by (N-1), and take the square root
+ncra -O -y rmssdn out.nc out.nc
+mv out.nc CESM2_ssp585_r1i1p1f1_anomalies_tas_2001_2013_std.nc                  
+```
+---
+
+## sum over a time dimension
+
+To sum over a dimension, for example to sum a file of daily precipitation to obtain an annual total
+```
+ncra -h -O -y ttl in.nc out.nc
+```
+---
+
+## To get rid of the time dimension with the length of 1 month
+Best way: 
+ncwa automatically removes the averaged dimensions from the coordinates attribute
+ncwa -O -v tas -a time CESM2_ssp585_r1i1p1f1_anomalies_tas_2001_2013_std2.nc out.nc
+
+
