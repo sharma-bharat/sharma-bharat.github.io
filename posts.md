@@ -34,6 +34,11 @@ If you are facing issues masking NaNs of your netCDF files, Check out the follow
 Installation of Jupyter on Thesues or any other remote computer. <br>
 [Jupyter On Remote](https://sharma-bharat.github.io/Posts_Online/Jupyter_On_Theseus.html)
 
+<hr>
+
+Setting up conda enviroment using the environment file. <br>
+Contains the conda environment that contains required packages from analysis of Earth System Simulation Data <br>
+[Setting Conda Env](https://sharma-bharat.github.io/Posts_Online/conda_env.html)
 
 <hr>
 
