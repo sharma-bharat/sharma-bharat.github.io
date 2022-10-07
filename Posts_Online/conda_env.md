@@ -11,3 +11,6 @@ My conda env (pyces) file : [link](env_pyces.yml)
 conda env create -f env_pyces.yml
 
 ```
+
+## My *.vimrc* file
+Download [link](.vimrc)
