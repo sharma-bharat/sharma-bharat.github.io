@@ -41,6 +41,11 @@ Project with TUM, BMW Automobiles, MVV (Public Transport Company) and City of Mu
 Examined whether the new BMW Innovation and Research Center successfully fitted into the Northern Munich by analyzing spatial strategies, current development projects and the inter-action of non-motorized mobility, and provided measures like location of transit station, convenient stores and bike paths among other steps to plan better transit.
 
 
+## Services
+
+**Program Committee, DMESS 2022** [link](https://www.climatemodeling.org/workshops/dmess2022/)
+
+
 ## Certifications
 
 **Machine Learning by Stanford University**, 
