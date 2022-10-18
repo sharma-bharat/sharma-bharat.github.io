@@ -19,7 +19,12 @@ Packages that are not included in *env_pyces.yml* file are as follows
 
 brew install nco
 brew install ncview
+```
 
+for pdflatex to work offline (source: https://sourabhbajaj.com/mac-setup/LaTeX/): <br>
+
+```
+brew install --cask mactex
 ```
 
 ## My *.vimrc* file
