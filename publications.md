@@ -4,8 +4,7 @@ title: Publications
 description: 
 featured-img: assets/images/earth-wide.jpg
 ---
-## Journal Publications
-
+## Journal and Conference Papers
 **Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., & Hoffman, F. M. (2022). Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300. Journal of Geophysical Research: Biogeosciences, 127, e2021JG006738. [https://doi.org/10.1029/2021JG006738](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JG006738). [Download](./papers/Sharma_2022_CarbonExtremes_LULCC.pdf)
 
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2022).
