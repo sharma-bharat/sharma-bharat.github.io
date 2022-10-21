@@ -27,5 +27,12 @@ for pdflatex to work offline (source: https://sourabhbajaj.com/mac-setup/LaTeX/)
 brew install --cask mactex
 ```
 
+## Install Macports
+
+https://www.macports.org/install.php
+
 ## My *.vimrc* file
 Download [link](.vimrc)
+
+## XQuatz
+https://www.xquartz.org/ 
