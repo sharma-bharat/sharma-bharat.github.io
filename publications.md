@@ -9,7 +9,7 @@ featured-img: assets/images/earth-wide.jpg
 
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2022).
 Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes
-Proceedings of the 2019 IEEE International Conference on Data Mining Workshops (ICDMW 2022). 
+Proceedings of the 2022 IEEE International Conference on Data Mining Workshops (ICDMW 2022). 
 Institute of Electrical and Electronics Engineers (IEEE), Conference Publishing Services (CPS). 
 [Download](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf), Accepted, Oct 2022. Presentation [link](https://docs.google.com/presentation/d/1dqk7v7TJbtoGt4UzblRbH3VisS1Jn79duDdglGfubkY/edit?usp=sharing).
 
@@ -70,11 +70,26 @@ Transport Planning.
 
 ## Conference Presentations
 
+**Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M.
+November 28, 2022.
+``Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes (S10106).''
+10th Workshop on Data Mining in Earth System Science (DMESS 2022).
+IEEE International Conference on Data Mining Workshops (ICDMW 2022).
+Orlando, FL, USA.
+Proceedings of the 2019 IEEE International Conference on Data Mining Workshops (ICDMW 2022).
+
 **Sharma, Bharat**, Jitendra Kumar, Forrest M. Hoffman, and Auroop R. Ganguly. 
 December 17, 2021. 
 “Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.” 
 Improving Earth System Predictability (B041), 
-American Geophysical Union Fall Meeting. New Orleans, LA. 
+American Geophysical Union Fall Meeting. New Orleans, LA, USA. 
+[AGU](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=71-89-8B-05-7E-BE-42-CF-33-5D-F5-8A-F4-6A-77-AC&guestview=true).
+
+**Sharma, Bharat**, Jitendra Kumar, Forrest M. Hoffman, and Auroop R. Ganguly. 
+December 17, 2021. 
+“Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.” 
+Improving Earth System Predictability (B041), 
+American Geophysical Union Fall Meeting. New Orleans, LA, USA. 
 [AGU](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=71-89-8B-05-7E-BE-42-CF-33-5D-F5-8A-F4-6A-77-AC&guestview=true).
 
 Morgan Steckler, **Sharma, Bharat**, Forrest M. Hoffman, William W. Hargrove and Jitendra Kumar. 
@@ -82,7 +97,7 @@ December 14, 2021.
 "Effects of meteorological and ecological disturbances on tropical vegetation phenology." 
 Understanding Phenological Responses and Feedbacks in Terrestrial Vegetation: 
 Patterns, Mechanisms, and Consequences (B33D), 
-American Geophysical Union Fall Meeting. New Orleans, LA.
+American Geophysical Union Fall Meeting. New Orleans, LA, USA.
 
 **Sharma, Bharat**, Jitendra Kumar, Forrest M. Hoffman, and Auroop R. Ganguly. 
 December 12, 2020.  
