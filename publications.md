@@ -37,7 +37,7 @@ cially Available Programs in Slope Stability and Simulation of Dynamic Loading. 
 
 **Advisors and Mentors :** <a href="https://coe.northeastern.edu/people/ganguly-auroop/" target="_blank">Dr. Auroop R. Ganguly</a>, <a href="https://www.ornl.gov/staff-profile/jitendra-kumar" target="_blank">Dr. Jitendra Kumar</a>, and <a href="https://www.climatemodeling.org/~forrest/" target="_blank">Dr. Forrest M. Hoffman</a>
 
-**Sharma, Bharat**, “Quantification of Carbon Cycle Extremes Under Climate and Land Use & Cover Change and Attribution to Compound Climate Drivers.” expected 2022. Northeastern University. 
+**Sharma, Bharat**, “Analysis Of Global Carbon Cycle Extremes, Their Compound Climate Drivers, And Implications For Terrestrial Carbon Cycle.” 2022. Northeastern University, Boston, MA, USA. 
 
 
 ## Book Chapters
