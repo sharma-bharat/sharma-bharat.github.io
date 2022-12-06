@@ -77,7 +77,8 @@ December 15, 2022.
 “Quantifying Extremes in Net Biospheric Production and Attribution to Compound Climate Drivers” (B42H-1732).
 New Mechanisms, Feedbacks, and Approaches for Predicting Global Biogeochemical Cycles Under Climate Change and Intervention (B42H), 
 American Geophysical Union Fall Meeting. Chicago, IL, USA. 
-[AGU](https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=80-06-58-73-5B-F3-2E-60-CF-02-2C-5A-F1-CD-4F-84&guestview=true).
+[AGU-iposter](https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=80-06-58-73-5B-F3-2E-60-CF-02-2C-5A-F1-CD-4F-84&guestview=true).
+[AGU-poster](./papers/Sharma_CCextremes_AGU_2022.pdf)
 
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M.
 November 28, 2022.
