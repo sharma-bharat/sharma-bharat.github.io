@@ -11,7 +11,9 @@ featured-img: assets/images/earth-wide.jpg
 Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes
 Proceedings of the 2019 IEEE International Conference on Data Mining Workshops (ICDMW 2022). 
 Institute of Electrical and Electronics Engineers (IEEE), Conference Publishing Services (CPS). 
-[Download](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf), Accepted, Oct 2022. Presentation [link](https://docs.google.com/presentation/d/1dqk7v7TJbtoGt4UzblRbH3VisS1Jn79duDdglGfubkY/edit?usp=sharing).
+[Download](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf), Accepted, Oct 2022. 
+doi.org/10.1109/ICDMW58026.2022.00148.
+Presentation [link](https://docs.google.com/presentation/d/1dqk7v7TJbtoGt4UzblRbH3VisS1Jn79duDdglGfubkY/edit?usp=sharing).
 
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2022).
 Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century
