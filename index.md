@@ -19,7 +19,5 @@ Bharat Sharma has a Ph.D. in Interdisciplinary Engineering (Department of Civil 
 <br>
 
 <br>
-## Ph.D. Big Picture
 
-![test image size](./assets/images/BigPicture.png){:width="95%"}
 
