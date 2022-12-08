@@ -23,6 +23,8 @@ Bharat Sharma has a Ph.D. in Interdisciplinary Engineering (Department of Civil 
 
 ## Improving the vegetation representation in the Earth system models.
 
+See: [climatemodeling.science.energy.gov/.../fates](https://climatemodeling.science.energy.gov/technical-highlights/fates-e3sm-functionally-assembled-terrestrial-ecosystem-simulator)
+
 ![test image size](./assets/images/EBSD_FATES.png){:width="95%"}
 
 
