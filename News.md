@@ -12,5 +12,5 @@ description:
 
 | Dec 15, 2022| Chicago, IL|
 |---|---|
-|Presented my paper ``Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century" [link](https://doi.org/10.5194/bg-2022-178) in Amercian Geophysical Union 2022 annual meeting in Chicago, IL. #AGU2022. |![AGU2022, Dec 15, 2022](./assets/images/news/agu22.png) |
+|Presented my paper ``Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century" [link](https://doi.org/10.5194/bg-2022-178) in Amercian Geophysical Union 2022 annual meeting in Chicago, IL. #AGU2022. |![AGU2022, Dec 15, 2022](./assets/images/news/agu2022.jpg) |
 
