@@ -22,6 +22,6 @@ description:
 | | |
 | Aug 31, 2022| Oak Ridge, TN|
 |---|---|
-|Defended my Ph.D. titled ``[Analysis Of Global Carbon Cycle Extremes, Their Compound Climate Drivers, And Implications For Terrestrial Carbon Cycle.](./papers/Sharma_PhD_Dissertation.pdf)''. |![PhD Defense, Aug 31, 2022](./assets/images/news/phd_defense.jpg)|
+|Defended my Ph.D. titled ``[Analysis Of Global Carbon Cycle Extremes, Their Compound Climate Drivers, And Implications For Terrestrial Carbon Cycle.](./papers/Sharma_PhD_Dissertation.pdf)'' |![PhD Defense, Aug 31, 2022](./assets/images/news/phd_defense.jpg)|
 |---|---|
 | | |
