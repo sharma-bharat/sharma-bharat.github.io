@@ -76,7 +76,7 @@ Transport Planning.
 “Increased Intensity of Carbon Cycle Extremes Driven by Land Use and Land Cover Change” (Poster ID 45),
 Land Use and Land Cover Change—Interactions with Weather and Climate.
 American Meteorological Society’s 36th Conference on Climate Variability and Change, 8-12 Jan 2023, Denver, CO, USA.
-[AGU-poster](./papers/poster_ams23.pdf)
+[AMS-poster](./papers/poster_ams23.pdf)
 
 **Sharma, Bharat**, Jitendra Kumar, Forrest M. Hoffman, and Auroop R. Ganguly. 
 December 15, 2022. 
