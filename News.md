@@ -20,5 +20,8 @@ description:
 |Presented my recent paper titled ``[Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf)'' at the 10th Workshop on Data Mining in Earth System Science (DMESS 2022), IEEE International Conference on Data Mining Workshops (ICDMW 2022) in Orlando, FL, USA. |![ICDM2022, Nov 28, 2022](./assets/images/news/ICDM_Pic.png)|
 |---|---|
 | | |
-
-
+| Aug 31, 2022| Oak Ridge, TN|
+|---|---|
+|Defended my Ph.D. titled ``[Analysis Of Global Carbon Cycle Extremes, Their Compound Climate Drivers, And Implications For Terrestrial Carbon Cycle.](./papers/Sharma_PhD_Dissertation.pdf)''. |![PhD Defense, Aug 31, 2022](./assets/images/news/phd_defense.jpg)|
+|---|---|
+| | |
