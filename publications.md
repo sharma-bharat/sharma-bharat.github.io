@@ -86,6 +86,21 @@ American Geophysical Union Fall Meeting. Chicago, IL, USA.
 [AGU-iposter](https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=80-06-58-73-5B-F3-2E-60-CF-02-2C-5A-F1-CD-4F-84&guestview=true).
 [AGU-poster](./papers/Sharma_CCextremes_AGU_2022.pdf)
 
+Pragya Kandel, **Sharma, Bharat**, Jitendra Kumar, and Forrest M. Hoffman. 
+December 16, 2022. 
+“Drought Susceptibility and Response Across Different Vegetation Types in California” (H55A-04).
+Evapotranspiration (ET): Advances in in Situ ET Measurements and Remote-Sensing-Based ET Estimation, Mapping, and Evaluation (H55A), 
+American Geophysical Union Fall Meeting. Chicago, IL, USA. 
+[AGU-iposter](https://agu2022fallmeeting-agu.ipostersessions.com/?s=E8-CC-71-DA-76-92-8B-AF-03-5E-3C-EA-AD-A7-F7-84)
+
+Shamik Bhattacharya, Forrest M. Hoffman, **Sharma, Bharat**, Nathan Collier, and Min Xu. 
+December 15, 2022. 
+“Using Statistical Learning Methods to Accelerate Model Parameter Sensitivity Experiments” (B42H-1731).
+New Mechanisms, Feedbacks, and Approaches for Predicting Global Biogeochemical Cycles Under Climate Change and Intervention (B42H), 
+American Geophysical Union Fall Meeting. Chicago, IL, USA. 
+[AGU-poster](https://www.researchgate.net/publication/366528084_Using_Statistical_Learning_Methods_to_Accelerate_Model_Parameter_Sensitivity_Experiments)
+**Received Best Student Presentation Award**
+
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M.
 November 28, 2022.
 ``Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes (S10106).''
