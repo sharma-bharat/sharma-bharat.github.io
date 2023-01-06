@@ -91,7 +91,7 @@ December 16, 2022.
 “Drought Susceptibility and Response Across Different Vegetation Types in California” (H55A-04).
 Evapotranspiration (ET): Advances in in Situ ET Measurements and Remote-Sensing-Based ET Estimation, Mapping, and Evaluation (H55A), 
 American Geophysical Union Fall Meeting. Chicago, IL, USA. 
-[AGU-iposter](https://agu2022fallmeeting-agu.ipostersessions.com/?s=E8-CC-71-DA-76-92-8B-AF-03-5E-3C-EA-AD-A7-F7-84)
+[AGU-iposter](https://agu2022fallmeeting-agu.ipostersessions.com/?s=E8-CC-71-DA-76-92-8B-AF-03-5E-3C-EA-AD-A7-F7-84). **Received Best Student Presentation Award**
 
 Shamik Bhattacharya, Forrest M. Hoffman, **Sharma, Bharat**, Nathan Collier, and Min Xu. 
 December 15, 2022. 
@@ -99,7 +99,7 @@ December 15, 2022.
 New Mechanisms, Feedbacks, and Approaches for Predicting Global Biogeochemical Cycles Under Climate Change and Intervention (B42H), 
 American Geophysical Union Fall Meeting. Chicago, IL, USA. 
 [AGU-poster](https://www.researchgate.net/publication/366528084_Using_Statistical_Learning_Methods_to_Accelerate_Model_Parameter_Sensitivity_Experiments)
-**Received Best Student Presentation Award**
+
 
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M.
 November 28, 2022.
