@@ -2,9 +2,14 @@
 layout: default
 title: News 
 description: 
----
+---I am excited to share that I received Best Student Presenter award for the my work in Drought susceptibility across different natural biomes in AGU fall meeting 2022 in Chicago.
 |Date|Place|
 |---|---|
+| Dec 16, 2022| Chicago, IL|
+|---|---|
+|Pragya received Best Student Presenter award for the her work in Drought susceptibility across different natural biomes in AGU fall meeting 2022 in Chicago.|![Best Student Presentation, Dec 16, 2022](./assets/images/news/pragya_agu22.jpeg) |
+|---|---|
+| | |
 | Dec 15, 2022| Chicago, IL|
 |---|---|
 |Presented my paper ``[Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century](https://doi.org/10.5194/bg-2022-178)'' in Amercian Geophysical Union 2022 annual meeting in Chicago, IL. #AGU2022. |![AGU2022, Dec 15, 2022](./assets/images/news/agu2022.jpg) |
