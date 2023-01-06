@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Bharat Sharma
-role: PhD Candidate
-affiliation: Northeastern University<br>Oak Ridge National Lab <br> Oak Ridge, TN 37830
+role: Postdoctoral Research Associate
+affiliation: Oak Ridge National Lab <br> Oak Ridge, TN 37830
 contact: bharat.sharma.neu@gmail.com <br> sharmabd@ornl.gov <br> 
 description: Earth System Modeling, Machine Learning, Data Science, and Earth Sciences
 
