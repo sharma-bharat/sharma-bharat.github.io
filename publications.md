@@ -39,10 +39,9 @@ cially Available Programs in Slope Stability and Simulation of Dynamic Loading. 
 
 **Advisors and Mentors :** <a href="https://coe.northeastern.edu/people/ganguly-auroop/" target="_blank">Dr. Auroop R. Ganguly</a>, <a href="https://www.ornl.gov/staff-profile/jitendra-kumar" target="_blank">Dr. Jitendra Kumar</a>, and <a href="https://www.climatemodeling.org/~forrest/" target="_blank">Dr. Forrest M. Hoffman</a>
 
-**Sharma, Bharat**, “Analysis Of Global Carbon Cycle Extremes, Their Compound Climate Drivers, And Implications For Terrestrial Carbon Cycle.” 2022. Northeastern University, Boston, MA, USA. <br>
-Sharma, B. (2022). Analysis of global carbon cycle extremes, their compound climate drivers, and implications for terrestrial carbon cycle (Order No. 29995192).
-Available from ProQuest Dissertations & Theses Global. (2760002697). 
-[Download here!](https://www.proquest.com/dissertations-theses/analysis-global-carbon-cycle-extremes-their/docview/2760002697/se-2)
+**Sharma, Bharat**, “Analysis Of Global Carbon Cycle Extremes, Their Compound Climate Drivers, And Implications For Terrestrial Carbon Cycle.” 2022. Northeastern University, Boston, MA, USA. https://www.proquest.com/dissertations-theses/analysis-global-carbon-cycle-extremes-their/docview/2760002697/se-2.
+
+Sharma, Bharat. "Analysis of Global Carbon Cycle Extremes, their Compound Climate Drivers, and Implications for Terrestrial Carbon Cycle." Order No. 29995192, Northeastern University, 2022. 
 
 ## Book Chapters
 
