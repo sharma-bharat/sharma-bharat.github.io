@@ -2,7 +2,8 @@
 layout: default
 title: News 
 description: 
----I am excited to share that I received Best Student Presenter award for the my work in Drought susceptibility across different natural biomes in AGU fall meeting 2022 in Chicago.
+---
+
 |Date|Place|
 |---|---|
 | Dec 16, 2022| Chicago, IL|
