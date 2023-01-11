@@ -6,6 +6,11 @@ description:
 
 |Date|Place|
 |---|---|
+| Jan 9, 2022| Chicago, IL|
+|---|---|
+|Presented poster titled ``[Increased Intensity of Carbon Cycle Extremes Driven by Land Use and Land Cover Change (Poster ID 45)](https://doi.org/10.1029/2021JG006738)'' in Amercian Meteorological Society’s 36th Conference on Climate Variability and Change in Denver, CO. #AMS2023.|![AMS2023, Jan 8, 2032](./assets/images/news/ams2023.jpg) |
+|---|---|
+| | |
 | Dec 16, 2022| Chicago, IL|
 |---|---|
 |Pragya received Best Student Presenter award for the her work in Drought susceptibility across different natural biomes in AGU fall meeting 2022 in Chicago.|![Best Student Presentation, Dec 16, 2022](./assets/images/news/pragya_agu22.jpeg) |
