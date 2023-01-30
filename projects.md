@@ -46,6 +46,14 @@ The quantitative analysis using VISSIM 7 software confirmed the hypothesis that 
 
 <hr>
 
+## Class Projects
+
+### Investigating Resiliency of U.S. Airlines Network
+**Authors:** Bharat Sharma and Lizzy Warner
+**Presentation:** [Investigating Resiliency of U.S. Airlines Network (2016)<sup>*</sup>](./presentations/Sharma_Warner_CNFinalPresentation.pdf) <br>
+
+<hr>
+
 _* Name changed in 2016_
 
 <!---
