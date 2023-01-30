@@ -49,24 +49,16 @@ The quantitative analysis using VISSIM 7 software confirmed the hypothesis that 
 ## Selected Class Projects
 [Investigating Resiliency of U.S. Airlines Network (2016)](./presentations/Sharma_Warner_CNFinalPresentation.pdf) by Bharat Sharma and Lizzy Warner.  <br>
 
-**Authors:** Bharat Sharma and Lizzy Warner
-**Presentation:** [Investigating Resiliency of U.S. Airlines Network (2016)](./presentations/Sharma_Warner_CNFinalPresentation.pdf) <br>
+[Overview of Public Transportation in the City Chandigarh, India (2015)](./presentations/Local_Public_Transportation_Chandigarh.pdf) by Bharat Sharma <br>
 
-**Authors:** Bharat Sharma
-**Presentation:** [Overview of Public Transportation in the City Chandigarh, India (2015)](./presentations/Local_Public_Transportation_Chandigarh.pdf) <br>
+[Dynamics of Air Transport:  There is more to it than just Flying (2014)](./presentations/Dynamics_of_Air_Transport.pdf) by Bharat Sharma <br>
 
-**Authors:** Bharat Sharma
-**Presentation:** [Dynamics of Air Transport:  There is more to it than just Flying (2014)](./presentations/Dynamics_of_Air_Transport.pdf) <br>
+[Third Runway at Munich Airport: Planning, Protests and Progressn (2014)](./presentations/Runway_Three_Munich.pdf) by Bharat Sharma <br>
 
-**Authors:**  Bharat Sharma
-**Presentation:** [Third Runway at Munich Airport: Planning, Protests and Progressn (2014)](./presentations/Runway_Three_Munich.pdf) <br>
+[Accessibility to Primary Education with respect to Fuel Price Hikes (2014)](./presentations/Sharma_Accessibility.pdf) by Bharat Sharma <br>
 
-**Authors:** Bharat Sharma
-**Presentation:** [Accessibility to Primary Education with respect to Fuel Price Hikes (2014)](./presentations/Sharma_Accessibility.pdf) <br>
-
-**Authors:**  Bharat Sharma, Aslam Zuhair, Karakikes Ioannis, Karatsoli Maria, Keen Umair Hamid, and Politi Stamatia
-**Presentation:** [Congestion Pricing in the city of London (2014)](./presentations/Congestion_Prising_Case_Study_London.pdf) <br>
-   
+[Congestion Pricing in the city of London (2014)](./presentations/Congestion_Prising_Case_Study_London.pdf) by Bharat Sharma, Aslam Zuhair, Karakikes Ioannis, Karatsoli Maria, Keen Umair Hamid, and Politi Stamatia <br>
+  
 
 <hr>
 
