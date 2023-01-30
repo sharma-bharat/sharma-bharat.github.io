@@ -55,7 +55,7 @@ The quantitative analysis using VISSIM 7 software confirmed the hypothesis that 
 
 [Third Runway at Munich Airport: Planning, Protests and Progressn (2014)](./presentations/Runway_Three_Munich.pdf) by Bharat Sharma <br>
 
-[Accessibility to Primary Education with respect to Fuel Price Hikes (2014)](./presentations/Sharma_Accessibility.pdf) by Bharat Sharma <br>
+[Accessibility to Primary Education with respect to Fuel Price Hikes (2014)](./presentations/Sharma_Accessibility.jpg) by Bharat Sharma <br>
 
 [Congestion Pricing in the city of London (2014)](./presentations/Congestion_Prising_Case_Study_London.pdf) by Bharat Sharma, Aslam Zuhair, Karakikes Ioannis, Karatsoli Maria, Keen Umair Hamid, and Politi Stamatia <br>
   
