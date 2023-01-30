@@ -56,7 +56,15 @@ The quantitative analysis using VISSIM 7 software confirmed the hypothesis that 
 **Authors:** Bharat Sharma
 **Presentation:** [Dynamics of Air Transport:  There is more to it than just Flying (2014)](./presentations/Dynamics_of_Air_Transport.pdf) <br>
 
+**Authors:**  Bharat Sharma
+**Presentation:** [Third Runway at Munich Airport: Planning, Protests and Progressn (2014)](./presentations/Runway_Three_Munich.pdf) <br>
 
+**Authors:** Bharat Sharma
+**Presentation:** [Accessibility to Primary Education with respect to Fuel Price Hikes (2014)](./presentations/Sharma_Accessibility.pdf) <br>
+
+**Authors:**  Bharat Sharma, Aslam Zuhair, Karakikes Ioannis, Karatsoli Maria, Keen Umair Hamid, and Politi Stamatia
+**Presentation:** [Congestion Pricing in the city of London (2014)](./presentations/Congestion_Prising_Case_Study_London.pdf) <br>
+   
 
 <hr>
 
