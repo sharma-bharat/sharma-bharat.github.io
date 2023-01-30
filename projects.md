@@ -50,6 +50,14 @@ The quantitative analysis using VISSIM 7 software confirmed the hypothesis that 
 **Authors:** Bharat Sharma and Lizzy Warner
 **Presentation:** [Investigating Resiliency of U.S. Airlines Network (2016)](./presentations/Sharma_Warner_CNFinalPresentation.pdf) <br>
 
+**Authors:** Bharat Sharma
+**Presentation:** [Overview of Public Transportation in the City Chandigarh, India (2015)](./presentations/Local_Public_Transportation_Chandigarh.pdf) <br>
+
+**Authors:** Bharat Sharma
+**Presentation:** [Dynamics of Air Transport:  There is more to it than just Flying (2014)](./presentations/Dynamics_of_Air_Transport.pdf) <br>
+
+
+
 <hr>
 
 _* Name changed in 2016_
