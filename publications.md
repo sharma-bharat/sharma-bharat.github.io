@@ -10,7 +10,7 @@ featured-img: assets/images/earth-wide.jpg
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2022).
 Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes.
 2022 IEEE International Conference on Data Mining Workshops (ICDMW), Orlando, FL, USA, 2022, pp. 1136-1143.
-[doi: 10.1109/ICDMW58026.2022.00148](https://doi.org/10.1109/ICDMW58026.2022.00148).
+[https://doi.org/10.1109/ICDMW58026.2022.00148](https://doi.org/10.1109/ICDMW58026.2022.00148).
 [Download](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf).
 [Presentation link](https://docs.google.com/presentation/d/1dqk7v7TJbtoGt4UzblRbH3VisS1Jn79duDdglGfubkY/edit?usp=sharing).
 
