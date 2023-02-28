@@ -6,6 +6,11 @@ description:
 
 |Date|Place|
 |---|---|
+| Feb 10, 2023| Oak Ridge, TN, USA|
+|---|---|
+|Our Paper ``[Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes](https://doi.org/10.1109/ICDMW58026.2022.00148)'' became online.|![IEEE Paper Online](./assets/images/news/IEEE_paper_image.png) |
+|---|---|
+| | |
 | Jan 9, 2023| Denver, CO, USA|
 |---|---|
 |Presented poster titled ``[Increased Intensity of Carbon Cycle Extremes Driven by Land Use and Land Cover Change (Poster ID 45)](https://doi.org/10.1029/2021JG006738)'' in Amercian Meteorological Society’s 36th Conference on Climate Variability and Change in Denver, CO. #AMS2023.|![AMS2023, Jan 8, 2023](./assets/images/news/ams2023.jpg) |
