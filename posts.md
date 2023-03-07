@@ -56,7 +56,8 @@ Python for Computational Earth Sciences: <br>
 [Tutorial by Michael Kelleher (ORNL)](https://code.ornl.gov/pyces/pyces-2021) <br>
 <br>
 Tutorial for UTK (2023) CMIP6 Analysis: <br>
-[Tutoral by Bharat Sharma (ORNL)](https://docs.google.com/presentation/d/1HMX8UHSFLMG0bS5-2OkjnS9jubD_4eOBIN7EuV1Uns8/edit?usp=sharing) <br> 
+[Slides](https://docs.google.com/presentation/d/1HMX8UHSFLMG0bS5-2OkjnS9jubD_4eOBIN7EuV1Uns8/edit?usp=sharing) <br> 
+[Notebook](https://github.com/sharma-bharat/Tutorials_by_Bharat/blob/main/UTK_2023.ipynb) <br> 
 
 <hr>
 
