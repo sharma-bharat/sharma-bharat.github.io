@@ -78,4 +78,5 @@ Organising Journal Club 2018, ORNL! Let's talk Science! <br>
 <hr>
 
 Temp
-[Results](Posts_Online/Reading_Annual_Files.html)
+[Jupyter Notebook TS Results](Posts_Online/Reading_Annual_Files.html)
+[Results_Slides](https://docs.google.com/presentation/d/1qHHDj-9KoXMP8Uc3Q9a5owBU7elKO9AbFanhOPVpQLQ/edit#slide=id.g21e4f699372_0_0)
