@@ -6,6 +6,11 @@ description:
 
 |Date|Place|
 |---|---|
+| Mar 27, 2023| Potomac, MD, USA|
+|---|---|
+|Presented poster titled ``[Investigating the CO 2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/node/speakerprofile-bharat-sharma-oak-ridge-national-laboratory)'' in the [Anthromes, CO2, and Terrestrial Carbon](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/page/home) symposium in Potomac, MD, USA. Mar 27-31, 2023.|![Poster presentation](./assets/images/news/anthromes_23_pic.jpg) |
+|---|---|
+| | |
 | Feb 10, 2023| Oak Ridge, TN, USA|
 |---|---|
 |Our Paper ``[Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes](https://doi.org/10.1109/ICDMW58026.2022.00148)'' became online.|![IEEE Paper Online](./assets/images/news/IEEE_paper_image.png) |

@@ -66,7 +66,12 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 ## Organisation Roles
 
-**Journal Club (ORNL)**. Summer 2018 (Attendees: 15-20)
+**Session Chair**, Mar 28 2023 (Attendees: 45-60)
+Session 7: CO2-fertilization and human land-use contributions to future terrestrial carbon storage.
+[Anthromes, CO2, and Terrestrial Carbon](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/page/home) symposium in Potomac, MD, USA. Mar 27-31, 2023.
+**Responsibilities**: Introducing presenters, managing time, transitions and questions.
+
+**Journal Club (ORNL)**, Summer 2018 (Attendees: 15-20)
 *The Journal Club was a informal voluntary group of students, postdocs, and ORNL personnel interested in Earth system science. The Journal Club met every other week to discuss a relatively short and recent paper focused on climate dynamics, hydrology, terrestrial or marine ecosystems, human systems, computational methods, remote sensing, observational data, big data analytics, or related topics. Papers were chosen by the group from suggestions from the membership.* <br>
 **Responsibilities**: In-charge of scheduling and coordinating the paper presentations, and maintaining the [website](https://www.climatemodeling.org/~bharat/journal_club.html).
 
