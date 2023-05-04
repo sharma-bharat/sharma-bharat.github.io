@@ -54,6 +54,9 @@ Springer Proceedings in Complexity. Springer, Cham.
 
 ## Data/Software Publications
 
+Codes for Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century, 2023,
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7854623.svg)](https://doi.org/10.5281/zenodo.7854623)
+
 Codes/Software for the paper "Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300", 2022, [![DOI](https://zenodo.org/badge/413554760.svg)](https://zenodo.org/badge/latestdoi/413554760)
 
 Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300, from CESM1(BGC) fully-coupled runs from 1850 to 2300, comprising of historical (1850-2005), Representative Concentration Pathway 8.5 (2005-2100), and Extension Concentration Pathway 8.5 (2101-2300). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5548153.svg)](https://doi.org/10.5281/zenodo.5548153)
