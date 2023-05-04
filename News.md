@@ -6,6 +6,11 @@ description:
 
 |Date|Place|
 |---|---|
+| Mar 8, 2023| Knoxville, TN, USA|
+|---|---|
+|Took an invited [lecture/tutorial](https://github.com/sharma-bharat/Tutorials_by_Bharat/blob/main/UTK_2023.ipynb) in UTK to teach students how to access the CMIP6 data and use Python to analyze the simulation outputs. |![Addressing doubts](./assets/images/news/UT_class_2023.jpg) |
+|---|---|
+| | |
 | Mar 27, 2023| Potomac, MD, USA|
 |---|---|
 |Presented poster titled ``[Investigating the CO 2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/node/speakerprofile-bharat-sharma-oak-ridge-national-laboratory)'' in the [Anthromes, CO2, and Terrestrial Carbon](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/page/home) symposium in Potomac, MD, USA. Mar 27-31, 2023.|![Poster presentation](./assets/images/news/anthromes_23_pic.jpg) |
