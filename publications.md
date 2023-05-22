@@ -5,6 +5,11 @@ description:
 featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal and Conference Papers
+
+**Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2023).
+Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century.
+Biogeosciences, 20, 1829–1841, [https://doi.org/10.5194/bg-20-1829-2023](https://doi.org/10.5194/bg-20-1829-2023)
+
 **Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., & Hoffman, F. M. (2022). Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300. Journal of Geophysical Research: Biogeosciences, 127, e2021JG006738. [https://doi.org/10.1029/2021JG006738](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JG006738). [Download](./papers/Sharma_2022_CarbonExtremes_LULCC.pdf)
 
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2022).
@@ -26,7 +31,6 @@ Sharma R. K., Khandelwal, T. and **Sharma, Bharat**<sup>*</sup>. (2013). Compact
 Soil Modified with Beas Sand, Fly Ash, and Waste Ceramic. Recent Trends in Civil Engineering & Technology.
 STM Journals. Volume 3, Issue 2, ISSN: 2249–8753. 
 [Download](./papers/Characteristic_paper_UG.pdf) <br>
-
 
 Khandelwal, T., **Sharma, Bharat**<sup>*</sup>, Thareja, P. and Sharma R. K. (2013). Comparative Study of various Commer-
 cially Available Programs in Slope Stability and Simulation of Dynamic Loading. Recent Trends in Civil Engineering

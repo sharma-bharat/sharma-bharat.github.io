@@ -3,9 +3,19 @@ layout: default
 title: News 
 description: 
 ---
-
+2023_ESS_PI
 |Date|Place|
 |---|---|
+| May 22, 2023| Oak Ridge, TN, USA|
+|---|---|
+|Our Paper ``[Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century](https://doi.org/10.5194/bg-20-1829-2023)'' got published.|![BG Paper Online](./assets/images/news/2023_paper2.png) |
+|---|---|
+| | |
+| May 16, 2023| Bethesda, MD, USA|
+|---|---|
+|Presented poster titled ``[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/node/speakerprofile-bharat-sharma-oak-ridge-national-laboratory)'' in the [2023 ESS PI Meeting](https://ess.science.energy.gov/pi-meeting/) symposium in Bethesda, MD, USA. May 16-17, 2023.|![Poster presentation](./assets/images/news/2023_ESS_PI.jpg) |
+|---|---|
+| | |
 | Mar 27, 2023| Potomac, MD, USA|
 |---|---|
 |Presented poster titled ``[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/node/speakerprofile-bharat-sharma-oak-ridge-national-laboratory)'' in the [Anthromes, CO2, and Terrestrial Carbon](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/page/home) symposium in Potomac, MD, USA. Mar 27-31, 2023.|![Poster presentation](./assets/images/news/anthromes_23_pic.jpg) |
