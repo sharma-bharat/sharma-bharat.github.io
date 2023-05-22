@@ -3,6 +3,16 @@ layout: default
 title: Projects 
 description: 
 ---
+## Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century
+
+![alt text](assets/images/Highlights_NBPExtremes.png "88% of the regions are dominanted by net loss in carbon uptake")
+**Authors:** Bharat Sharma, Jitendra Kumar, Auroop Ganguly, and Forrest M. Hoffman  <br>
+**Abstract:** Increasing surface temperature could lead to enhanced evaporation, reduced soil moisture availability, and more frequent droughts and heat waves. The spatiotemporal co-occurrence of such effects further drives extreme anomalies in vegetation productivity and net land carbon storage. However, the impacts of climate change on extremes in net biospheric production (NBP) over longer time periods are unknown. Using the percentile threshold on the probability distribution curve of NBP anomalies, we computed negative and positive extremes in NBP. Here we show that due to climate warming, about 88 % of global regions will experience a larger magnitude of negative NBP extremes than positive NBP extremes toward the end of 2100, which accelerate the weakening of the land carbon sink. Our analysis indicates the frequency of negative extremes associated with declines in biospheric productivity was larger than positive extremes, especially in the tropics. While the overall impact of warming at high latitudes is expected to increase plant productivity and carbon uptake, high-temperature anomalies increasingly induce negative NBP extremes toward the end of the 21st century. Using regression analysis, we found soil moisture anomalies to be the most dominant individual driver of NBP extremes. The compound effect of hotness, dryness, and fire caused extremes at more than 50 % of the total grid cells. The larger proportion of negative NBP extremes raises a concern about whether the Earth is capable of increasing vegetation production with a growing human population and rising demand for plant material for food, fiber, fuel, and building materials. The increasing proportion of negative NBP extremes highlights the consequences not only of reduction in total carbon uptake capacity but also of conversion of land to a carbon source. <br>
+
+**Paper:** [Biogeosciences (2023)](https://doi.org/10.5194/bg-20-1829-2023) <br>
+**Highlights:** [EESM Project Highlights](https://climatemodeling.science.energy.gov/research-highlights/) <br>
+
+<hr>
 ## Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use and Land Cover Change From 1850 to 2300
 
 ![alt text](assets/images/Threshold_GPPExt_1850-2300.png "Increasing Threshold of GPP Extremes due to Climate and Land Use and Land Cover Changes")

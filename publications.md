@@ -8,9 +8,11 @@ featured-img: assets/images/earth-wide.jpg
 
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2023).
 Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century.
-Biogeosciences, 20, 1829–1841, [https://doi.org/10.5194/bg-20-1829-2023](https://doi.org/10.5194/bg-20-1829-2023)
+Biogeosciences, 20, 1829–1841, [https://doi.org/10.5194/bg-20-1829-2023](https://doi.org/10.5194/bg-20-1829-2023).
+[Download](./papers/Sharma_2023_BG_NBPExtremes.pdf)
 
-**Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., & Hoffman, F. M. (2022). Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300. Journal of Geophysical Research: Biogeosciences, 127, e2021JG006738. [https://doi.org/10.1029/2021JG006738](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JG006738). [Download](./papers/Sharma_2022_CarbonExtremes_LULCC.pdf)
+**Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., & Hoffman, F. M. (2022). Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300. Journal of Geophysical Research: Biogeosciences, 127, e2021JG006738. [https://doi.org/10.1029/2021JG006738](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JG006738). 
+[Download](./papers/Sharma_2022_CarbonExtremes_LULCC.pdf)
 
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2022).
 Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes.
