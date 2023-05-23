@@ -83,6 +83,10 @@ Transport Planning.
 
 **Sharma, Bharat**, A. Walker, R. Knox, C. Koven, E. Agee, R. Fisher, R. Oren, R. Norby, D. Ricciuto, X. Wei, and X. Yang
 “Investigating the CO 2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP”.
+2023 ESS PI Meeting, 16-17 May 2023, Bethesda, MD, USA.
+
+**Sharma, Bharat**, A. Walker, R. Knox, C. Koven, E. Agee, R. Fisher, R. Oren, R. Norby, D. Ricciuto, X. Wei, and X. Yang
+“Investigating the CO 2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP”.
 Anthromes, CO2 , and Terrestrial Carbon, From the deep past to net-zero, 27-30 Mar 2023, Potomac, MD, USA.
 
 **Sharma, Bharat**, Jitendra Kumar, Nathan Collier, Auroop R. Ganguly, and Forrest M. Hoffman.
