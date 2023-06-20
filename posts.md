@@ -3,6 +3,14 @@ layout: default
 title: Posts 
 description: 
 ---
+
+**Instructions for Setting Up ELM-FATES**. <br>
+These instruction work on docker container as well. <br>
+[Tutorial](https://sharma-bharat.github.io/Posts_Online/Tutorial_SettingUp_ELMFATES.html)<br>
+
+
+<hr>
+
 **Introduction to NERSC**. <br>
 Contains example scripts and most common commands. <br>
 [Tutorial](https://sharma-bharat.github.io/Posts_Online/NERSC_Tutorial.html)<br>
