@@ -7,6 +7,7 @@ description:
 **Instructions for Setting Up ELM-FATES**. <br>
 These instruction work on docker container as well. <br>
 [Tutorial](https://sharma-bharat.github.io/Posts_Online/Tutorial_SettingUp_ELMFATES.html)<br>
+[Tutorial_Slides](https://sharma-bharat.github.io/Posts_Online/Tutorial_ELMFATES.html)<br>
 
 
 <hr>

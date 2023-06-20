@@ -1,0 +1,298 @@
+Free Markdown to HTML Converter
+Converter
+Markdown Cheatsheet
+Convert Markdown to HTML
+Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
+
+Coming Soon! This page will also allow you to:
+
+Save stylesheets to use with your conversion
+Edit the configuration settings for conversion
+
+Enter Markdown
+Custom CSS
+---
+marp: true
+---
+
+# Setting up ELM-Fates!
+
+by Bharat Sharma
+*bharat.sharma.neu@gmail.com*
+
+----
+### Updated on Jun 20, 2023
+
+### Cloning E3SM from Ryan's Github
+
+`cd E3SM`
+
+### Checkout E3SM branch compatible w/FATES nutrients
+`git checkout rgknox/lnd/update-suppl-fates-uptake-api25`
+
+### Update submodules which downloads FATES
+`git submodule update --init`
+
+---
+### Updated on Jun 20, 2023
+### Add Ryan’s FATES repository as a source
+`cd components/elm/src/external_models/fates/` <br>
+`git remote add rgknox_repo git@github.com:rgknox/fates.git` <br>
+`git remote -v`<br>
+`git fetch rgknox_repo` <br>
+
+---
+### Updated on Jun 20, 2023
+### Checkout the nutrient branch
+`git fetch --all --tags` (fetching all tags) <br>
+
+`git checkout tags/sci.1.61.0_api.25.0.0`
+
+### Creating branch from the tag
+
+`git checkout -b bharat-tag-sci.1.61.0_api.25.0.0 sci.1.61.0_api.25.0.0`
+
+---
+### Updated on Jun 20, 2023
+### Getting the updated logging fix
+
+`git remote add anthony_repo git@github.com:walkeranthonyp/fates.git`
+`git remote -v`
+`git fetch anthony_repo`
+
+`git checkout logging-bugfix` <br>
+`git fetch`
+
+---
+## Feb 13, 2022
+
+E3SM: `rgknox/lnd/update-suppl-fates-uptake-api25`
+FATES: `tags/sci.1.61.0_api.25.0.0`
+Logging: `walkeranthonyp/logging-bugfix`
+
+files modified:
+```
+modified:   cime_config/machines/cmake_macros/gnu_cades.cmake
+modified:   components/elm/cime_config/config_component.xml
+modified:   components/elm/cime_config/config_compsets.xml
+modified:   components/elm/src/external_models/fates (new commits)
+modified:   externals/scorpio (modified content)
+```
+
+----
+### Updated on Jun 20, 2023
+### Details on the modifications
+
+**Added following lines in `config_compsets.xml`**
+```
+<compset>
+  <alias>I20TRELMFATES</alias>
+  <lname>20TR_DATM%QIA_ELM%BGC-FATES_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+</compset>
+```
+
+**Added following lines in `config_component.xml`**
+```
+<!--value compset="20TR.*_ELM%[^_]*BGC">20thC_bgc_transient</value -->
+<value compset="20TR.*_ELM%[^_]*BGC">20thC_transient</value>
+```
+---
+
+**Added following lines in `gnu_cades.cmake`**
+```
+set(SCXX "g++")
+set(CXX_LINKER "CXX")    
+```
+**Commented following lines in `externals/scorpio/src/clib/pioc_support.c`**
+```
+/*if ((file->mode & NC_64BIT_DATA) == NC_64BIT_DATA)
+{
+file->mode &= ~NC_64BIT_DATA;
+}*/
+```      
+----
+### Updated on Jun 20, 2023
+Use Call Scripts to run FATES model via OLMT
+
+---
+### Updated on Jun 20, 2023
+After the FATES sims are done: 
+ 1. PostprocessorR: to create summary nc files and plots
+   1.1. files to work on:
+   `postprocessR_FACE_bharat.bs` or 
+   `postprocessR_FACE_bharat2.bs`
+   Submit the post processor jobs:
+   `submit_pp.sbatch`
+
+   2. post postprocessor: FATESFACE
+   These codes/repo uses the outputs of postprocessorR to generate plots for presentations. 
+   
+
+---
+Preview
+Raw HTML
+<hr>
+<h2 id="marp-true">marp: true</h2>
+<h1 id="setting-up-elm-fates-">Setting up ELM-Fates!</h1>
+<p>by Bharat Sharma
+<em>bharat.sharma.neu@gmail.com</em></p>
+<hr>
+<h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
+<h3 id="cloning-e3sm-from-ryan-s-github">Cloning E3SM from Ryan&#39;s Github</h3>
+<p><code>cd E3SM</code></p>
+<h3 id="checkout-e3sm-branch-compatible-w-fates-nutrients">Checkout E3SM branch compatible w/FATES nutrients</h3>
+<p><code>git checkout rgknox/lnd/update-suppl-fates-uptake-api25</code></p>
+<h3 id="update-submodules-which-downloads-fates">Update submodules which downloads FATES</h3>
+<p><code>git submodule update --init</code></p>
+<hr>
+<h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
+<h3 id="add-ryan-s-fates-repository-as-a-source">Add Ryan’s FATES repository as a source</h3>
+<p><code>cd components/elm/src/external_models/fates/</code> <br>
+<code>git remote add rgknox_repo git@github.com:rgknox/fates.git</code> <br>
+<code>git remote -v</code><br>
+<code>git fetch rgknox_repo</code> <br></p>
+<hr>
+<h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
+<h3 id="checkout-the-nutrient-branch">Checkout the nutrient branch</h3>
+<p><code>git fetch --all --tags</code> (fetching all tags) <br></p>
+<p><code>git checkout tags/sci.1.61.0_api.25.0.0</code></p>
+<h3 id="creating-branch-from-the-tag">Creating branch from the tag</h3>
+<p><code>git checkout -b bharat-tag-sci.1.61.0_api.25.0.0 sci.1.61.0_api.25.0.0</code></p>
+<hr>
+<h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
+<h3 id="getting-the-updated-logging-fix">Getting the updated logging fix</h3>
+<p><code>git remote add anthony_repo git@github.com:walkeranthonyp/fates.git</code>
+<code>git remote -v</code>
+<code>git fetch anthony_repo</code></p>
+<p><code>git checkout logging-bugfix</code> <br>
+<code>git fetch</code></p>
+<hr>
+<h2 id="feb-13-2022">Feb 13, 2022</h2>
+<p>E3SM: <code>rgknox/lnd/update-suppl-fates-uptake-api25</code>
+FATES: <code>tags/sci.1.61.0_api.25.0.0</code>
+Logging: <code>walkeranthonyp/logging-bugfix</code></p>
+<p>files modified:</p>
+<pre><code><span class="hljs-string">modified:</span>   cime_config<span class="hljs-regexp">/machines/</span>cmake_macros/gnu_cades.cmake
+<span class="hljs-string">modified:</span>   components<span class="hljs-regexp">/elm/</span>cime_config/config_component.xml
+<span class="hljs-string">modified:</span>   components<span class="hljs-regexp">/elm/</span>cime_config/config_compsets.xml
+<span class="hljs-string">modified:</span>   components<span class="hljs-regexp">/elm/</span>src<span class="hljs-regexp">/external_models/</span>fates (<span class="hljs-keyword">new</span> commits)
+<span class="hljs-string">modified:</span>   externals/scorpio (modified content)
+</code></pre><hr>
+<h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
+<h3 id="details-on-the-modifications">Details on the modifications</h3>
+<p><strong>Added following lines in <code>config_compsets.xml</code></strong></p>
+<pre><code><span class="hljs-tag">&lt;<span class="hljs-name">compset</span>&gt;</span>
+  <span class="hljs-tag">&lt;<span class="hljs-name">alias</span>&gt;</span>I20TRELMFATES<span class="hljs-tag">&lt;/<span class="hljs-name">alias</span>&gt;</span>
+  <span class="hljs-tag">&lt;<span class="hljs-name">lname</span>&gt;</span>20TR_DATM%QIA_ELM%BGC-FATES_SICE_SOCN_MOSART_SGLC_SWAV<span class="hljs-tag">&lt;/<span class="hljs-name">lname</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">compset</span>&gt;</span>
+</code></pre><p><strong>Added following lines in <code>config_component.xml</code></strong></p>
+<pre><code><span class="hljs-comment">&lt;!--value compset="20TR.*_ELM%[^_]*BGC"&gt;20thC_bgc_transient&lt;/value --&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">value</span> <span class="hljs-attr">compset</span>=<span class="hljs-string">"20TR.*_ELM%[^_]*BGC"</span>&gt;</span>20thC_transient<span class="hljs-tag">&lt;/<span class="hljs-name">value</span>&gt;</span>
+</code></pre><hr>
+<p><strong>Added following lines in <code>gnu_cades.cmake</code></strong></p>
+<pre><code><span class="hljs-function"><span class="hljs-title">set</span><span class="hljs-params">(SCXX <span class="hljs-string">"g++"</span>)</span></span>
+<span class="hljs-function"><span class="hljs-title">set</span><span class="hljs-params">(CXX_LINKER <span class="hljs-string">"CXX"</span>)</span></span>
+</code></pre><p><strong>Commented following lines in <code>externals/scorpio/src/clib/pioc_support.c</code></strong></p>
+<pre><code>/*<span class="hljs-keyword">if</span> ((file-&gt;mode &amp; NC_64BIT_DATA) == NC_64BIT_DATA)
+{
+file-&gt;mode &amp;= ~NC_64BIT_DATA;
+}*/
+</code></pre><hr>
+<h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
+<p>Use Call Scripts to run FATES model via OLMT</p>
+<hr>
+<h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
+<p>After the FATES sims are done: </p>
+<ol>
+<li><p>PostprocessorR: to create summary nc files and plots
+1.1. files to work on:
+<code>postprocessR_FACE_bharat.bs</code> or 
+<code>postprocessR_FACE_bharat2.bs</code>
+Submit the post processor jobs:
+<code>submit_pp.sbatch</code></p>
+<ol>
+<li>post postprocessor: FATESFACE
+These codes/repo uses the outputs of postprocessorR to generate plots for presentations. </li>
+</ol>
+</li>
+</ol>
+<hr>
+
+Markdown Syntax Cheatsheet
+This is a quick reference for Markdown syntax. A more complete guide can be found on GitHub.
+
+Basic Formatting
+Bold: **Bold**
+Emphasized: *Emphasized*
+Strikethrough : ~~Strikethrough~~
+Horizontal rules: --- (three hyphens), *** (three asterisks), or ___ (three underscores).
+Headings
+All heading levels (e.g. H1, H2, etc), are marked by # at the beginning of a line. For example, an H1 is # Heading 1 and an H2 is ## Heading 2. This continues to ###### Heading 6.
+
+Links
+Links can be created using several methods:
+
+Links can be [inline](https://markdowntohtml.com)
+Inline links can [have a title](https://markdowntohtml.com "Awesome Markdown Converter")
+Also, there can be reference links that allow the URL to be placed later in the document:
+Here is a [reference link][markdowntohtml] that links to this site.
+References are case-insensitive (for example [this link][MarkDownToHTML] works).
+References can also [use numbers][1].
+Or leave it empty and use the [link text itself].
+Also, you can use relative links [like this](../blob/master/LICENSE.txt).
+URLs and URLs in angle brackets will automatically get turned into links: https://markdowntohtml.com or <https://markdowntohtml.com>.
+URLs for reference links are somewhere later in the document like this:
+[markdowntohtml]: https://markdowntohtml.com
+[1]: https://markdowntohtml.com
+[link text itself]: https://markdowntohtml.com
+Images
+Images can also be inline or use a reference style, similar to links. Simply prepend an exclamation point to turn the link into an image. For example:
+
+Images with the full URL: ![alt text](https://placebear.com/300/300)
+
+Or, a reference-style image: ![alt text][bears].
+
+[bears]: https://placebear.com/300/300
+Lists (Ordered Lists and Unordered Lists)
+Lists are made by using indentation and a beginning-of-line marker to indicate a list item. For example, unordered lists are made like this:
+
+* One item
+* Another item
+  * A sub-item
+    * A deeper item
+  * Back in sub-item land
+* And back at the main level
+Unordered lists can use an asterisk (*), plus (+), or minus (-) to indicate each list item.
+
+Ordered lists use a number at the beginning of the line. The numbers do not need to be incremented - this will happen for you automatically by the HTML. That makes it easier to re-order your ordered lists (in markdown) as needed.
+
+Also, ordered and unordered lists can be nested within each other. For example:
+
+* One item
+* Another item
+  1. A nested ordered list
+  1. This is the second item
+    * And now an unordered list as its child
+    * Another item in this list
+  1. One more in the ordered list
+* And back at the main level
+Code and Syntax Highlighting
+Inline code uses `backticks` around it. Code blocks are either fenced by three backticks (```) or indented four spaces. For example:
+
+```
+var foo = 'bar';
+
+function baz(s) {
+   return foo + ':' + s;
+}
+```
+Blockquotes
+Use > to offset text as a blockquote. For example:
+
+> This is some part of a blockquote.
+> Some more stuff.
+Will produce:
+
+This is some part of a blockquote. Some more stuff.
+
+Copyright © Jeremy Thomerson - Expert Tech Services, LLC 2017
