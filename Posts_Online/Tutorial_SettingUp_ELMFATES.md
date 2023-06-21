@@ -7,9 +7,12 @@ marp: true
 by Bharat Sharma
 *bharat.sharma.neu@gmail.com*
 
-### Updated on Jun 19, 2023
-https://github.com/E3SM-Project/E3SM/pull/5604/
+---
+### Updated on Jun 20, 2023
 
+Optional:
+The following instructions are compatible with the Docker.
+Please follow the instructions to install the [docker](https://docs.google.com/document/d/13hU_wQ4N39bsTjgDUlKEm8Egr-behDOH-TlJQbwfeoc/edit).
 
 ----
 ### Updated on Jun 20, 2023
