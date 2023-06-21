@@ -2,7 +2,7 @@
 marp: true
 ---
 
-# Setting up ELM-Fates!
+# Setting up ELM-FATES!
 
 by Bharat Sharma
 *bharat.sharma.neu@gmail.com*
