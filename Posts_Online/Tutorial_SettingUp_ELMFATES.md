@@ -18,7 +18,7 @@ Please follow the instructions to install the [docker](https://docs.google.com/d
 ### Updated on Jun 20, 2023
 
 ### Cloning E3SM from Ryan's Github
-
+`git clone git@github.com:rgknox/E3SM.git` 
 `cd E3SM`
 
 ### Checkout E3SM branch compatible w/FATES nutrients
