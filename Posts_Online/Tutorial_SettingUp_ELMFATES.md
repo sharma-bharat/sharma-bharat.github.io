@@ -19,6 +19,7 @@ Please follow the instructions to install the [docker](https://docs.google.com/d
 
 ### Cloning E3SM from Ryan's Github
 `git clone git@github.com:rgknox/E3SM.git` 
+
 `cd E3SM`
 
 ### Checkout E3SM branch compatible w/FATES nutrients
@@ -51,18 +52,20 @@ Please follow the instructions to install the [docker](https://docs.google.com/d
 ### Getting the updated logging fix
 
 `git remote add anthony_repo git@github.com:walkeranthonyp/fates.git`
+
 `git remote -v`
+
 `git fetch anthony_repo`
 
 `git checkout logging-bugfix` <br>
 `git fetch`
 
 ---
-## Feb 13, 2022
+### Updated on Jun 20, 2023
 
-E3SM: `rgknox/lnd/update-suppl-fates-uptake-api25`
-FATES: `tags/sci.1.61.0_api.25.0.0`
-Logging: `walkeranthonyp/logging-bugfix`
+E3SM: `rgknox/lnd/update-suppl-fates-uptake-api25` <br>
+FATES: `tags/sci.1.61.0_api.25.0.0` <br>
+Logging: `walkeranthonyp/logging-bugfix` <br>
 
 files modified:
 ```
@@ -70,7 +73,6 @@ modified:   cime_config/machines/cmake_macros/gnu_cades.cmake
 modified:   components/elm/cime_config/config_component.xml
 modified:   components/elm/cime_config/config_compsets.xml
 modified:   components/elm/src/external_models/fates (new commits)
-modified:   externals/scorpio (modified content)
 ```
 
 ----
@@ -110,6 +112,11 @@ Use Call Scripts to run FATES model via OLMT
 
 ---
 ### Updated on Jun 20, 2023
+
+After the simulaions are run successfully, you can use the [ELM_postprocessR](https://github.com/walkeranthonyp/ELM_postprocessR), 
+developed by Dr. Anthony Walker,
+to contatenate and plot some initial plots.
+
 After the FATES sims are done: 
  1. PostprocessorR: to create summary nc files and plots
    1.1. files to work on:
