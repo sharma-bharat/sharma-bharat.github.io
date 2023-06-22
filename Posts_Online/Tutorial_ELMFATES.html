@@ -9,7 +9,7 @@ Please follow the instructions to install the <a href="https://docs.google.com/d
 <hr>
 <h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
 <h3 id="cloning-e3sm-from-ryan-s-github">Cloning E3SM from Ryan&#39;s Github</h3>
-<p><code>git clone git@github.com:rgknox/E3SM.git</code></p>
+<p><code>git clone git@github.com:rgknox/E3SM.git</code> </p>
 <p><code>cd E3SM</code></p>
 <h3 id="checkout-e3sm-branch-compatible-w-fates-nutrients">Checkout E3SM branch compatible w/FATES nutrients</h3>
 <p><code>git checkout rgknox/lnd/update-suppl-fates-uptake-api25</code></p>
@@ -32,22 +32,21 @@ Please follow the instructions to install the <a href="https://docs.google.com/d
 <hr>
 <h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
 <h3 id="getting-the-updated-logging-fix">Getting the updated logging fix</h3>
-<p><code>git remote add anthony_repo git@github.com:walkeranthonyp/fates.git</code>
-<code>git remote -v</code>
-<code>git fetch anthony_repo</code></p>
+<p><code>git remote add anthony_repo git@github.com:walkeranthonyp/fates.git</code></p>
+<p><code>git remote -v</code></p>
+<p><code>git fetch anthony_repo</code></p>
 <p><code>git checkout logging-bugfix</code> <br>
 <code>git fetch</code></p>
 <hr>
-<h2 id="feb-13-2022">Feb 13, 2022</h2>
-<p>E3SM: <code>rgknox/lnd/update-suppl-fates-uptake-api25</code>
-FATES: <code>tags/sci.1.61.0_api.25.0.0</code>
-Logging: <code>walkeranthonyp/logging-bugfix</code></p>
+<h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
+<p>E3SM: <code>rgknox/lnd/update-suppl-fates-uptake-api25</code> <br>
+FATES: <code>tags/sci.1.61.0_api.25.0.0</code> <br>
+Logging: <code>walkeranthonyp/logging-bugfix</code> <br></p>
 <p>files modified:</p>
 <pre><code><span class="hljs-string">modified:</span>   cime_config<span class="hljs-regexp">/machines/</span>cmake_macros/gnu_cades.cmake
 <span class="hljs-string">modified:</span>   components<span class="hljs-regexp">/elm/</span>cime_config/config_component.xml
 <span class="hljs-string">modified:</span>   components<span class="hljs-regexp">/elm/</span>cime_config/config_compsets.xml
 <span class="hljs-string">modified:</span>   components<span class="hljs-regexp">/elm/</span>src<span class="hljs-regexp">/external_models/</span>fates (<span class="hljs-keyword">new</span> commits)
-<span class="hljs-string">modified:</span>   externals/scorpio (modified content)
 </code></pre><hr>
 <h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
 <h3 id="details-on-the-modifications">Details on the modifications</h3>
@@ -73,6 +72,9 @@ file-&gt;mode &amp;= ~NC_64BIT_DATA;
 <p>Use Call Scripts to run FATES model via OLMT</p>
 <hr>
 <h3 id="updated-on-jun-20-2023">Updated on Jun 20, 2023</h3>
+<p>After the simulaions are run successfully, you can use the <a href="https://github.com/walkeranthonyp/ELM_postprocessR">ELM_postprocessR</a>, 
+developed by Dr. Anthony Walker,
+to contatenate and plot some initial plots.</p>
 <p>After the FATES sims are done: </p>
 <ol>
 <li><p>PostprocessorR: to create summary nc files and plots
@@ -87,3 +89,4 @@ These codes/repo uses the outputs of postprocessorR to generate plots for presen
 </ol>
 </li>
 </ol>
+<hr>
