@@ -152,3 +152,8 @@ Temp
 
 [Jupyter Notebook Reading_PostProcessR_Nalloc_PIDs_flex-DUK_PIDG_RD_AgBgW](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDs_flex_DUK_PIDG_RD_AgBgW.html)
 
+<hr>
+
+[Jupyter Notebook Reading_PostProcessR_Nalloc_PIDs_flex-DUK_PIDH_RD_AgBgW](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDs_flex_DUK_PIDH_RD_AgBgW.html)
+
+
