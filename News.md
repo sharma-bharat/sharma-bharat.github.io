@@ -8,7 +8,7 @@ description:
 |---|---|
 | Jun 28, 2023| Oak Ridge, TN, USA|
 |---|---|
-|Just finished the course “Introduction to Fortran”! #fortran #LinkedInLearning|![Introduction to Fortran](./assets/images/news/CertificateOfCompletion_Introduction to Fortran.pdf) |
+|Just finished the course “Introduction to Fortran”! #fortran #LinkedInLearning|![Introduction to Fortran](./assets/images/news/CertificateOfCompletion_Introduction to Fortran.png) |
 |---|---|
 | | |
 | May 22, 2023| Oak Ridge, TN, USA|
