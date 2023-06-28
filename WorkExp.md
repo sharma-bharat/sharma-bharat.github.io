@@ -49,6 +49,9 @@ Held in conjunction with the IEEE International Conference on Data Mining (ICDM 
 
 ## Certifications
 
+**Introduction to Fortran**,
+LinkedInLearning. Jun 2023 
+
 **Machine Learning by Stanford University**, 
 Coursera. May, 2022 
 
