@@ -6,6 +6,11 @@ description:
 
 |Date|Place|
 |---|---|
+| Jun 28, 2023| Oak Ridge, TN, USA|
+|---|---|
+|Just finished the course “Introduction to Fortran”! #fortran #LinkedInLearning|![Introduction to Fortran](./assets/images/news/CertificateOfCompletion_Introduction to Fortran.pdf) |
+|---|---|
+| | |
 | May 22, 2023| Oak Ridge, TN, USA|
 |---|---|
 |Our Paper ``[Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century](https://doi.org/10.5194/bg-20-1829-2023)'' got published.|![BG Paper Online](./assets/images/news/2023_paper2.png) |
