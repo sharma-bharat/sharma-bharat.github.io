@@ -6,6 +6,11 @@ description:
 
 |Date|Place|
 |---|---|
+| Jul 04, 2023| Oak Ridge, TN, USA|
+|---|---|
+|Consider submitting your abstract to “B059 - New Mechanisms, Feedbacks, and Approaches for Predicting Global Biogeochemical Cycles under Climate Change and Intervention” in American Geophyisical Union 2023 in San Francisco (Dec 11-15, 2023)|![Convernor AGU2023](./assets/images/news/AGU_Convener_2023.png) |
+|---|---|
+| | |
 | Jun 28, 2023| Oak Ridge, TN, USA|
 |---|---|
 |Just finished the course “Introduction to Fortran”! #fortran #LinkedInLearning|![Introduction to Fortran](./assets/images/news/CertificateOfCompletion_Introduction to Fortran.png) |
