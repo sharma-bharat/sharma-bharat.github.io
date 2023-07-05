@@ -8,7 +8,7 @@ description:
 |---|---|
 | Jul 04, 2023| Oak Ridge, TN, USA|
 |---|---|
-|Consider submitting your abstract to “B059 - New Mechanisms, Feedbacks, and Approaches for Predicting Global Biogeochemical Cycles under Climate Change and Intervention” in American Geophyisical Union 2023 in San Francisco (Dec 11-15, 2023)|![Convernor AGU2023](./assets/images/news/AGU_Convener_2023.png) |
+|Consider submitting your abstract to “[B059 - New Mechanisms, Feedbacks, and Approaches for Predicting Global Biogeochemical Cycles under Climate Change and Intervention](https://agu.confex.com/agu/fm23/prelim.cgi/Session/190931)” in American Geophyisical Union 2023 in San Francisco (Dec 11-15, 2023)|![Convernor AGU2023](./assets/images/news/AGU_Convener_2023.png) |
 |---|---|
 | | |
 | Jun 28, 2023| Oak Ridge, TN, USA|
@@ -18,17 +18,17 @@ description:
 | | |
 | May 22, 2023| Oak Ridge, TN, USA|
 |---|---|
-|Our Paper ``[Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century](https://doi.org/10.5194/bg-20-1829-2023)'' got published.|![BG Paper Online](./assets/images/news/2023_paper2.png) |
+|Our Paper “[Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century](https://doi.org/10.5194/bg-20-1829-2023)” got published.|![BG Paper Online](./assets/images/news/2023_paper2.png) |
 |---|---|
 | | |
 | May 16, 2023| Bethesda, MD, USA|
 |---|---|
-|Presented poster titled ``[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/node/speakerprofile-bharat-sharma-oak-ridge-national-laboratory)'' in the [2023 ESS PI Meeting](https://ess.science.energy.gov/pi-meeting/) symposium in Bethesda, MD, USA. May 16-17, 2023.|![Poster presentation](./assets/images/news/2023_ESS_PI.jpg) |
+|Presented poster titled “[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/node/speakerprofile-bharat-sharma-oak-ridge-national-laboratory)” in the [2023 ESS PI Meeting](https://ess.science.energy.gov/pi-meeting/) symposium in Bethesda, MD, USA. May 16-17, 2023.|![Poster presentation](./assets/images/news/2023_ESS_PI.jpg) |
 |---|---|
 | | |
 | Mar 27, 2023| Potomac, MD, USA|
 |---|---|
-|Presented poster titled ``[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/node/speakerprofile-bharat-sharma-oak-ridge-national-laboratory)'' in the [Anthromes, CO2, and Terrestrial Carbon](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/page/home) symposium in Potomac, MD, USA. Mar 27-31, 2023.|![Poster presentation](./assets/images/news/anthromes_23_pic.jpg) |
+|Presented poster titled “[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/node/speakerprofile-bharat-sharma-oak-ridge-national-laboratory)” in the [Anthromes, CO2, and Terrestrial Carbon](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/page/home) symposium in Potomac, MD, USA. Mar 27-31, 2023.|![Poster presentation](./assets/images/news/anthromes_23_pic.jpg) |
 |---|---|
 | | |
 | Mar 8, 2023| Knoxville, TN, USA|
@@ -38,12 +38,12 @@ description:
 | | |
 | Feb 10, 2023| Oak Ridge, TN, USA|
 |---|---|
-|Our Paper ``[Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes](https://doi.org/10.1109/ICDMW58026.2022.00148)'' became online.|![IEEE Paper Online](./assets/images/news/IEEE_paper_image.png) |
+|Our Paper “[Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes](https://doi.org/10.1109/ICDMW58026.2022.00148)” became online.|![IEEE Paper Online](./assets/images/news/IEEE_paper_image.png) |
 |---|---|
 | | |
 | Jan 9, 2023| Denver, CO, USA|
 |---|---|
-|Presented poster titled ``[Increased Intensity of Carbon Cycle Extremes Driven by Land Use and Land Cover Change (Poster ID 45)](https://doi.org/10.1029/2021JG006738)'' in Amercian Meteorological Society’s 36th Conference on Climate Variability and Change in Denver, CO. #AMS2023.|![AMS2023, Jan 8, 2023](./assets/images/news/ams2023.jpg) |
+|Presented poster titled “[Increased Intensity of Carbon Cycle Extremes Driven by Land Use and Land Cover Change (Poster ID 45)](https://doi.org/10.1029/2021JG006738)” in Amercian Meteorological Society’s 36th Conference on Climate Variability and Change in Denver, CO. #AMS2023.|![AMS2023, Jan 8, 2023](./assets/images/news/ams2023.jpg) |
 |---|---|
 | | |
 | Dec 16, 2022| Chicago, IL, USA|
@@ -53,7 +53,7 @@ description:
 | | |
 | Dec 15, 2022| Chicago, IL, USA|
 |---|---|
-|Presented my paper ``[Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century](https://doi.org/10.5194/bg-2022-178)'' in Amercian Geophysical Union 2022 annual meeting in Chicago, IL. #AGU2022. |![AGU2022, Dec 15, 2022](./assets/images/news/agu2022.jpg) |
+|Presented my paper “[Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century](https://doi.org/10.5194/bg-2022-178)” in Amercian Geophysical Union 2022 annual meeting in Chicago, IL. #AGU2022. |![AGU2022, Dec 15, 2022](./assets/images/news/agu2022.jpg) |
 |---|---|
 | | |
 | Dec 6, 2022| Oak Ridge, TN, USA|
@@ -63,11 +63,11 @@ description:
 | | |
 | Nov 28, 2022| Orlando, FL, USA|
 |---|---|
-|Presented my recent paper titled ``[Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf)'' at the 10th Workshop on Data Mining in Earth System Science (DMESS 2022), IEEE International Conference on Data Mining Workshops (ICDMW 2022) in Orlando, FL, USA. |![ICDM2022, Nov 28, 2022](./assets/images/news/ICDM_Pic.png)|
+|Presented my recent paper titled “[Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf)” at the 10th Workshop on Data Mining in Earth System Science (DMESS 2022), IEEE International Conference on Data Mining Workshops (ICDMW 2022) in Orlando, FL, USA. |![ICDM2022, Nov 28, 2022](./assets/images/news/ICDM_Pic.png)|
 |---|---|
 | | |
 | Aug 31, 2022| Oak Ridge, TN, USA|
 |---|---|
-|Defended my Ph.D. titled ``[Analysis Of Global Carbon Cycle Extremes, Their Compound Climate Drivers, And Implications For Terrestrial Carbon Cycle.](./papers/Sharma_PhD_Dissertation.pdf)'' |![PhD Defense, Aug 31, 2022](./assets/images/news/phd_defense.jpg)|
+|Defended my Ph.D. titled “[Analysis Of Global Carbon Cycle Extremes, Their Compound Climate Drivers, And Implications For Terrestrial Carbon Cycle.](./papers/Sharma_PhD_Dissertation.pdf)” |![PhD Defense, Aug 31, 2022](./assets/images/news/phd_defense.jpg)|
 |---|---|
 | | |
