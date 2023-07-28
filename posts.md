@@ -193,3 +193,6 @@ Temp
 [Jupyter Notebook Reading_PostProcessR_Nalloc_PIDs_flex_DUK_PIDE_RD_AgBgW_CN55](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDs_flex_DUK_PIDE_RD_AgBgW_CN55.html)
 
 <hr>
+
+[Jupyter Notebook Reading_PostProcessR_Nalloc_PIDs_flex_CP_L2fc_calc_DUK_PIDE_RD_AgBgW_CN53](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDs_flex_CP_L2fc_calc.html)
+<hr>
