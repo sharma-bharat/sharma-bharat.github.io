@@ -194,8 +194,15 @@ Temp
 
 <hr>
 
-[Jupyter Notebook Reading_PostProcessR_Nalloc_PIDE_flex_CP_L2fc_calc_DUK_PIDE_RD_AgBgW_CN53](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDE_flex_CP_L2fc_calc.html)
+[Jupyter Notebook Reading_PostProcessR_Nalloc_L2fc_calc_DUK_PIDE_RD_AgBgW_CN53](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDE_flex_CP_L2fc_calc.html)
 <hr>
 
-[Jupyter Notebook Reading_PostProcessR_Nalloc_PIDE_flex_CP_L2fc_calc_DUK_PIDH_RD_AgBgW_CN53](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDH_flex_CP_L2fc_calc.html)
+[Jupyter Notebook Reading_PostProcessR_Nalloc_L2fc_calc_DUK_PIDH_RD_AgBgW_CN53](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDH_flex_CP_L2fc_calc.html)
 <hr>
+
+[Jupyter Notebook Reading_PostProcessR_Nalloc_L2fc_calc_DUK_PIDC_RD_AgBgW_CN53](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDC_flex_CP_L2fc_calc.html)
+<hr>
+
+[Jupyter Notebook Reading_PostProcessR_Nalloc_L2fc_calc_DUK_PIDG_RD_AgBgW_CN53](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDG_flex_CP_L2fc_calc.html)
+<hr>
+
