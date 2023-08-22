@@ -130,3 +130,10 @@ After the FATES sims are done:
    
 
 ---
+
+
+### Data that I use to run ELM-FATES
+
+ORNL and Duke FACE Experiment Data: [Google Drive link](https://drive.google.com/drive/folders/1i5NVpxDXfBsnRGCNNsuq_lD_u2bmYAK4?usp=drive_link)
+
+---
