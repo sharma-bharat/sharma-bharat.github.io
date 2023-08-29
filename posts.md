@@ -214,5 +214,6 @@ Temp
 [Jupyter Notebook Reading_PostProcessR_Nalloc_PIDE_flex_CP_L2fc_calc_Spin200y](Posts_Online/Work/Reading_PostProcessR_Nalloc_PIDE_flex_CP_L2fc_calc_Spin200y.html)
 <hr>
 
-
+[Jupyter Notebook PlotComparisonMetDuke](Posts_Online/Work/PlotComparisonMetDuke.html)
+<hr>
 
