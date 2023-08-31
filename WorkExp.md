@@ -40,13 +40,6 @@ Created the travel time matrix for the metropolitan region of Munich.
 Project with TUM, BMW Automobiles, MVV (Public Transport Company) and City of Munich. <br>
 Examined whether the new BMW Innovation and Research Center successfully fitted into the Northern Munich by analyzing spatial strategies, current development projects and the inter-action of non-motorized mobility, and provided measures like location of transit station, convenient stores and bike paths among other steps to plan better transit.
 
-
-## Services
-
-**Program Committee, Tenth Workshop on Data Mining in Earth System Science (DMESS 2022)** [link](https://www.climatemodeling.org/workshops/dmess2022/){:target="_blank"}.  <br>
-Held in conjunction with the IEEE International Conference on Data Mining (ICDM 2022; https://icdm22.cse.usf.edu/).
-
-
 ## Certifications
 
 **Introduction to Fortran**,
@@ -67,12 +60,22 @@ Center for Ecosystem Science and Society Northern Arizona University. July, 2020
 **Introduction to Machine Learning**. 
 Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
-## Organisation Roles
+## Services
 
-**Session Chair**, Mar 28 2023 (Attendees: 45-60)
-Session 7: CO2-fertilization and human land-use contributions to future terrestrial carbon storage.
+**Program Committee, Tenth Workshop on Data Mining in Earth System Science (DMESS 2022)** [link](https://www.climatemodeling.org/workshops/dmess2022/){:target="_blank"}.  <br>
+Held in conjunction with the IEEE International Conference on Data Mining (ICDM 2022; https://icdm22.cse.usf.edu/).
+
+**Co-Convener**, Aug 03, 2023 (Attendees: 65-75)
+[BG06](https://www.asiaoceania.org/society/public.asp?page=SessionList_23.asp){:target="_blank"}: Integrated Understanding of Global Carbon and Other Biogeochemical Cycles and Their Feedbacks <br>
+Asia Oceania Geosciences Society (AOGS 2023) [link](https://www.asiaoceania.org/aogs2023/public.asp?page=home.asp/){:target="_blank"}.  <br>
+**Responsibilities**: Selecting talks and posters, introducing presenters, managing time, transitions and questions.
+
+**Co-Session Chair**, Mar 28, 2023 (Attendees: 45-60)
+Session 7: CO<sub>2</sub>-fertilization and human land-use contributions to future terrestrial carbon storage.<br>
 [Anthromes, CO2, and Terrestrial Carbon](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/page/home) symposium in Potomac, MD, USA. Mar 27-31, 2023.
 **Responsibilities**: Introducing presenters, managing time, transitions and questions.
+
+## Organisation Roles
 
 **Journal Club (ORNL)**, Summer 2018 (Attendees: 15-20)
 *The Journal Club was a informal voluntary group of students, postdocs, and ORNL personnel interested in Earth system science. The Journal Club met every other week to discuss a relatively short and recent paper focused on climate dynamics, hydrology, terrestrial or marine ecosystems, human systems, computational methods, remote sensing, observational data, big data analytics, or related topics. Papers were chosen by the group from suggestions from the membership.* <br>
