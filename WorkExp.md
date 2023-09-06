@@ -51,9 +51,6 @@ Coursera. May, 2022
 **Machine Learning, Data Science and Deep Learning with Python**. 
 Udemy. Mar, 2021
 
-**Machine Learning, Data Science and Deep Learning with Python**. 
-Udemy. Mar, 2021
-
 **New Advances in Land Carbon Cycle Modeling**. 
 Center for Ecosystem Science and Society Northern Arizona University. July, 2020
 

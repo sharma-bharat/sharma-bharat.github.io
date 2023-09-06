@@ -84,7 +84,7 @@ Transport Planning.
 **Sharma, Bharat**, Forrest M. Hoffman, Jitendra Kumar, and Auroop Ganguly. 
 August 2, 2023. 
 “Comparative Analysis of Climate-driven Carbon Cycle Extremes Using Observations and CMIP6 Earth System Models” 
-Annual Meeting of the Asia Oceania Geosciences Society (AOGS) (30 July–4 Aug 2023), 
+Annual Meeting of the Asia Oceania Geosciences Society (AOGS), 30 July–4 Aug 2023, 
 SUNTEC, Singapore.
 
 **Sharma, Bharat**, A. Walker, R. Knox, C. Koven, E. Agee, R. Fisher, R. Oren, R. Norby, D. Ricciuto, X. Wei, and X. Yang
