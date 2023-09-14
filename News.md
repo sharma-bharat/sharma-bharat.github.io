@@ -6,6 +6,16 @@ description:
 
 |Date|Place|
 |---|---|
+| Sep 14, 2023| Oak Ridge, TN, USA|
+|---|---|
+|A stroy was published highlighting out work [**Compound events like wildfires, droughts weaken carbon sink**](https://www.ornl.gov/news/modeling-climate-extremes)|![Story ORNL 2023](./assets/images/news/20230914_Sharma_ORNL_Story.png) |
+|---|---|
+| | |
+| Aug 02, 2023| Singapore|
+|---|---|
+|Gave an oral presentation on "Comparative Analysis of Climate-driven Carbon Cycle Extremes Using Observations and CMIP6 Earth System Models" in Annual Meeting of the Asia Oceania Geosciences Society (AOGS), 30 July–4 Aug 2023, SUNTEC, Singapore.|![Presentation AOGS2023](./assets/images/news/20230801_AOGS_Presentation.jpg) |
+|---|---|
+| | |
 | Jul 04, 2023| Oak Ridge, TN, USA|
 |---|---|
 |Consider submitting your abstract to “[B059 - New Mechanisms, Feedbacks, and Approaches for Predicting Global Biogeochemical Cycles under Climate Change and Intervention](https://agu.confex.com/agu/fm23/prelim.cgi/Session/190931)” in American Geophyisical Union 2023 in San Francisco (Dec 11-15, 2023)|![Convernor AGU2023](./assets/images/news/AGU_Convener_2023.png) |
@@ -13,7 +23,7 @@ description:
 | | |
 | Jun 28, 2023| Oak Ridge, TN, USA|
 |---|---|
-|Just finished the course “Introduction to Fortran”! #fortran #LinkedInLearning|![Introduction to Fortran](./assets/images/news/CertificateOfCompletion_Introduction to Fortran.png) |
+|Completed the course “Introduction to Fortran”! #fortran #LinkedInLearning|![Introduction to Fortran](./assets/images/news/CertificateOfCompletion_Introduction to Fortran.png) |
 |---|---|
 | | |
 | May 22, 2023| Oak Ridge, TN, USA|

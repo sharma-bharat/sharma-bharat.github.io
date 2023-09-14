@@ -109,6 +109,8 @@ Co-mentored the class project of 30 graduate and undergraduate students (CIVE 53
 
 ## Highlights
 
+[**Compound events like wildfires, droughts weaken carbon sink**](https://www.ornl.gov/news/modeling-climate-extremes)
+
 [**SDS Lab students and alums enjoy spate of success stories**](https://coe.northeastern.edu/news/sds-lab-students-and-alums-enjoy-spate-of-success-stories/)
 
 [**Ganguly leads Artificial Intelligence section for US Climate Assessment**](https://coe.northeastern.edu/news/ganguly-leads-artificial-intelligence-section-for-us-climate-assessment/)
