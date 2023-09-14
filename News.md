@@ -8,7 +8,7 @@ description:
 |---|---|
 | Sep 14, 2023| Oak Ridge, TN, USA|
 |---|---|
-|A stroy was published highlighting out work [**Compound events like wildfires, droughts weaken carbon sink**](https://www.ornl.gov/news/modeling-climate-extremes)|![Story ORNL 2023](./assets/images/news/20230914_Sharma_ORNL_Story.png) |
+|Stroy published highlighting our work: [**Compound events like wildfires, droughts weaken carbon sink**](https://www.ornl.gov/news/modeling-climate-extremes)|![Story ORNL 2023](./assets/images/news/20230914_Sharma_ORNL_Story.png) |
 |---|---|
 | | |
 | Aug 02, 2023| Singapore|
