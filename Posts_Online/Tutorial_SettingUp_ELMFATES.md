@@ -8,14 +8,14 @@ by Bharat Sharma
 *bharat.sharma.neu@gmail.com*
 
 ---
-### Updated on Jun 20, 2023
+### Updated on Sep 01, 2023
 
 Optional:
 The following instructions are compatible with the Docker.
 Please follow the instructions to install the [docker](https://docs.google.com/document/d/13hU_wQ4N39bsTjgDUlKEm8Egr-behDOH-TlJQbwfeoc/edit).
 
 ----
-### Updated on Jun 20, 2023
+### Updated on Sep 01, 2023
 
 ### Cloning E3SM from Ryan's Github
 `git clone git@github.com:rgknox/E3SM.git` 
@@ -29,7 +29,7 @@ Please follow the instructions to install the [docker](https://docs.google.com/d
 `git submodule update --init`
 
 ---
-### Updated on Jun 20, 2023
+### Updated on Sep 01, 2023
 ### Add Ryan’s FATES repository as a source
 `cd components/elm/src/external_models/fates/` <br>
 `git remote add rgknox_repo git@github.com:rgknox/fates.git` <br>
@@ -37,7 +37,7 @@ Please follow the instructions to install the [docker](https://docs.google.com/d
 `git fetch rgknox_repo` <br>
 
 ---
-### Updated on Jun 20, 2023
+### Updated on Sep 01, 2023
 ### Checkout the nutrient branch
 `git fetch --all --tags` (fetching all tags) <br>
 
@@ -48,7 +48,7 @@ Please follow the instructions to install the [docker](https://docs.google.com/d
 `git checkout -b bharat-tag-sci.1.61.0_api.25.0.0 sci.1.61.0_api.25.0.0`
 
 ---
-### Updated on Jun 20, 2023
+### Updated on Sep 01, 2023
 ### Getting the updated logging fix
 
 `git remote add anthony_repo git@github.com:walkeranthonyp/fates.git`
@@ -61,7 +61,7 @@ Please follow the instructions to install the [docker](https://docs.google.com/d
 `git fetch`
 
 ---
-### Updated on Jun 20, 2023
+### Updated on Sep 01, 2023
 
 E3SM: `rgknox/lnd/update-suppl-fates-uptake-api25` <br>
 FATES: `tags/sci.1.61.0_api.25.0.0` <br>
@@ -76,7 +76,7 @@ modified:   components/elm/src/external_models/fates (new commits)
 ```
 
 ----
-### Updated on Jun 20, 2023
+### Updated on Sep 01, 2023
 ### Details on the modifications
 
 **Added following lines in `config_compsets.xml`**
@@ -107,11 +107,11 @@ file->mode &= ~NC_64BIT_DATA;
 }*/
 ```      
 ----
-### Updated on Jun 20, 2023
+### Updated on Sep 01, 2023
 Use Call Scripts to run FATES model via OLMT
 
 ---
-### Updated on Jun 20, 2023
+### Updated on Sep 01, 2023
 
 After the simulaions are run successfully, you can use the [ELM_postprocessR](https://github.com/walkeranthonyp/ELM_postprocessR), 
 developed by Dr. Anthony Walker,
