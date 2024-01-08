@@ -8,7 +8,7 @@ description:
 |---|---|
 | Dec 15, 2023| San Francisco, CA, USA|
 |---|---|
-|Presented my paper “[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://doi.org/10.5194/bg-2022-178)” in Amercian Geophysical Union 2023 annual meeting in San Francisco, CA. #AGU2023. |![AGU2023, Dec 15, 2023](./assets/images/news/agu_2023.jpg) |
+|Presented my paper “[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://doi.org/10.5194/bg-2022-178)” in Amercian Geophysical Union 2023 annual meeting in San Francisco, CA. #AGU2023. |![AGU2023, Dec 15, 2023](./assets/images/news/AGU_2023.jpg) |
 |---|---|
 | | |
 | Sep 14, 2023| Oak Ridge, TN, USA|
