@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Work Experience 
-description: 
+title: Work Experience
+description:
 featured-img: assets/images/earth-wide.jpg
 ---
 
@@ -43,18 +43,18 @@ Examined whether the new BMW Innovation and Research Center successfully fitted 
 ## Certifications
 
 **Introduction to Fortran**,
-LinkedInLearning. Jun 2023 
+LinkedInLearning. Jun 2023
 
-**Machine Learning by Stanford University**, 
-Coursera. May, 2022 
+**Machine Learning by Stanford University**,
+Coursera. May, 2022
 
-**Machine Learning, Data Science and Deep Learning with Python**. 
+**Machine Learning, Data Science and Deep Learning with Python**.
 Udemy. Mar, 2021
 
-**New Advances in Land Carbon Cycle Modeling**. 
+**New Advances in Land Carbon Cycle Modeling**.
 Center for Ecosystem Science and Society Northern Arizona University. July, 2020
 
-**Introduction to Machine Learning**. 
+**Introduction to Machine Learning**.
 Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 ## Services

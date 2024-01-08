@@ -1,11 +1,16 @@
 ---
 layout: default
-title: News 
-description: 
+title: News
+description:
 ---
 
 |Date|Place|
 |---|---|
+| Dec 15, 2023| San Francisco, CA, USA|
+|---|---|
+|Presented my paper “[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://doi.org/10.5194/bg-2022-178)” in Amercian Geophysical Union 2023 annual meeting in San Francisco, CA. #AGU2023. |![AGU2023, Dec 15, 2023](./assets/images/news/agu_2023.jpg) |
+|---|---|
+| | |
 | Sep 14, 2023| Oak Ridge, TN, USA|
 |---|---|
 |Stroy published highlighting our work: [**Compound events like wildfires, droughts weaken carbon sink**](https://www.ornl.gov/news/modeling-climate-extremes)|![Story ORNL 2023](./assets/images/news/20230914_Sharma_ORNL_Story.png) |
