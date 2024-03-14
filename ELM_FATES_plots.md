@@ -136,4 +136,10 @@ description: Plots of various simulations at ORNL and Duke forest site using ELM
 [Jupyter Notebook PlotComparisonMetDuke](Posts_Online/Work/PlotComparisonMetDuke.html)
 <hr>
 
+[JN Phenology Issue Cold Deciduous](Posts_Online/Work/Reading_Logs_Phen400.html)
+<hr>
+
+[JN Phenology Issue Cold Deciduous Fixed](Posts_Online/Work/Reading_Logs_Phen500.html)
+<hr>
+
 
