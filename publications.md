@@ -147,13 +147,20 @@ American Geophysical Union Fall Meeting. Chicago, IL, USA.
 [AGU-poster](https://www.researchgate.net/publication/366528084_Using_Statistical_Learning_Methods_to_Accelerate_Model_Parameter_Sensitivity_Experiments)
 
 
-**Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M.
+**Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, & Forrest M. Hoffman.
 November 28, 2022.
 ``Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes (S10106).''
 10th Workshop on Data Mining in Earth System Science (DMESS 2022).
 IEEE International Conference on Data Mining Workshops (ICDMW 2022).
 Orlando, FL, USA.
 Proceedings of the 2019 IEEE International Conference on Data Mining Workshops (ICDMW 2022).
+
+Forrest M. Hoffman, Jitendra (Jitu) Kumar, Morgan Steckler,**Sharma, Bharat**,, and William W. Hargrove.
+April 11, 2022.
+``Quantifying Phenological Variations in Tropical Forests Using High Spatio-Temporal
+Resolution Satellite Remote Sensing.''
+2022 International Association for Landscape Ecology - North America (IALE-NA).
+Virtual Annual Meeting (April 11–14, 2022), USA.
 
 **Sharma, Bharat**, Jitendra Kumar, Forrest M. Hoffman, and Auroop R. Ganguly.
 December 17, 2021.
