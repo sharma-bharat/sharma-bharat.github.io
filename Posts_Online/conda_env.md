@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 title: Posts/Setting up Conda Env
 ---
 
@@ -35,4 +35,14 @@ https://www.macports.org/install.php
 Download [link](.vimrc)
 
 ## XQuatz
-https://www.xquartz.org/ 
+https://www.xquartz.org/
+
+
+## If yaml file does not work
+
+```
+conda create -n pyces python=3.12.3
+conda activate pyces
+
+conda install ipykernel xarray matplotlib netcdf4 scipy dask
+```

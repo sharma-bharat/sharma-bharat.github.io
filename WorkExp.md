@@ -59,6 +59,16 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 ## Services
 
+### Journal Reviewer
+
+[Journal of Geophysical Research. Biogeosciences](https://agupubs.onlinelibrary.wiley.com/journal/21698961) <br>
+
+[Geoscientific Model Development](https://www.geoscientific-model-development.net/) <br>
+
+[Workshop on Data Mining in Earth System Science](https://www.climatemodeling.org/workshops/dmess2022/) <br>
+
+### Convening
+
 **Co-Convener**, Jun 24, 2024
 [BG05](https://www.asiaoceania.org/aogs2024/public.asp?page=sessions_and_conveners.asp){:target="_blank"}: Integrated Understanding of Global Carbon, Water, and Other Biogeochemical Cycles and Their Feedbacks <br>
 Asia Oceania Geosciences Society (AOGS 2024) [link](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp/){:target="_blank"}. <br>

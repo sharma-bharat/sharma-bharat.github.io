@@ -21,10 +21,6 @@ Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon
 [Download](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf).
 [Presentation link](https://docs.google.com/presentation/d/1dqk7v7TJbtoGt4UzblRbH3VisS1Jn79duDdglGfubkY/edit?usp=sharing).
 
-**Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2022).
-Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century
-Biogeosciences Discuss. [preprint], [https://doi.org/10.5194/bg-2022-178](https://doi.org/10.5194/bg-2022-178), in review, 2022.
-
 **Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman. (2022).
 Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
 _Manuscript in Preparation_
