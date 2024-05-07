@@ -92,6 +92,21 @@ modified:   externals/scorpio/src/clib/pioc_support.c
 ```
 ----
 
+### For Baseline
+
+Following changes are required for ORNL Baseline:
+
+https://github.com/E3SM-Project/E3SM/commit/db3790d66664e5f80945e4b46122c1ad1129b8c8
+
+We need a conda env:
+`conda env create -f /ccsopen/home/zdr/OLMT.yml`
+then run the following command in OLMT env: <br>
+`MPICC="mpicc -shared" pip install --no-cache-dir --no-binary=mpi4py mpi4py`
+
+
+
+----
+
 cime_config/machines/config_machines.xml
 
 Edit the following line under `cades` machine options

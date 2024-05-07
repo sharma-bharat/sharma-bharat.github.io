@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 title: Posts/NCO tools
 ---
 
@@ -86,7 +86,7 @@ nces 85_0[1-5].nc 85.nc```
 
 ----
 ## Filling NaN in place of some _FillingValue or vice versa
->http://nco.sourceforge.net/nco.html#nan 
+>http://nco.sourceforge.net/nco.html#nan
 * from _FillingValue to NaN\
 `ncatted -a _FillValue,,o,f,NaN bnu_nep_regrid.nc`
 * from Nan to _filling value\
@@ -107,7 +107,7 @@ eg.:\
 the concatenation result of there two files are stored in the rightmost file
 
 ### Concatenate nc files over lats
->http://forum.marine.copernicus.eu/discussion/205/how-to-mergeconcatenate-cmems-netcdf-files-tips/p1	
+>http://forum.marine.copernicus.eu/discussion/205/how-to-mergeconcatenate-cmems-netcdf-files-tips/p1
 * Adding a record dimension only to the first file
     * `ncks -O --mk_rec_dmn recorddimension in.nc out.nc`
     * `mv decomp_trend_ccsm_gpp_000.nc rd_decomp_trend_ccsm_gpp_000.nc`
@@ -142,7 +142,7 @@ it will copy the variable from sftlf.nc to gpp.nc; so gpp.nc will have variable(
 
 ```
 ncks -d time,0,729 hgt.2006.nc hgt.2006-01.nc
-ncks -d time,730,1459 hgt.2006.nc hgt.2006-02.nc 
+ncks -d time,730,1459 hgt.2006.nc hgt.2006-02.nc
 ```
 e.g.
 ```
@@ -175,20 +175,30 @@ ncwa -O -v tas -a time CESM2_ssp585_r1i1p1f1_anomalies_tas_2001_2013.nc out.nc
 ncbo -O -v tas CESM2_ssp585_r1i1p1f1_anomalies_tas_2001_2013.nc out.nc out.nc
 #Sum the square of the deviations, divide by (N-1), and take the square root
 ncra -O -y rmssdn out.nc out.nc
-mv out.nc CESM2_ssp585_r1i1p1f1_anomalies_tas_2001_2013_std.nc                  
+mv out.nc CESM2_ssp585_r1i1p1f1_anomalies_tas_2001_2013_std.nc
 ```
 ---
 
 ## sum over a time dimension
 
 To sum over a dimension, for example to sum a file of daily precipitation to obtain an annual total
-```
-ncra -h -O -y ttl in.nc out.nc
-```
+
+`ncra --op_typ=ttl in.nc out.nc`
+
+To sum over lat, lon, and time:
+
+`ncap2 -s 'total_gpp=gpp.total($lat,$lon,$time)' ../gppgCG6.nc  total_gpp.nc`
+
+---
+
+## Copying a variable from a file
+
+`ncks -C -v landfrac landfrac.nc gpp.nc`
+
 ---
 
 ## To get rid of the time dimension with the length of 1 month
-Best way: 
+Best way:
 ncwa automatically removes the averaged dimensions from the coordinates attribute
 ncwa -O -v tas -a time CESM2_ssp585_r1i1p1f1_anomalies_tas_2001_2013_std2.nc out.nc
 
