@@ -6,6 +6,13 @@ description:
 
 |Date|Place|
 |---|---|
+| Jul 25, 2024| Oak Ridge, TN, USA|
+|---|---|
+|Our paper, “[Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century](https://doi.org/10.5194/bg-20-1829-2023)” was cited in the New
+Scientist article “[One of Earth's major carbon sinks collapsed in 2023](https://www.newscientist.com/article/2440453-one-of-earths-major-carbon-sinks-collapsed-in-2023/)”.
+|![Download News Article](./assets/images/news/NewScientist_2023.pdf)|
+|---|---|
+| | |
 | Mar 19, 2024| Oak Ridge, TN, USA|
 |---|---|
 |Our paper, ``Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300'' [https://doi.org/10.1029/2021JG006738] was among the most downloaded article. (https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JG006738). |![Certificate](./assets/images/news/AGU_top_download.png)|
