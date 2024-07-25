@@ -65,6 +65,8 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 [Geoscientific Model Development](https://www.geoscientific-model-development.net/) <br>
 
+[Environmental Research Letters](https://iopscience.iop.org/journal/1748-9326) <br>
+
 [Workshop on Data Mining in Earth System Science](https://www.climatemodeling.org/workshops/dmess2022/) <br>
 
 ### Convening
