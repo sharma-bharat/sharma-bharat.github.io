@@ -21,7 +21,13 @@ Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon
 [Download](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf).
 [Presentation link](https://docs.google.com/presentation/d/1dqk7v7TJbtoGt4UzblRbH3VisS1Jn79duDdglGfubkY/edit?usp=sharing).
 
-**Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman. (2022).
+Maedah Rahimitouranposhti, **Sharma, Bharat**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li. (2024).
+Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions.
+104th Transportation Research Board (TRB) Annual Meeting.
+_Manuscript in Review_
+
+
+**Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman. (2024).
 Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
 _Manuscript in Preparation_
 
@@ -66,10 +72,19 @@ Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attribu
 
 ## Master Thesis
 
-Sharma, Bharat. (2016). Resilience in Urban Citie: An approach to study interaction between evacuation and
-land use & transportation infrastructure. Technical University of Munich, Germany. Chair of Urban Structure and
-Transport Planning.
+Sharma, Bharat. (2016).
+Resilience in Urban Cities: An approach to study interaction between evacuation and
+land use & transportation infrastructure. 
+Chair of Urban Structure and Transport Planning.
+Technical University of Munich, Germany.
 [Master Thesis (2016)](./papers/Sharma_masterthesis_TUM_2016.pdf) <br>
+
+## Bachelor Thesis
+
+Sharma, Bharat et al. (2012). Characteristics Of Soil, Sand, Fly Ash And Ceramics Mix For Use As Subgrade Material.
+Department Of Civil Engineering.
+National Institute Of Technology Hamirpur, India.
+[Bachelor Thesis (2012)](./papers/UG_Major_2.pdf) <br>
 
 ## Invited Presentations
 **Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman, "Quantifying the Changes in Carbon Cycle Extremes Due to Land Use Change and Attribution to Climate Drivers Through Year 2300". Reducing Uncertainties in Biogeochemical Interactions through Synthesis and Computation. Feb 19, 2021. Url: [bgc-feedbacks.org/research/presentations/](https://www.bgc-feedbacks.org/research/presentations/Sharma_RUBISCO-SFA_20210219.pdf).

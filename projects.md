@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projects 
-description: 
+title: Projects
+description:
 ---
 ## Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century
 
@@ -79,7 +79,7 @@ The quantitative analysis using VISSIM 7 software confirmed the hypothesis that 
 [Accessibility to Primary Education with respect to Fuel Price Hikes (2014)](./presentations/Sharma_Accessibility.jpg) by Bharat Sharma <br>
 
 [Congestion Pricing in the city of London (2014)](./presentations/Congestion_Prising_Case_Study_London.pdf) by Bharat Sharma, Aslam Zuhair, Karakikes Ioannis, Karatsoli Maria, Keen Umair Hamid, and Politi Stamatia <br>
-  
+
 
 <hr>
 
@@ -98,7 +98,7 @@ _* Name changed in 2016_
 <hr>
 
 ## Temporal Interpolation of Geostationary Satellite Imagery With Optical Flow
- 
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/NeMXPQw3CJU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe></center> <br>
 **DeepSpatial 2020 Best Spotlight Presentation** <br>
 **Authors:** Thomas Vandal & Rama Nemani <br>
@@ -109,7 +109,7 @@ _* Name changed in 2016_
 
 <hr>
 
-## Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning 
+## Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning
 
 ![alt text](assets/images/kdd2018-uq-intervals.png "Logo Title Text 1")
 

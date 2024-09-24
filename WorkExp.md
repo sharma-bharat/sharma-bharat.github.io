@@ -13,7 +13,7 @@ For Publications and Presentations : [Click Here!](https://sharma-bharat.github.
 
 **Obermeyer Planen + Beraten GmbH, Munich, Germany** (Mar'15 - Aug'16) <br>
 Intern + Part-time employee, Department of Rail Design and Engineering. <br>
-Project ‘High-speed railway between Košice and the Twin-City region Vienna-Bratislava \url{http://www.breitspur.com/}', creating high performance transportation from Russia, China and Asian countries to Central Europe. <br>
+[Project](http://www.breitspur.com/) ‘High-speed railway between Košice and the Twin-City region Vienna-Bratislava', creating high performance transportation from Russia, China and Asian countries to Central Europe. <br>
 Supported Phase 1 System Development, analysis of the pre-feasibility studies, selection of suitable rail corridor and terminal locations.
 
 **GMR Airport Developers Limited, New Delhi, India** (Jul'12 - Sep'13) <br>
@@ -23,6 +23,15 @@ In charge of quality control for relaying of runway 29/11 and taxiways with Lars
 
 
 ## Projects Completed
+
+**University of Tennessee, Knoxville, USA** (Feb'24 - )  <br>
+ARPA-E (INTERMODAL). [Team](https://recoil.utk.edu/index.php/people/). <br>
+Title: A Cognitive Freight Transportation Digital Twin for Resiliency and Emission
+Control through Optimizing Intermodal Logistics (RECOIL). <br>
+Role: Research Mentor and Advisor on Investigating Resiliency of
+Intermodal Freight Transportation Systems of the US under Targeted and
+Climate Change based Potential Disruptions.
+
 
 **Technical University of Munich (TUM), Germany** (Mar'16 - Aug'16)  <br>
 Master Thesis at Department of Urban Structure & Transport Planning. <br>
@@ -60,6 +69,8 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 ## Services
 
 ### Journal Reviewer
+
+[Environmental Research Letters ](https://iopscience.iop.org/journal/1748-9326) <br>
 
 [Journal of Geophysical Research. Biogeosciences](https://agupubs.onlinelibrary.wiley.com/journal/21698961) <br>
 
