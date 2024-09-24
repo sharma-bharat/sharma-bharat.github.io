@@ -11,6 +11,14 @@ For Publications and Presentations : [Click Here!](https://sharma-bharat.github.
 
 ## Work Experience
 
+**University of Tennessee, Knoxville, USA** (Feb'24 - )  <br>
+ARPA-E (INTERMODAL). [Team](https://recoil.utk.edu/index.php/people/). <br>
+Title: A Cognitive Freight Transportation Digital Twin for Resiliency and Emission
+Control through Optimizing Intermodal Logistics (RECOIL). <br>
+Role: Research Mentor and Advisor on Investigating Resiliency of
+Intermodal Freight Transportation Systems of the US under Targeted and
+Climate Change based Potential Disruptions.
+
 **Obermeyer Planen + Beraten GmbH, Munich, Germany** (Mar'15 - Aug'16) <br>
 Intern + Part-time employee, Department of Rail Design and Engineering. <br>
 [Project](http://www.breitspur.com/) ‘High-speed railway between Košice and the Twin-City region Vienna-Bratislava', creating high performance transportation from Russia, China and Asian countries to Central Europe. <br>
@@ -23,15 +31,6 @@ In charge of quality control for relaying of runway 29/11 and taxiways with Lars
 
 
 ## Projects Completed
-
-**University of Tennessee, Knoxville, USA** (Feb'24 - )  <br>
-ARPA-E (INTERMODAL). [Team](https://recoil.utk.edu/index.php/people/). <br>
-Title: A Cognitive Freight Transportation Digital Twin for Resiliency and Emission
-Control through Optimizing Intermodal Logistics (RECOIL). <br>
-Role: Research Mentor and Advisor on Investigating Resiliency of
-Intermodal Freight Transportation Systems of the US under Targeted and
-Climate Change based Potential Disruptions.
-
 
 **Technical University of Munich (TUM), Germany** (Mar'16 - Aug'16)  <br>
 Master Thesis at Department of Urban Structure & Transport Planning. <br>
