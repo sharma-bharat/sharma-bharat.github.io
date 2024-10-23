@@ -115,14 +115,17 @@ Held in conjunction with the IEEE International Conference on Data Mining (ICDM 
 *The Journal Club was a informal voluntary group of students, postdocs, and ORNL personnel interested in Earth system science. The Journal Club met every other week to discuss a relatively short and recent paper focused on climate dynamics, hydrology, terrestrial or marine ecosystems, human systems, computational methods, remote sensing, observational data, big data analytics, or related topics. Papers were chosen by the group from suggestions from the membership.* <br>
 **Responsibilities**: In-charge of scheduling and coordinating the paper presentations, and maintaining the [website](https://www.climatemodeling.org/~bharat/journal_club.html).
 
-## Mentorship Roles (2 Male, 3 Female Students)
-
-**Shamik Bhattacharya** (North Carolina State University, Raleigh, North Carolina) <br>
+## Mentorship Roles
+**Maedeh Rahimitouranposhti** (University of Knoxville, Tennessee) <br>
 **Pragya Kandel** (University of Knoxville, Tennessee) <br>
+**Shamik Bhattacharya** (North Carolina State University, Raleigh, North Carolina) <br>
 **Russ Limber** (University of Knoxville, Tennessee) <br>
 **Morgan Steckler** (University of Knoxville, Tennessee) <br>
 **Sophia Bailey** (Northeastern University, Boston, Massachusetts) <br>
 Co-mentored the class project of 30 graduate and undergraduate students (CIVE 5363, Spring 2021) <br>
+
+## Advisory Roles
+**Maedeh Rahimitouranposhti** (University of Knoxville, Tennessee) [Master Thesis](https://trace.tennessee.edu/utk_induengipubs/6/)<br>
 
 ## Teaching Roles
 
