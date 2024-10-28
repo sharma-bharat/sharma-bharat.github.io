@@ -23,9 +23,13 @@ Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon
 
 Maedah Rahimitouranposhti, **Sharma, Bharat**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li. (2024).
 Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions.
-104th Transportation Research Board (TRB) Annual Meeting.
-_Manuscript in Review_
+104th Transportation Research Board (TRB) Annual Meeting. Accepted in TRB.
+_Manuscript in Review for TRR journal_
 
+Massoud, E. C., Collier, N., **Sharma, Bharat**, and Hoffman, F. M.
+Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers (2024).
+_Manuscript accepted in International Workshop on Big Data Analytics with Artificial Intelligence for Climate Change_.
+2024 IEEE International Conference on Big Data.
 
 **Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman. (2024).
 Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
@@ -74,7 +78,7 @@ Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attribu
 
 Sharma, Bharat. (2016).
 Resilience in Urban Cities: An approach to study interaction between evacuation and
-land use & transportation infrastructure. 
+land use & transportation infrastructure.
 Chair of Urban Structure and Transport Planning.
 Technical University of Munich, Germany.
 [Master Thesis (2016)](./papers/Sharma_masterthesis_TUM_2016.pdf) <br>

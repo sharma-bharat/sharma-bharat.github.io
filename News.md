@@ -6,6 +6,16 @@ description:
 
 |Date|Place|
 |---|---|
+| Oct 27, 2024| Oak Ridge, TN, USA|
+|---|---|
+|Our paper, ``Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers'' was accepted 2nd International Workshop on Big Data Analytics with Artificial Intelligence for Climate Change in conjunction with IEEE Bigdata 2024 in Washington DC, USA. |[Link to Workshop](https://66c87495361cdf77d1e6ad36--brilliant-beijinho-c4610a.netlify.app/)|
+|---|---|
+| | |
+| Sep 27, 2024| Oak Ridge, TN, USA|
+|---|---|
+|Our paper, ``Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions'' was accepted in Transportation Research Board 2025 Annual Meeting in Washington DC, USA. It is recommended for TRR Journal.|[Link to Conference](https://trb-annual-meeting.nationalacademies.org/)|
+|---|---|
+| | |
 | Jul 25, 2024| Oak Ridge, TN, USA|
 |---|---|
 |Our paper “[Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century](https://doi.org/10.5194/bg-20-1829-2023)” was cited in the New Scientist article “[One of Earth's major carbon sinks collapsed in 2023](https://www.newscientist.com/article/2440453-one-of-earths-major-carbon-sinks-collapsed-in-2023/)” [Download News Article](./assets/images/news/NewScientist_2023.pdf).|![News Article](./assets/images/news/202407_newscientist_pic.png)|
