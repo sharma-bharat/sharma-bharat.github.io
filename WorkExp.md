@@ -71,11 +71,11 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 [Environmental Research Letters ](https://iopscience.iop.org/journal/1748-9326) <br>
 
-[Journal of Geophysical Research. Biogeosciences](https://agupubs.onlinelibrary.wiley.com/journal/21698961) <br>
+[Journal of Geophysical Research, Biogeosciences](https://agupubs.onlinelibrary.wiley.com/journal/21698961) <br>
 
 [Geoscientific Model Development](https://www.geoscientific-model-development.net/) <br>
 
-[Environmental Research Letters](https://iopscience.iop.org/journal/1748-9326) <br>
+[Biogeosciences (EGU)](https://www.biogeosciences.net/) <br>
 
 [Workshop on Data Mining in Earth System Science](https://www.climatemodeling.org/workshops/dmess2022/) <br>
 
