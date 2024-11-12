@@ -8,7 +8,7 @@ description:
 |---|---|
 | Nov 12, 2024| University of Tennessee, TN, USA|
 |---|---|
-|My student, Maedeh Rahimitouranposhti successfully defended her masters thesis, ``Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions'' at University of Tennessee, Knoxville. |[Post Defense Pic](./assets/images/news/2024_Maedeh_Defense.jpeg)|
+|My student, Maedeh Rahimitouranposhti successfully defended her masters thesis, ``Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions'' at University of Tennessee, Knoxville. |![Post Defense Pic](./assets/images/news/2024_Maedeh_Defense.jpeg)|
 |---|---|
 | | |
 | Oct 27, 2024| Oak Ridge, TN, USA|
