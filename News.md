@@ -13,7 +13,7 @@ description:
 | | |
 | Oct 27, 2024| Oak Ridge, TN, USA|
 |---|---|
-|Our paper, ``Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers'' was accepted 2nd International Workshop on Big Data Analytics with Artificial Intelligence for Climate Change in conjunction with IEEE Bigdata 2024 in Washington DC, USA. |[Link to Workshop](https://66c87495361cdf77d1e6ad36--brilliant-beijinho-c4610a.netlify.app/)|
+|Our paper, ``Enhancing Photosynthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers'' was accepted 2nd International Workshop on Big Data Analytics with Artificial Intelligence for Climate Change in conjunction with IEEE Bigdata 2024 in Washington DC, USA. |[Link to Workshop](https://66c87495361cdf77d1e6ad36--brilliant-beijinho-c4610a.netlify.app/)|
 |---|---|
 | | |
 | Sep 27, 2024| Oak Ridge, TN, USA|
@@ -33,12 +33,11 @@ description:
 | | |
 | Dec 15, 2023| San Francisco, CA, USA|
 |---|---|
-|Presented my paper “[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://doi.org/10.5194/bg-2022-178)” in Amercian Geophysical Union 2023 annual meeting in San Francisco, CA. #AGU2023. |![AGU2023, Dec 15, 2023](./assets/images/news/AGU_2023.jpg) |
+|Presented my paper “[Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP](https://doi.org/10.5194/bg-2022-178)” in American Geophysical Union 2023 annual meeting in San Francisco, CA. #AGU2023. |![AGU2023, Dec 15, 2023](./assets/images/news/AGU_2023.jpg) |
 |---|---|
 | | |
 | Sep 14, 2023| Oak Ridge, TN, USA|
-|---|---|
-|Stroy published highlighting our work: [**Compound events like wildfires, droughts weaken carbon sink**](https://www.ornl.gov/news/modeling-climate-extremes)|![Story ORNL 2023](./assets/images/news/20230914_Sharma_ORNL_Story.png) |
+|Story published highlighting our work: [**Compound events like wildfires, droughts weaken carbon sink**](https://www.ornl.gov/news/modeling-climate-extremes)|![Story ORNL 2023](./assets/images/news/20230914_Sharma_ORNL_Story.png) |
 |---|---|
 | | |
 | Aug 02, 2023| Singapore|
@@ -53,7 +52,7 @@ description:
 | | |
 | Jun 28, 2023| Oak Ridge, TN, USA|
 |---|---|
-|Completed the course “Introduction to Fortran”! #fortran #LinkedInLearning|![Introduction to Fortran](./assets/images/news/CertificateOfCompletion_Introduction to Fortran.png) |
+|Completed the course “Introduction to FORTRAN”! #FORTRAN #LinkedInLearning|![Introduction to FORTRAN](./assets/images/news/CertificateOfCompletion_Introduction to Fortran.png) |
 |---|---|
 | | |
 | May 22, 2023| Oak Ridge, TN, USA|
@@ -83,17 +82,17 @@ description:
 | | |
 | Jan 9, 2023| Denver, CO, USA|
 |---|---|
-|Presented poster titled “[Increased Intensity of Carbon Cycle Extremes Driven by Land Use and Land Cover Change (Poster ID 45)](https://doi.org/10.1029/2021JG006738)” in Amercian Meteorological Society’s 36th Conference on Climate Variability and Change in Denver, CO. #AMS2023.|![AMS2023, Jan 8, 2023](./assets/images/news/ams2023.jpg) |
+|Presented poster titled “[Increased Intensity of Carbon Cycle Extremes Driven by Land Use and Land Cover Change (Poster ID 45)](https://doi.org/10.1029/2021JG006738)” in American Meteorological Society’s 36th Conference on Climate Variability and Change in Denver, CO. #AMS2023.|![AMS2023, Jan 8, 2023](./assets/images/news/ams2023.jpg) |
 |---|---|
 | | |
 | Dec 16, 2022| Chicago, IL, USA|
 |---|---|
-|Pragya received Best Student Presenter award for the her work in Drought susceptibility across different natural biomes in AGU fall meeting 2022 in Chicago.|![Best Student Presentation, Dec 16, 2022](./assets/images/news/pragya_agu22.jpeg) |
+|Pragya received Best Student Presenter award for her work in Drought susceptibility across different natural biomes in AGU fall meeting 2022 in Chicago.|![Best Student Presentation, Dec 16, 2022](./assets/images/news/pragya_agu22.jpeg) |
 |---|---|
 | | |
 | Dec 15, 2022| Chicago, IL, USA|
 |---|---|
-|Presented my paper “[Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century](https://doi.org/10.5194/bg-2022-178)” in Amercian Geophysical Union 2022 annual meeting in Chicago, IL. #AGU2022. |![AGU2022, Dec 15, 2022](./assets/images/news/agu2022.jpg) |
+|Presented my paper “[Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century](https://doi.org/10.5194/bg-2022-178)” in American Geophysical Union 2022 annual meeting in Chicago, IL. #AGU2022. |![AGU2022, Dec 15, 2022](./assets/images/news/agu2022.jpg) |
 |---|---|
 | | |
 | Dec 6, 2022| Oak Ridge, TN, USA|
