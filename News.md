@@ -6,6 +6,11 @@ description:
 
 |Date|Place|
 |---|---|
+| Nov 12, 2024| University of Tennessee, TN, USA|
+|---|---|
+|My student, Maedeh Rahimitouranposhti successfully defended her masters thesis, ``Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions'' at University of Tennessee, Knoxville. |[Post Defense Pic](./assets/images/news/2024_Maedeh_Defense.jpeg)|
+|---|---|
+| | |
 | Oct 27, 2024| Oak Ridge, TN, USA|
 |---|---|
 |Our paper, ``Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers'' was accepted 2nd International Workshop on Big Data Analytics with Artificial Intelligence for Climate Change in conjunction with IEEE Bigdata 2024 in Washington DC, USA. |[Link to Workshop](https://66c87495361cdf77d1e6ad36--brilliant-beijinho-c4610a.netlify.app/)|
