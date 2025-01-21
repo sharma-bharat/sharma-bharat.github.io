@@ -6,6 +6,10 @@ featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal and Conference Papers
 
+Massoud, E. C., Collier, N., **Sharma, Bharat**, and Hoffman, F. M.
+Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers (2024).
+2024 IEEE International Conference on Big Data (BigData), Washington, DC, USA, 2024, pp. 4351-4356, doi: 10.1109/BigData62323.2024.10825207.
+
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2023).
 Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century.
 Biogeosciences, 20, 1829–1841, [https://doi.org/10.5194/bg-20-1829-2023](https://doi.org/10.5194/bg-20-1829-2023).
@@ -25,11 +29,6 @@ Maedah Rahimitouranposhti, **Sharma, Bharat**, Mustafa Can Camur, Olufemi A. Omi
 Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions.
 104th Transportation Research Board (TRB) Annual Meeting. Accepted in TRB.
 _Manuscript in Review for TRR journal_
-
-Massoud, E. C., Collier, N., **Sharma, Bharat**, and Hoffman, F. M.
-Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers (2024).
-_Manuscript accepted in International Workshop on Big Data Analytics with Artificial Intelligence for Climate Change_.
-2024 IEEE International Conference on Big Data.
 
 **Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman. (2024).
 Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
