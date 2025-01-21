@@ -8,12 +8,13 @@ featured-img: assets/images/earth-wide.jpg
 
 Massoud, E. C., Collier, N., **Sharma, Bharat**, and Hoffman, F. M.
 Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers (2024).
-2024 IEEE International Conference on Big Data (BigData), Washington, DC, USA, 2024, pp. 4351-4356, doi: 10.1109/BigData62323.2024.10825207.
+2024 IEEE International Conference on Big Data (BigData), Washington, DC, USA, 2024, pp. 4351-4356 [https://doi.org/10.1109/BigData62323.2024.10825207](https://ieeexplore.ieee.org/document/10825207).
+[Download](./papers/Sharma_2023_BG_NBPExtremes.pdf)
 
 **Sharma, Bharat**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2023).
 Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century.
 Biogeosciences, 20, 1829–1841, [https://doi.org/10.5194/bg-20-1829-2023](https://doi.org/10.5194/bg-20-1829-2023).
-[Download](./papers/Sharma_2023_BG_NBPExtremes.pdf)
+[Download](./papers/MassoudSharma_2024_ML_IEEEBigData.pdf)
 
 **Sharma, Bharat**, Kumar, J., Collier, N., Ganguly, A. R., & Hoffman, F. M. (2022). Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300. Journal of Geophysical Research: Biogeosciences, 127, e2021JG006738. [https://doi.org/10.1029/2021JG006738](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JG006738).
 [Download](./papers/Sharma_2022_CarbonExtremes_LULCC.pdf)

@@ -6,6 +6,11 @@ description:
 
 |Date|Place|
 |---|---|
+| Jan 16, 2025| Oak Ridge, TN, USA|
+|---|---|
+|Our paper, ``Enhancing Photosynthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers'' was published 2nd International Workshop on Big Data Analytics with Artificial Intelligence for Climate Change in conjunction with IEEE Bigdata 2024 in Washington DC, USA. ![Link to paper:](https://ieeexplore.ieee.org/document/10825207)  |![Pic](./assets/images/news/20250116_IEEE_BigData.jpeg)|
+|---|---|
+| | |
 | Nov 12, 2024| University of Tennessee, TN, USA|
 |---|---|
 |My student, Maedeh Rahimitouranposhti successfully defended her masters thesis, ``Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions'' at University of Tennessee, Knoxville. |![Post Defense Pic](./assets/images/news/2024_Maedeh_Defense.jpeg)|
