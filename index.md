@@ -8,9 +8,6 @@ description: Earth System Modeling, Machine Learning, Data Science, and Earth Sc
 
 ---
 
-My research is at the intersection of Data Science and Earth science, and high-performance computing. I am interested in analyzing spatio-temporal extremes in carbon fluxes using Observations and Earth System Models to quantify the impact of climate change on potential carbon uptake and carbon sink.
-
-## Bio
 I am a [Research Scientist](https://www.ornl.gov/staff-profile/bharat-d-sharma) in the Computational Urban Sciences Group within the [Computational Sciences and Engineering Division](https://www.ornl.gov/division/csed) at [Oak Ridge National Laboratory](https://www.ornl.gov/). My work focuses on the intersection of computational Earth system modeling and critical infrastructure systems, advancing the representation and prediction of complex environmental–infrastructure feedbacks, urban resiliency, and transportation systems by leveraging big data, network science, machine learning, and high-performance computing.
 
 Currently, I am engaged in several multidisciplinary projects, including:
