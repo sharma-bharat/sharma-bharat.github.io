@@ -96,9 +96,22 @@ National Institute Of Technology Hamirpur, India.
 
 ## Conference Presentations
 
+**Sharma, Bharat**, R. Knox, C. Koven, E. Agee, R. Fisher, R. Oren, R. Norby, D. Ricciuto, X. Wei, X. Yang, and A. Walker,
+10 Dec 2024.
+“Simulating CO<sub>2</sub> Responses in Even-Aged Secondary Forests at Duke and Oak Ridge FACE Experiments with ELM-FATES-CNP.”
+American Geophysical Union Fall Meeting. Washington DC, USA.
+[details](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1688966)
+
+**Sharma, Bharat**, A. Walker, R. Knox, C. Koven, E. Agee, R. Fisher, R. Oren, R. Norby, D. Ricciuto, X. Wei, and X. Yang
+Apr 17, 2024.
+"Simulating CO<sub>2</sub> Responses of Secondary-
+Succession Forests at Duke and Oak Ridge
+FACE Experiments with ELM-FATES-CNP"
+2024 ESS PI Meeting, 16-17 Apr 2024, Reston, Virginia, USA.
+
 **Sharma, Bharat**, A. Walker, R. Knox, C. Koven, E. Agee, R. Fisher, R. Oren, R. Norby, D. Ricciuto, X. Wei, and X. Yang
 15 Dec 2023.
-“Investigating the CO2 Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP.”
+“Investigating the CO<sub>2</sub> Response of Secondary-Succession Forests at Duke and Oak Ridge FACE Experiments Simulated with ELM-FATES-CNP.”
 American Geophysical Union Fall Meeting. San Francisco, CL, USA.
 ESS Open Archive.
 [doi:10.22541/essoar.170365279.90601011/v1](https://essopenarchive.org/users/710086/articles/694482-investigating-the-co2-response-of-secondary-succession-forests-at-duke-and-oak-ridge-face-experiments-simulated-with-elm-fates-cnp)
