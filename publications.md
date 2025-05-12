@@ -108,6 +108,7 @@ Apr 17, 2024.
 Succession Forests at Duke and Oak Ridge
 FACE Experiments with ELM-FATES-CNP"
 2024 ESS PI Meeting, 16-17 Apr 2024, Reston, Virginia, USA.
+[List Of Abstracts](https://ess.science.energy.gov/wp-content/uploads/2024/03/ESS-PI-Meeting-Abstracts_050624.pdf#page=108.32)
 
 **Sharma, Bharat**, A. Walker, R. Knox, C. Koven, E. Agee, R. Fisher, R. Oren, R. Norby, D. Ricciuto, X. Wei, and X. Yang
 15 Dec 2023.
