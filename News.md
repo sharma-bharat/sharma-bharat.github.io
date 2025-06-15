@@ -16,6 +16,13 @@ description:
 |I gave a seminar at [Centre of Atmospheric Sciences](https://cas.iitd.ac.in/) at [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/) on ``From Carbon Cycle Extremes to Forest Growth: Investigating Climate–Carbon Feedbacks Under Elevated CO₂'' on May 28, 2025 in New Delhi, India.|![Pic](./assets/images/news/2025_IITD_CAS.jpg)|
 |---|---|
 | | |
+| May 1, 2025| Oak Ridge, TN, USA|
+|---|---|
+|Starting a new professional journey as Research Scientist, Computational Urban Sciences at Oak Ridge National Laboratory!| ![Pic](./assets/images/news/2025_RS_FirstDay.png) |
+|---|---|
+| | |
+|---|---|
+| | |
 | Apr 30, 2025| Oak Ridge, TN, USA|
 |---|---|
 |Elias Massoud presented our work ``ESGF-LLM: Building a Domain-Specific LLM for Earth System Data'' at The First ORNL AI4Science Workshop on April 30, 2025 in Oak Ridge National Laboratory, TN, USA.| [Webpage](https://ornl.github.io/events/AI4Science-April-2025/#posters) |
