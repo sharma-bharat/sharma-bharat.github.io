@@ -6,6 +6,21 @@ description:
 
 |Date|Place|
 |---|---|
+| May 29, 2025| New Delhi, India|
+|---|---|
+|I gave a seminar at [Department of Civil Engineering](https://civil.iitd.ac.in/) at [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/) on ``Integrating Carbon Cycle Science and Artificial Intelligence: From Ecosystem Extremes to Societal Resilience'' on May 29, 2025 in New Delhi, India.|![Pic](./assets/images/news/2025_IITD_CE.jpg)|
+|---|---|
+| | |
+| May 28, 2025| New Delhi, India|
+|---|---|
+|I gave a seminar at [Centre of Atmospheric Sciences](https://cas.iitd.ac.in/) at [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/) on ``From Carbon Cycle Extremes to Forest Growth: Investigating Climate–Carbon Feedbacks Under Elevated CO₂'' on May 28, 2025 in New Delhi, India.|![Pic](./assets/images/news/2025_IITD_CAS.jpg)|
+|---|---|
+| | |
+| Apr 30, 2025| Oak Ridge, TN, USA|
+|---|---|
+|Elias Massoud presented our work ``ESGF-LLM: Building a Domain-Specific LLM for Earth System Data'' at The First ORNL AI4Science Workshop on April 30, 2025 in Oak Ridge National Laboratory, TN, USA.| [Webpage](https://ornl.github.io/events/AI4Science-April-2025/#posters) |
+|---|---|
+| | |
 | Jan 16, 2025| Oak Ridge, TN, USA|
 |---|---|
 |Our paper, ``Enhancing Photosynthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers'' was published 2nd International Workshop on Big Data Analytics with Artificial Intelligence for Climate Change in conjunction with IEEE Bigdata 2024 in Washington DC, USA. [Link to paper:](https://ieeexplore.ieee.org/document/10825207)  |![Pic](./assets/images/news/20250116_IEEE_BigData.png)|
