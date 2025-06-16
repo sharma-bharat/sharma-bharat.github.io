@@ -116,15 +116,17 @@ Held in conjunction with the IEEE International Conference on Data Mining (ICDM 
 **Responsibilities**: In-charge of scheduling and coordinating the paper presentations, and maintaining the [website](https://www.climatemodeling.org/~bharat/journal_club.html).
 
 ## Mentorship Roles
-**Maedeh Rahimitouranposhti** (University of Knoxville, Tennessee) <br>
-**Pragya Kandel** (University of Knoxville, Tennessee) <br>
-**Shamik Bhattacharya** (North Carolina State University, Raleigh, North Carolina) <br>
-**Russ Limber** (University of Knoxville, Tennessee) <br>
-**Morgan Steckler** (University of Knoxville, Tennessee) <br>
-**Sophia Bailey** (Northeastern University, Boston, Massachusetts) <br>
+**Pragati Verma** (Indian Institute of Delhi, India), Project Scientist DST, 2025-present <br>
+**Aliza Sharmin** (University of Knoxville, Tennessee), PhD Student, 2025-present <br>
+**Pragya Kandel** (University of Knoxville, Tennessee), PhD Student, 2022-present <br>
+**Maedeh Rahimitouranposhti** (University of Knoxville, Tennessee), Master and PhD Student, 2024-25<br>
+**Shamik Bhattacharya** (North Carolina State University, Raleigh, North Carolina), UG Student, 2023 <br>
+**Russ Limber** (University of Knoxville, Tennessee), PhD Student, 2022 <br>
+**Morgan Steckler** (University of Knoxville, Tennessee), Master Student, 2021 <br>
+**Sophia Bailey** (Northeastern University, Boston, Massachusetts),UG Student, 2021 <br>
 Co-mentored the class project of 30 graduate and undergraduate students (CIVE 5363, Spring 2021) <br>
 
-## Advisory Roles
+## Official Advisory Roles
 **Maedeh Rahimitouranposhti** (University of Knoxville, Tennessee) [Master Thesis](https://trace.tennessee.edu/utk_induengipubs/6/)<br>
 
 ## Teaching Roles

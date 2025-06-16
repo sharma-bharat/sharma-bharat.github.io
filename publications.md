@@ -6,6 +6,10 @@ featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal and Conference Papers
 
+Maedah Rahimitouranposhti, **Sharma, Bharat**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li. (2025).
+Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions.
+Transportation Research Review (TRB). *Accepted in TRR*.
+
 Massoud, E. C., Collier, N., **Sharma, Bharat**, and Hoffman, F. M.
 Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers (2024).
 2024 IEEE International Conference on Big Data (BigData), Washington, DC, USA, 2024, pp. 4351-4356 [https://doi.org/10.1109/BigData62323.2024.10825207](https://ieeexplore.ieee.org/document/10825207).
@@ -25,11 +29,6 @@ Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon
 [https://doi.org/10.1109/ICDMW58026.2022.00148](https://doi.org/10.1109/ICDMW58026.2022.00148).
 [Download](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf).
 [Presentation link](https://docs.google.com/presentation/d/1dqk7v7TJbtoGt4UzblRbH3VisS1Jn79duDdglGfubkY/edit?usp=sharing).
-
-Maedah Rahimitouranposhti, **Sharma, Bharat**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li. (2024).
-Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions.
-104th Transportation Research Board (TRB) Annual Meeting. Accepted in TRB.
-_Manuscript in Review for TRR journal_
 
 **Sharma, Bharat**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman. (2024).
 Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
