@@ -3,9 +3,19 @@ layout: default
 title: News
 description:
 ---
-
 |Date|Place|
 |---|---|
+| Jun 20, 2025| Oak Ridge, TN, USA|
+|---|---|
+|Today I had the opportunity to attend the new hire orientation for the Computing and Computational Sciences Directorate (CCSD).
+It was great to hear from Dr. Gina Tourassi - Associate Laboratory Director, Division Directors (Dr. Teja Kuruganti, Dr. Michael Parks, and Dr. Arjun Shankar), and several group leaders about the impactful work happening across the directorate. I especially appreciated learning about the diverse accomplishments of the teams and how their efforts have contributed to the DOE’s broader mission over the years. We also had a chance to tour Frontier, the world’s first computer to cross the exaflop barrier — a testament to the lab’s leadership in computational science. Looking forward to contributing to this incredible community at ORNL.|![Pic](./assets/images/news/2025_DirectorateNEO.jpg)|
+|---|---|
+| | |
+| Jun 18, 2025| Oak Ridge, TN, USA|
+|---|---|
+|Consider submitting your abstract to “[B066 - New Mechanisms, Interactions, and Approaches for Predicting Global Biogeochemical Cycles](https://agu.confex.com/agu/agu25/prelim.cgi/Session/249107)” in American Geophyisical Union 2025 in New Orleans (Dec 15-19, 2025)|![Convernor AGU2025](./assets/images/news/2025_AGU_Session.png) |
+|---|---|
+| | |
 | May 29, 2025| New Delhi, India|
 |---|---|
 |I gave a seminar at [Department of Civil Engineering](https://civil.iitd.ac.in/) at [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/) on ``Integrating Carbon Cycle Science and Artificial Intelligence: From Ecosystem Extremes to Societal Resilience'' on May 29, 2025 in New Delhi, India.|![Pic](./assets/images/news/2025_IITD_CE.jpg)|
