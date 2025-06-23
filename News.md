@@ -8,7 +8,7 @@ description:
 | Jun 20, 2025| Oak Ridge, TN, USA|
 |---|---|
 |Today I had the opportunity to attend the new hire orientation for the Computing and Computational Sciences Directorate (CCSD).
-It was great to hear from Dr. Gina Tourassi - Associate Laboratory Director, Division Directors (Dr. Teja Kuruganti, Dr. Michael Parks, and Dr. Arjun Shankar), and several group leaders about the impactful work happening across the directorate. I especially appreciated learning about the diverse accomplishments of the teams and how their efforts have contributed to the DOE’s broader mission over the years. We also had a chance to tour Frontier, the world’s first computer to cross the exaflop barrier — a testament to the lab’s leadership in computational science. Looking forward to contributing to this incredible community at ORNL.|![Pic](./assets/images/news/2025_DirectorateNEO.jpg)|
+It was great to hear from Dr. Gina Tourassi - Associate Laboratory Director, Division Directors (Dr. Teja Kuruganti, Dr. Michael Parks, and Dr. Arjun Shankar), and several group leaders about the impactful work happening across the directorate. I especially appreciated learning about the diverse accomplishments of the teams and how their efforts have contributed to the DOE’s broader mission over the years. We also had a chance to tour Frontier, the world’s first computer to cross the exaflop barrier — a testament to the lab’s leadership in computational science. Looking forward to contributing to this incredible community at ORNL.|![Pic](./assets/images/news/2025_NEOGroupPic.jpg)|
 |---|---|
 | | |
 | Jun 18, 2025| Oak Ridge, TN, USA|
