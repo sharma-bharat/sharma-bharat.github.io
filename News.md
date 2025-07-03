@@ -18,12 +18,12 @@ It was great to hear from Dr. Gina Tourassi - Associate Laboratory Director, Div
 | | |
 | May 29, 2025| New Delhi, India|
 |---|---|
-|I gave a seminar at [Department of Civil Engineering](https://civil.iitd.ac.in/) at [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/) on ``Integrating Carbon Cycle Science and Artificial Intelligence: From Ecosystem Extremes to Societal Resilience'' on May 29, 2025 in New Delhi, India.|![Pic](./assets/images/news/2025_IITD_CE.jpg)|
+|I gave a seminar at [Department of Civil Engineering](https://civil.iitd.ac.in/) at [Indian Institute of Technology Delhi](https://home.iitd.ac.in/) on ``Integrating Carbon Cycle Science and Artificial Intelligence: From Ecosystem Extremes to Societal Resilience'' on May 29, 2025 in New Delhi, India.|![Pic](./assets/images/news/2025_IITD_CE.jpg)|
 |---|---|
 | | |
 | May 28, 2025| New Delhi, India|
 |---|---|
-|I gave a seminar at [Centre of Atmospheric Sciences](https://cas.iitd.ac.in/) at [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/) on ``From Carbon Cycle Extremes to Forest Growth: Investigating Climate–Carbon Feedbacks Under Elevated CO₂'' on May 28, 2025 in New Delhi, India.|![Pic](./assets/images/news/2025_IITD_CAS.jpg)|
+|I gave a seminar at [Centre of Atmospheric Sciences](https://cas.iitd.ac.in/) at [Indian Institute of Technology Delhi](https://home.iitd.ac.in/) on ``From Carbon Cycle Extremes to Forest Growth: Investigating Climate–Carbon Feedbacks Under Elevated CO₂'' on May 28, 2025 in New Delhi, India.|![Pic](./assets/images/news/2025_IITD_CAS.jpg)|
 |---|---|
 | | |
 | May 1, 2025| Oak Ridge, TN, USA|

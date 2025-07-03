@@ -77,7 +77,10 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 [Biogeosciences (EGU)](https://www.biogeosciences.net/) <br>
 
+[Earth Systems and Environment](https://link.springer.com/journal/41748) <br>
+
 [Workshop on Data Mining in Earth System Science](https://www.climatemodeling.org/workshops/dmess2022/) <br>
+
 
 ### Convening
 

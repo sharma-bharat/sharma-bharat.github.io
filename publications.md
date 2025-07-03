@@ -90,7 +90,11 @@ National Institute Of Technology Hamirpur, India.
 [Bachelor Thesis (2012)](./papers/UG_Major_2.pdf) <br>
 
 ## Invited Presentations
-**Sharma, Bharat**, Jitendra Kumar, Nate Collier, Auroop R. Ganguly, and Forrest M. Hoffman, "Quantifying the Changes in Carbon Cycle Extremes Due to Land Use Change and Attribution to Climate Drivers Through Year 2300". Reducing Uncertainties in Biogeochemical Interactions through Synthesis and Computation. Feb 19, 2021. Url: [bgc-feedbacks.org/research/presentations/](https://www.bgc-feedbacks.org/research/presentations/Sharma_RUBISCO-SFA_20210219.pdf).
+**Sharma, Bharat**. "Integrating Carbon Cycle Science and Artificial Intelligence: From Ecosystem Extremes to Societal Resilience".  Department of Civil Engineering at Indian Institute of Technology Delhi.
+
+**Sharma, Bharat**. "From Carbon Cycle Extremes to Forest Growth: Investigating Climate–Carbon Feedbacks Under Elevated CO₂".Centre of Atmospheric Sciences at Indian Institute of Technology Delhi.
+
+**Sharma, Bharat**. "Quantifying the Changes in Carbon Cycle Extremes Due to Land Use Change and Attribution to Climate Drivers Through Year 2300". Reducing Uncertainties in Biogeochemical Interactions through Synthesis and Computation. Feb 19, 2021. Url: [bgc-feedbacks.org/research/presentations/](https://www.bgc-feedbacks.org/research/presentations/Sharma_RUBISCO-SFA_20210219.pdf).
 
 
 ## Conference Presentations
