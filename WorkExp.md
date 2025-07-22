@@ -10,24 +10,50 @@ For Publications and Presentations : [Click Here!](https://sharma-bharat.github.
 -->
 
 ## Work Experience
+**Oak Ridge National Laboratory (ORNL), Tennessee, USA** (May'25 -) <br>
+*Research Scientist - Computational Urban Sciences*
+- Applied research at the intersection of computing and complex urban systems in the emerging environment of smart cities, energy infrastructures, smart grids, smarter mobility, emergency response, and urban resiliency.
+- Leveraging statistical and machine learning techniques to identify, quantify, and explain clinical and process variations in healthcare of veterans, focusing on informing policy and practice improvements.
+- Mentoring two PhD candidates from the University of Tennessee, Knoxville, working on climate-carbon cycle feedbacks under geoengineering scenarios and the impact of climate extremes on urban infrastructure.
+- Mentoring a graduate student on building Large Language Models ([LLMs](https://huggingface.co/dsaedi/Llama-3.2-3B-ESGF-V1.0)) for Earth System Grid Federation (ESGF) Earth System Model data.
 
-**University of Tennessee, Knoxville, USA** (Feb'24 - )  <br>
-ARPA-E (INTERMODAL). [Team](https://recoil.utk.edu/index.php/people/). <br>
-Title: A Cognitive Freight Transportation Digital Twin for Resiliency and Emission
-Control through Optimizing Intermodal Logistics (RECOIL). <br>
-Role: Research Mentor and Advisor on Investigating Resiliency of
-Intermodal Freight Transportation Systems of the US under Targeted and
-Climate Change based Potential Disruptions.
+**University of Tennessee, Knoxville, USA** (Feb'24 -)
+*Research Scientist, [Advisor - ARPA-E RECOIL](https://recoil.utk.edu/index.php/people/)*
 
-**Obermeyer Planen + Beraten GmbH, Munich, Germany** (Mar'15 - Aug'16) <br>
-Intern + Part-time employee, Department of Rail Design and Engineering. <br>
-[Project](http://www.breitspur.com/) ‘High-speed railway between Košice and the Twin-City region Vienna-Bratislava', creating high performance transportation from Russia, China and Asian countries to Central Europe. <br>
-Supported Phase 1 System Development, analysis of the pre-feasibility studies, selection of suitable rail corridor and terminal locations.
+- Investigated the resilience of intermodal US freight systems against climate extremes and disruptions, identifying critical nodes that could potentially diminish system functionality by 30%, and proposing effective recovery strategies to enhance operational stability.
+- Mentoring two Ph.D. students at UT Knoxville to learn, develop, and contribute to the RECOIL (Resiliency and Emission Control through Optimizing Intermodal Logistics) project's goal of enhancing freight resilience to disruptions.
 
-**GMR Airport Developers Limited, New Delhi, India** (Jul'12 - Sep'13) <br>
-Executive Civil Engineer, Terminal 3, New Delhi International Airport <br>
-Supported civil engineering projects and maintenance, preparation and analysis of BOQ, SAP. <br>
-In charge of quality control for relaying of runway 29/11 and taxiways with Larsen & Tubro Ltd. (ECC).
+**Oak Ridge National Laboratory (ORNL), Tennessee, USA**  (Oct'22 - Apr'25)
+*Postdoctoral Research Associate - Terrestrial Ecosystem Ecology*
+
+- Modeling forest-CO₂ interactions with nutrients using the vegetation demography model, FATES (Functionally Assembled Terrestrial Ecosystem Simulator), coupled with the Energy Exascale Earth System Model (E3SM) Land Model (ELM) to improve plant response to elevated CO₂ observed in the Free Air CO₂ Enrichment experiments.
+- Created tools for [preprocessing](https://github.com/sharma-bharat/PrepMetData) input data for Earth System Models (ESMs).
+- Served as co-advisor for a University of Tennessee, Knoxville master student's thesis.
+- Mentored a PhD student from the University of Tennessee, Knoxville, on the analysis of carbon extremes under geoengineering scenarios, providing guidance on advanced statistical methodologies and climate model interpretation.
+
+**Oak Ridge National Laboratory (ORNL), Tennessee, USA**  (May'17 - Dec'17)
+*ASTRO Graduate Intern - Model Data Integration*
+
+- Started the project of investigating the carbon cycle extremes and attribution to climate drivers, [report](./papers/Sharma_astro_ornl_2017.pdf).
+
+**Obermeyer Planen + Beraten GmbH, Munich, Germany** (Mar'15 - Aug'16)
+*Intern + Part-time Employee (*Werkstudent*), Department of Rail Design and Engineering*
+
+- Conducted pre-feasibility analysis, including Environmental Impact Assessment and Cost-Benefit Analysis, for selecting rail corridors and terminal sites for the Košice-Vienna/Bratislava high-speed rail project, [Project](http://www.breitspur.com/).
+
+
+**Technical University of Munich, Munich, Germany** (Jun'14 - Jul'15)
+*Graduate Research Assistant (*Werkstudent*), Department of Urban Structure & Transport Planning*
+
+- Estimated mobility costs in the metropolitan region of Munich for the ["MOR€CO"](https://www.corp.at/archive/CORP2012_90.pdf) project, which investigated accessibility and fostered sustainable mobility through optimized poly-centric settlement.
+- Produced a travel time matrix for the Munich metropolitan ["WAM"](https://www.arc.ed.tum.de/fileadmin/w00cgv/re/Aktuelles/WAM_Schlusspraesentation_english.pdf) project to analyze commuting patterns, supporting route optimization and improved mobility for over 30,000 residents.
+
+
+**GMR Airport Developers Limited, New Delhi, India** (Jul'12 - Sep'13)
+*Executive Civil Engineer, Terminal 3, New Delhi International Airport*
+
+- In charge of quality control for the relaying of runway 29/11 and taxiways with Larsen & Toubro Limited, helping to finish the project 10% ahead of schedule.
+- Supervised civil engineering projects, including the preparation of Kaizen reports and audits of contractors' bills of quantities.
 
 
 ## Projects Completed
