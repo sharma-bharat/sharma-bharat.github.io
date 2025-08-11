@@ -3,6 +3,17 @@ layout: default
 title: Projects
 description:
 ---
+## Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions
+
+![alt text](assets/images/2025_Highlights_TRR_Paper.png "Disruptions in 25% of target nodes can cause 80% disruption of total water freight transport")
+**Authors:** Maedah Rahimitouranposhti, Bharat Sharma, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li <br>
+**Abstract:** Ensuring robustness and resilience in intermodal transportation systems is essential for the continuity and reliability of global logistics. These systems are vulnerable to various disruptions, including natural disasters and technical failures. Despite significant research on freight transportation resilience, investigating the robustness of the system after targeted and climate-change driven disruption remains a crucial challenge. Drawing on network science methodologies, this study models the interdependencies within the rail and water transport networks and simulates different disruption scenarios to evaluate system responses. We use the data from the US Department of Energy Volpe Center for network topology and tonnage projections. The proposed framework quantifies deliberate, stochastic, and climate driven infrastructure failure, using higher resolution downscaled multiple Earth System Models simulations from Coupled Model Intercomparison Project Phase version 6. We show that the disruptions of a few nodes could have a larger impact on the total tonnage of freight transport than on network topology. For example, the removal of targeted 20 nodes can bring the total tonnage carrying capacity to 30 percent with about 75 percent of the rail freight network intact. This research advances the theoretical understanding of transportation resilience and provides practical applications for infrastructure managers and policymakers. By implementing these strategies, stakeholders and policymakers can better prepare for and respond to unexpected disruptions, ensuring sustained operational efficiency in the transportation networks. <br>
+
+**Paper:** [TRR (2025)](https://arxiv.org/abs/2506.19102) <br>
+
+
+<hr>
+
 ## Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century
 
 ![alt text](assets/images/Highlights_NBPExtremes.png "88% of the regions are dominanted by net loss in carbon uptake")
