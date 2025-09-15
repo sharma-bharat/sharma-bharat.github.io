@@ -5,6 +5,11 @@ description:
 ---
 |Date|Place|
 |---|---|
+| Sep 12, 2025| Oak Ridge, TN, USA|
+|---|---|
+|Excited to share that our paper led by my master student, Maedeh, is now published “[Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions](https://doi.org/10.1177/0361198125135551)” got published. [Download link.](./papers/Sharma_2025_TRR.pdf)|![TRR Paper Online](./assets/images/news/2025_TRR_published.png) |
+|---|---|
+| | |
 | Jun 20, 2025| Oak Ridge, TN, USA|
 |---|---|
 |Today I had the opportunity to attend the new hire orientation for the Computing and Computational Sciences Directorate (CCSD).

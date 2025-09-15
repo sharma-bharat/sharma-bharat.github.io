@@ -6,9 +6,8 @@ featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal and Conference Papers
 
-Maedah Rahimitouranposhti, **Sharma, Bharat**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li. (2025).
-Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions.
-Transportation Research Review (TRB). *Accepted in TRR*.
+Rahimitouranposhti, M., **Sharma, Bharat**, Camur, M. C., Omitaomu, O. A., & Li, X. (2025). Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions. Transportation Research Record, 0(0). https://doi.org/10.1177/03611981251355510. [Download](./papers/Sharma_2025_TRR.pdf)
+
 
 Massoud, E. C., Collier, N., **Sharma, Bharat**, and Hoffman, F. M.
 Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers (2024).
