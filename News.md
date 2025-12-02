@@ -5,6 +5,16 @@ description:
 ---
 |Date|Place|
 |---|---|
+| Dec 02, 2025| Oak Ridge, TN, USA|
+|---|---|
+Our paper on "Analyzing Infrastructure Interdependencies Using Network-Of-Networks Modeling" got published in The 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI (UrbanAI ’25), November 3–6, 2025, Minneapolis, MN, USA. Link to paper: [https://doi.org/10.1145/3764926.3771946](https://doi.org/10.1145/3764926.3771946)|![UrbanAI’25](./assets/images/news/2025_UrbanAI_Paper.png) |
+|---|---|
+| | |
+| Sep 21, 2025| Oak Ridge, TN, USA|
+|---|---|
+Confirmation to serve in the Program Committe of 3nd ACM SIGSPATIAL International Workshop on Advances in Urban AI ([UrbanAI’25](https://events.ornl.gov/urbanai2025/))|![UrbanAI’25](./assets/images/news/2025_UrbanAI_PC.png) |
+|---|---|
+| | |
 | Sep 12, 2025| Oak Ridge, TN, USA|
 |---|---|
 |Excited to share that our paper led by my master student, Maedeh, is now published “[Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions](https://doi.org/10.1177/0361198125135551)” got published. [Download link.](./papers/Sharma_2025_TRR.pdf)|![TRR Paper Online](./assets/images/news/2025_TRR_published.png) |

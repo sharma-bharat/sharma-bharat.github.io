@@ -6,6 +6,18 @@ featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal and Conference Papers
 
+Scherrer, E., Allen-Dumas, M., **Sharma, Bharat** (2025).
+Analyzing Infrastructure Interdependencies Using Network-Of-Networks Modeling.
+InThe 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI
+(UrbanAI ’25), November 3–6, 2025, Minneapolis, MN, USA.
+[https://doi.org/10.1145/3764926.3771946](https://doi.org/10.1145/3764926.3771946). [Download](./papers/ScherrerSharma_2025_UrbanAI.pdf).
+
+**Sharma, Bharat**, & Kumar, J. (2025).
+Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States based on CESM2 Simulations. *Accepted for* 2025 IEEE International Conference on Data Mining Workshops (ICDMW).
+
+Saedi Nia, D., Massoud, E. C., **Sharma, Bharat**, Kumar, J., Collier, N., & Hoffman, F. M. (2025).
+A Domain-Specific Large Language Model for Navigating Earth System Data: An ESGF Case Study. *Accepted for* 2025 IEEE International Conference on Data Mining Workshops (ICDMW).
+
 Rahimitouranposhti, M., **Sharma, Bharat**, Camur, M. C., Omitaomu, O. A., & Li, X. (2025). Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions. Transportation Research Record, 0(0). [https://doi.org/10.1177/03611981251355510](https://doi.org/10.1177/03611981251355510). [Download](./papers/Sharma_2025_TRR.pdf)
 
 Massoud, E. C., Collier, N., **Sharma, Bharat**, and Hoffman, F. M.
