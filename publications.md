@@ -13,10 +13,10 @@ InThe 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI
 [https://doi.org/10.1145/3764926.3771946](https://doi.org/10.1145/3764926.3771946). [Download](./papers/ScherrerSharma_2025_UrbanAI.pdf).
 
 **Sharma, Bharat**, & Kumar, J. (2025).
-Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States based on CESM2 Simulations. *Accepted for* 2025 IEEE International Conference on Data Mining Workshops (ICDMW).
+Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States based on CESM2 Simulations. 2025 IEEE International Conference on Data Mining Workshops (ICDMW). [https://doi.org/10.1109/ICDMW69685.2025.00102](https://doi.org/10.1109/ICDMW69685.2025.00102). [Download](./papers/Sharma_ICDMW2025.pdf).
 
 Saedi Nia, D., Massoud, E. C., **Sharma, Bharat**, Kumar, J., Collier, N., & Hoffman, F. M. (2025).
-A Domain-Specific Large Language Model for Navigating Earth System Data: An ESGF Case Study. *Accepted for* 2025 IEEE International Conference on Data Mining Workshops (ICDMW).
+A Domain-Specific Large Language Model for Navigating Earth System Data: An ESGF Case Study. 2025 IEEE International Conference on Data Mining Workshops (ICDMW).[https://doi.org/10.1109/ICDMW69685.2025.00100](https://doi.org/10.1109/ICDMW69685.2025.00100).[Download](./papers/DanielSharma_ICDMW2025.pdf)
 
 Rahimitouranposhti, M., **Sharma, Bharat**, Camur, M. C., Omitaomu, O. A., & Li, X. (2025). Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions. Transportation Research Record, 0(0). [https://doi.org/10.1177/03611981251355510](https://doi.org/10.1177/03611981251355510). [Download](./papers/Sharma_2025_TRR.pdf)
 
@@ -78,7 +78,7 @@ Springer Proceedings in Complexity. Springer, Cham.
 Codes for Carbon Cycle Extremes Accelerate Weakening of the Land Carbon Sink in the Late 21st Century, 2023,
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7854623.svg)](https://doi.org/10.5281/zenodo.7854623)
 
-Codes/Software for the paper "Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300", 2022, [![DOI](https://zenodo.org/badge/413554760.svg)](https://zenodo.org/badge/latestdoi/413554760)
+Codes/Software for the paper "Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300", 2022, [![DOI](https://zenodo.org/badge/4135547 60.svg)](https://zenodo.org/badge/latestdoi/413554760)
 
 Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300, from CESM1(BGC) fully-coupled runs from 1850 to 2300, comprising of historical (1850-2005), Representative Concentration Pathway 8.5 (2005-2100), and Extension Concentration Pathway 8.5 (2101-2300). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5548153.svg)](https://doi.org/10.5281/zenodo.5548153)
 
