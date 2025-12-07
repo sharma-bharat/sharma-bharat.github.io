@@ -16,7 +16,7 @@ InThe 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI
 Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States based on CESM2 Simulations. 2025 IEEE International Conference on Data Mining Workshops (ICDMW). [https://doi.org/10.1109/ICDMW69685.2025.00102](./papers/Sharma_ICDMW2025.pdf). [Download](./papers/Sharma_ICDMW2025.pdf).
 
 Saedi Nia, D., Massoud, E. C., **Sharma, Bharat**, Kumar, J., Collier, N., & Hoffman, F. M. (2025).
-A Domain-Specific Large Language Model for Navigating Earth System Data: An ESGF Case Study. 2025 IEEE International Conference on Data Mining Workshops (ICDMW).[https://doi.org/10.1109/ICDMW69685.2025.00100](./papers/DanielSharma_ICDMW2025.pdf).[Download](./papers/DanielSharma_ICDMW2025.pdf)
+ESGF-Assistant: A Domain-Specific Large Language Model for Navigating Earth System Data. 2025 IEEE International Conference on Data Mining Workshops (ICDMW).[https://doi.org/10.1109/ICDMW69685.2025.00100](./papers/DanielSharma_ICDMW2025.pdf).[Download](./papers/DanielSharma_ICDMW2025.pdf)
 
 Rahimitouranposhti, M., **Sharma, Bharat**, Camur, M. C., Omitaomu, O. A., & Li, X. (2025). Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions. Transportation Research Record, 0(0). [https://doi.org/10.1177/03611981251355510](https://doi.org/10.1177/03611981251355510). [Download](./papers/Sharma_2025_TRR.pdf)
 
