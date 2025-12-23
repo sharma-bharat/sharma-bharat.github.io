@@ -115,10 +115,15 @@ National Institute Of Technology Hamirpur, India.
 
 ## Conference Presentations
 
+**Bharat Sharma**, Forrest M. Hoffman, Jitendra Kumar, and Auroop Ganguly, December 18, 2025.
+“Assessing GPP Extremes and Their Environmental Drivers: Insights from Observations and CMIP6 Earth System Models”
+2025 American Geophysical Union Fall Meeting. New Orleans LA, USA.
+[details](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1887112)
+
 **Bharat Sharma**, R. Knox, C. Koven, E. Agee, R. Fisher, R. Oren, R. Norby, D. Ricciuto, X. Wei, X. Yang, and A. Walker,
 10 Dec 2024.
 “Simulating CO<sub>2</sub> Responses in Even-Aged Secondary Forests at Duke and Oak Ridge FACE Experiments with ELM-FATES-CNP.”
-American Geophysical Union Fall Meeting. Washington DC, USA.
+2024 American Geophysical Union Fall Meeting. Washington DC, USA.
 [details](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1688966)
 
 **Bharat Sharma**, A. Walker, R. Knox, C. Koven, E. Agee, R. Fisher, R. Oren, R. Norby, D. Ricciuto, X. Wei, and X. Yang
