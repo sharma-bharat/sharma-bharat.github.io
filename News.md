@@ -5,6 +5,21 @@ description:
 ---
 |Date|Place|
 |---|---|
+|Dec 15-19, 2025| New Orleans, LA, USA|
+|---|---|
+At #AGU2025, I had the opportunity to chair three sessions and present my work on GPP extremes, sparking thoughtful discussions. I also enjoyed outstanding talks and poster presentations from researchers across the globe—always inspiring to connect with such a vibrant scientific community.|![AGU25](./assets/images/news/2025_AGU.png) |
+|---|---|
+| | |
+|Dec 14, 2025| New Orleans, LA, USA|
+|---|---|
+#RUBISCO: The RUBISCO face-to-face meeting focused on biogeochemical research challenges, working group updates, and reflections from the #ILAMB meeting. Discussions centered on Phase 4 science questions, future research directions, coordinated simulations, and planning for white paper development and project review.|![RUBISCO](./assets/images/news/2025_RUBISCO.png) |
+|---|---|
+| | |
+|Dec 11-13, 2025| New Orleans, LA, USA|
+|---|---|
+#ILAMB (Dec 10–14) brought together 60+ in-person participants and many more online. From insightful plenary talks to lively breakout sessions, discussions spanned past achievements, evaluation efforts, and exciting future directions for #ILAMB.|![ILAMB](./assets/images/news/2025_ILAMB.png) |
+|---|---|
+| | |
 | Dec 02, 2025| Oak Ridge, TN, USA|
 |---|---|
 Our paper on "Analyzing Infrastructure Interdependencies Using Network-Of-Networks Modeling" got published in The 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI (UrbanAI ’25), November 3–6, 2025, Minneapolis, MN, USA. Link to paper: [https://doi.org/10.1145/3764926.3771946](https://doi.org/10.1145/3764926.3771946)|![UrbanAI’25](./assets/images/news/2025_UrbanAI_Paper.png) |
