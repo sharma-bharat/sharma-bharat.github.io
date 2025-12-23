@@ -7,7 +7,7 @@ description:
 |---|---|
 |Dec 15-19, 2025| New Orleans, LA, USA|
 |---|---|
-At #AGU2025, I had the opportunity to chair three sessions and present my work on GPP extremes, sparking thoughtful discussions. I also enjoyed outstanding talks and poster presentations from researchers across the globe—always inspiring to connect with such a vibrant scientific community.|![AGU25](./assets/images/news/2025_AGU.png) |
+At #AGU2025, I had the opportunity to chair three sessions and present my work on GPP extremes, sparking thoughtful discussions. I also enjoyed outstanding talks and poster presentations from researchers across the globe—always inspiring to connect with such a vibrant scientific community.|![AGU25](./assets/images/news/2025_AGU.jpg) |
 |---|---|
 | | |
 |Dec 14, 2025| New Orleans, LA, USA|
