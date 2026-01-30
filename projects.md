@@ -93,7 +93,16 @@ The quantitative analysis using VISSIM 7 software confirmed the hypothesis that 
 
 
 <hr>
+## Work in Progress
 
+[Robustness Simulations of Knox County under Weighted Betweenness](./sims/Knox_WCB.gif) <br>
+
+[Robustness Simulations of Knox County under Weighted Degree](./sims/Knox_WCD.gif) <br>
+
+[Robustness Simulations of Knox County under UnWeighted Degree](./sims/Knox_UnWCD.gif) <br>
+
+
+<hr>
 _* Name changed in 2016_
 
 <!---
