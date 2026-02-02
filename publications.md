@@ -10,7 +10,10 @@ Scherrer, E., Allen-Dumas, M., **Bharat Sharma** (2025).
 Analyzing Infrastructure Interdependencies Using Network-Of-Networks Modeling.
 InThe 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI
 (UrbanAI ’25), November 3–6, 2025, Minneapolis, MN, USA.
-[https://doi.org/10.1145/3764926.3771946](https://doi.org/10.1145/3764926.3771946). [Download](./papers/ScherrerSharma_2025_UrbanAI.pdf).
+[https://doi.org/10.1145/3764926.3771946](https://doi.org/10.1145/3764926.3771946).
+[Citation bib](./papers/ref_bibs/ScherrerSharma_2025_UrbanAI.bib).
+[Citation text](./papers/ref_text/ScherrerSharma_2025_UrbanAI.txt).
+[Download](./papers/ScherrerSharma_2025_UrbanAI.pdf).
 
 **Bharat Sharma**, & Kumar, J. (2025).
 Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States based on CESM2 Simulations. 2025 IEEE International Conference on Data Mining Workshops (ICDMW). [https://doi.org/10.1109/ICDMW69685.2025.00102](./papers/Sharma_ICDMW2025.pdf). [Download](./papers/Sharma_ICDMW2025.pdf).
@@ -18,7 +21,10 @@ Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United 
 Saedi Nia, D., Massoud, E. C., **Bharat Sharma**, Kumar, J., Collier, N., & Hoffman, F. M. (2025).
 ESGF-Assistant: A Domain-Specific Large Language Model for Navigating Earth System Data. 2025 IEEE International Conference on Data Mining Workshops (ICDMW).[https://doi.org/10.1109/ICDMW69685.2025.00100](./papers/DanielSharma_ICDMW2025.pdf).[Download](./papers/DanielSharma_ICDMW2025.pdf)
 
-Rahimitouranposhti, M., **Bharat Sharma**, Camur, M. C., Omitaomu, O. A., & Li, X. (2025). Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions. Transportation Research Record, 0(0). [https://doi.org/10.1177/03611981251355510](https://doi.org/10.1177/03611981251355510). [Download](./papers/Sharma_2025_TRR.pdf)
+Rahimitouranposhti, M., **Bharat Sharma**, Camur, M. C., Omitaomu, O. A., & Li, X. (2025). Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions. Transportation Research Record, 0(0). [https://doi.org/10.1177/03611981251355510](https://doi.org/10.1177/03611981251355510).
+[Citation bib](./papers/ref_bibs/RahimitouranposhtiSharma_2025_TRR.bib).
+[Citation text](./papers/ref_text/RahimitouranposhtiSharma_2025_TRR.txt).
+[Download](./papers/Sharma_2025_TRR.pdf).
 
 Aliza Sharmin, **Bharat Sharma**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li (2025).
 Dynamic Disruption Resilience in Intermodal Transport Networks: Integrating Flow Weighting and Centrality Measures.
@@ -29,12 +35,13 @@ Transportation Research Record.
 Massoud, E. C., Collier, N., **Bharat Sharma**, and Hoffman, F. M.
 Enhancing Photosysnthesis Simulation Performance in ESMs with Machine Learning-Assisted Solvers (2024).
 2024 IEEE International Conference on Big Data (BigData), Washington, DC, USA, 2024, pp. 4351-4356 [https://doi.org/10.1109/BigData62323.2024.10825207](https://ieeexplore.ieee.org/document/10825207).
-[Download](./papers/Sharma_2023_BG_NBPExtremes.pdf)
+[Download](./papers/MassoudSharma_2024_ML_IEEEBigData.pdf)
+
 
 **Bharat Sharma**, Kumar, J., Ganguly, A. R., & Hoffman, F. M. (2023).
 Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century.
 Biogeosciences, 20, 1829–1841, [https://doi.org/10.5194/bg-20-1829-2023](https://doi.org/10.5194/bg-20-1829-2023).
-[Download](./papers/MassoudSharma_2024_ML_IEEEBigData.pdf)
+[Download](./papers/Sharma_2023_BG_NBPExtremes.pdf)
 
 **Bharat Sharma**, Kumar, J., Collier, N., Ganguly, A. R., & Hoffman, F. M. (2022). Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300. Journal of Geophysical Research: Biogeosciences, 127, e2021JG006738. [https://doi.org/10.1029/2021JG006738](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JG006738).
 [Download](./papers/Sharma_2022_CarbonExtremes_LULCC.pdf)
@@ -43,10 +50,12 @@ Biogeosciences, 20, 1829–1841, [https://doi.org/10.5194/bg-20-1829-2023](https
 Using Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes.
 2022 IEEE International Conference on Data Mining Workshops (ICDMW), Orlando, FL, USA, 2022, pp. 1136-1143.
 [https://doi.org/10.1109/ICDMW58026.2022.00148](https://doi.org/10.1109/ICDMW58026.2022.00148).
+[Citation bib](./papers/ref_bibs/Sharma_2022_ICDMW.bib).
+[Citation text](./papers/ref_text/Sharma_2022_ICDMW.txt).
 [Download](./papers/Sharma_2022_SpatioTemporalExtremes_ICDM.pdf).
 [Presentation link](https://docs.google.com/presentation/d/1dqk7v7TJbtoGt4UzblRbH3VisS1Jn79duDdglGfubkY/edit?usp=sharing).
 
-**Bharat Sharma**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman. (2024).
+**Bharat Sharma**, Jitendra Kumar, Auroop R. Ganguly, and Forrest M. Hoffman.
 Investigating Variability in the Intensity, Direction, and Spatial Distribution of Carbon Cycle Extremes and Attribution to Climate Drivers Using Observations and CMIP6 Earth System Models.
 _Manuscript in Preparation_
 

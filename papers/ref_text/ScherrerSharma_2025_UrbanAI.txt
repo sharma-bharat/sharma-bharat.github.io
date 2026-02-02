@@ -1,0 +1,1 @@
+Evan Scherrer, Melissa Allen-Dumas, and Bharat Sharma. 2025. Analyzing Infrastructure Interdependencies Using Network-Of-Networks Modeling. In Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI (UrbanAI '25). Association for Computing Machinery, New York, NY, USA, 68–71. https://doi.org/10.1145/3764926.3771946
