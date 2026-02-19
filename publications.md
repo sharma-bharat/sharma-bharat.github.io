@@ -6,6 +6,9 @@ featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal and Conference Papers
 
+Bharat Sharma, Abhilasha J. Saroj, Evan Scherrer, and Melissa R. Allen-Dumas (2026). Modeling Disruptions to
+Urban Metabolism using Interconnected Networks. Resources, Conservation and Recycling. *Manuscript under review*.
+
 Scherrer, E., Allen-Dumas, M., **Bharat Sharma** (2025).
 Analyzing Infrastructure Interdependencies Using Network-Of-Networks Modeling.
 InThe 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI

@@ -5,6 +5,16 @@ description:
 ---
 |Date|Place|
 |---|---|
+|Feb 15, 2025| Phoenix, AZ, USA|
+|---|---|
+I am elected as Early-Career Representative for the section "Atmospheric and Hydrospheric Sciences (W)" in American Association for the Advancement of Science (AAAS) for a two year term.|![AAAS](./assets/images/news/2026_AAAS_EarlyCareer.png) |
+|---|---|
+| | |
+|Feb 04, 2025| New Orleans, LA, USA|
+|---|---|
+Sharing my science with Purdue University at AGU 2025.|[![Watch the video](./assets/images/news/2026_Purdue.png)](https://www.youtube.com/watch?v=_hlt7-KETA4) |
+|---|---|
+| | |
 |Dec 15-19, 2025| New Orleans, LA, USA|
 |---|---|
 At #AGU2025, I had the opportunity to chair three sessions and present my work on GPP extremes, sparking thoughtful discussions. I also enjoyed outstanding talks and poster presentations from researchers across the globe—always inspiring to connect with such a vibrant scientific community.|![AGU25](./assets/images/news/2025_AGU.jpg) |
