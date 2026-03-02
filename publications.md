@@ -9,7 +9,7 @@ featured-img: assets/images/earth-wide.jpg
 Aliza Sharmin, **Bharat Sharma**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li (2026).
 Dynamic Disruption Resilience in Intermodal Transport Networks: Integrating Flow Weighting and Centrality Measures.
 Transportation Research Record.
-*Manuscript in Accepted, in production.*
+*Manuscript Accepted, in production.*
 
 Bharat Sharma, Abhilasha J. Saroj, Evan Scherrer, and Melissa R. Allen-Dumas (2026). Modeling Disruptions to
 Cities. Resources, Conservation and Recycling. *Manuscript under review:  JCIT-D-26-01489*.
