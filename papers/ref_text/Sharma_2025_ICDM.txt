@@ -1,0 +1,2 @@
+B. Sharma and J. Kumar, "Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States Based on CESM2 Simulations," 2025 IEEE International Conference on Data Mining Workshops (ICDMW), Washington, DC, USA, 2025, pp. 853-862, doi: 10.1109/ICDMW69685.2025.00102.
+keywords: {Carbon cycle;Productivity;Deep learning;Computational modeling;Biological system modeling;Autoencoders;Computer architecture;Market research;Monitoring;Anomaly detection;carbon cycle extremes;variational autoencoders;anomaly detection;gross primary productivity;extreme events},

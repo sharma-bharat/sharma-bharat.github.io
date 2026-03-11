@@ -1,0 +1,2 @@
+D. S. Nia, E. C. Massoud, B. Sharma, J. Kumar, N. Collier and F. M. Hoffman, "ESGF-Assistant: A Domain-Specific Large Language Model for Navigating Earth System Data," 2025 IEEE International Conference on Data Mining Workshops (ICDMW), Washington, DC, USA, 2025, pp. 836-845, doi: 10.1109/ICDMW69685.2025.00100.
+keywords: {Earth;Accuracy;Reviews;Navigation;Large language models;Retrieval augmented generation;Metadata;Programming;Reliability;Usability;large language models (llms);earth system science;fine-tuning;retrieval-augmented generation (rag);ai assistant},

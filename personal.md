@@ -1,1 +1,15 @@
 Wedding Website: https://sites.google.com/view/pritika-bharat-wedding/home
+
+# Bio
+
+Dr. Bharat Sharma is a research scientist at ORNL, focusing on terrestrial carbon cycle dynamics, vegetation–climate feedbacks, and system resilience. He is serving as an Early Career Representative for the section Atmospheric and Hydrospheric Sciences in AAAS. He also serves as research advisor to graduate students of University of Knoxville on the ARPA-E RECOIL project which aims to develop a cognitive digital twin for the United States backbone intermodal freight transportation system. He holds a Ph.D. from Northeastern University, where he studied carbon cycle extremes and their climate drivers using Earth System Models and observational datasets. At ORNL, his research includes modeling forest responses to elevated CO₂ and nutrient dynamics using advanced demographic models and FACE experiments. He also holds a Master's degree in Transportation Systems from the Technical University of Munich, with expertise in evacuation modeling and climate-resilient infrastructure. His interdisciplinary work bridges climate science, AI, and computational modeling to improve our understanding of land–atmosphere interactions in a changing world.
+
+# Bio Academic
+
+**Dr. Bharat Sharma** is a Research Scientist at **Oak Ridge National Laboratory (ORNL)** specializing in terrestrial carbon cycle dynamics, vegetation–climate feedbacks, and system resilience. Currently, he serves as the **Early Career Representative** for the Atmospheric and Hydrospheric Sciences section of the **AAAS**. **At the University of Tennessee, Knoxville,** he advises graduate students on the **ARPA-E RECOIL** project, which focuses on developing a cognitive digital twin for the U.S. intermodal freight transportation system.
+
+Dr. Sharma earned his **Ph.D. from Northeastern University**, where he researched carbon cycle extremes and climate drivers using Earth System Models. His current work at ORNL involves modeling forest responses to elevated and nutrient dynamics through advanced demographic models and **FACE experiments**. With an additional Master’s in Transportation Systems from the **Technical University of Munich**, his interdisciplinary research uniquely bridges climate science, AI, and computational modeling to enhance the resilience of both natural and built environments.
+
+ # Bio LinkedIn
+ Dr. Bharat Sharma is an interdisciplinary scientist at ORNL working at the intersection of climate science, AI, and infrastructure resilience. His research ranges from modeling forest responses to climate change using FACE experiments to developing AI-driven digital twins for the U.S. freight transportation system through the ARPA-E RECOIL project.
+A Ph.D. graduate of Northeastern University and an alumnus of the Technical University of Munich, Dr. Sharma has built a career bridging the gap between terrestrial carbon dynamics and climate-resilient infrastructure. Beyond his research, he is a dedicated mentor at the University of Tennessee and an Early Career Representative for the AAAS, helping shape the future of atmospheric and hydrospheric sciences.

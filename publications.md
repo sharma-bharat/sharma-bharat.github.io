@@ -11,8 +11,21 @@ Dynamic Disruption Resilience in Intermodal Transport Networks: Integrating Flow
 Transportation Research Record.
 *Manuscript Accepted, in production.*
 
-Bharat Sharma, Abhilasha J. Saroj, Evan Scherrer, and Melissa R. Allen-Dumas (2026). Modeling Disruptions to
-Cities. Resources, Conservation and Recycling. *Manuscript under review:  JCIT-D-26-01489*.
+Bharat Sharma, Abhilasha J. Saroj, Evan Scherrer, and Melissa R. Allen-Dumas (2026).
+Modeling Disruptions to Urban Metabolism using Interconnected Networks.
+Cities. *Manuscript under review: JCIT-D-26-01489*.
+
+**Bharat Sharma**, & Kumar, J. (2025).
+Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States based on CESM2 Simulations. 2025 IEEE International Conference on Data Mining Workshops (ICDMW). [https://doi.org/10.1109/ICDMW69685.2025.00102](https://ieeexplore.ieee.org/document/11416127).
+[Citation bib](./papers/ref_bibs/Sharma_2025_ICDM.bib).
+[Citation text](./papers/ref_text/Sharma_2025_ICDM.txt).
+[Download](./papers/Sharma_ICDMW2025.pdf).
+
+Saedi Nia, D., Massoud, E. C., **Bharat Sharma**, Kumar, J., Collier, N., & Hoffman, F. M. (2025).
+ESGF-Assistant: A Domain-Specific Large Language Model for Navigating Earth System Data. 2025 IEEE International Conference on Data Mining Workshops (ICDMW).[https://doi.org/10.1109/ICDMW69685.2025.00100](https://ieeexplore.ieee.org/document/11415955).
+[Citation bib](./papers/ref_bibs/NiaSharma_2025_LLM.bib).
+[Citation text](./papers/ref_text/NiaSharma_2025_LLM.txt).
+[Download](./papers/DanielSharma_ICDMW2025.pdf)
 
 Scherrer, E., Allen-Dumas, M., **Bharat Sharma** (2025).
 Analyzing Infrastructure Interdependencies Using Network-Of-Networks Modeling.
@@ -23,11 +36,6 @@ InThe 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI
 [Citation text](./papers/ref_text/ScherrerSharma_2025_UrbanAI.txt).
 [Download](./papers/ScherrerSharma_2025_UrbanAI.pdf).
 
-**Bharat Sharma**, & Kumar, J. (2025).
-Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States based on CESM2 Simulations. 2025 IEEE International Conference on Data Mining Workshops (ICDMW). [https://doi.org/10.1109/ICDMW69685.2025.00102](./papers/Sharma_ICDMW2025.pdf). [Download](./papers/Sharma_ICDMW2025.pdf).
-
-Saedi Nia, D., Massoud, E. C., **Bharat Sharma**, Kumar, J., Collier, N., & Hoffman, F. M. (2025).
-ESGF-Assistant: A Domain-Specific Large Language Model for Navigating Earth System Data. 2025 IEEE International Conference on Data Mining Workshops (ICDMW).[https://doi.org/10.1109/ICDMW69685.2025.00100](./papers/DanielSharma_ICDMW2025.pdf).[Download](./papers/DanielSharma_ICDMW2025.pdf)
 
 Rahimitouranposhti, M., **Bharat Sharma**, Camur, M. C., Omitaomu, O. A., & Li, X. (2025). Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions. Transportation Research Record, 0(0). [https://doi.org/10.1177/03611981251355510](https://doi.org/10.1177/03611981251355510).
 [Citation bib](./papers/ref_bibs/RahimitouranposhtiSharma_2025_TRR.bib).
