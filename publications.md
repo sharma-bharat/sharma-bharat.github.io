@@ -10,10 +10,12 @@ Aliza Sharmin, **Bharat Sharma**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xu
 Dynamic Disruption Resilience in Intermodal Transport Networks: Integrating Flow Weighting and Centrality Measures.
 Transportation Research Record.
 *Manuscript Accepted, in production.*
+Preprint: https://doi.org/10.48550/arXiv.2601.00906
 
 Bharat Sharma, Abhilasha J. Saroj, Evan Scherrer, and Melissa R. Allen-Dumas (2026).
 Modeling Disruptions to Urban Metabolism using Interconnected Networks.
 Cities. *Manuscript under review: JCIT-D-26-01489*.
+Preprint: https://doi.org/10.48550/arXiv.2604.06104
 
 **Bharat Sharma**, & Kumar, J. (2025).
 Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States based on CESM2 Simulations. 2025 IEEE International Conference on Data Mining Workshops (ICDMW). [https://doi.org/10.1109/ICDMW69685.2025.00102](https://ieeexplore.ieee.org/document/11416127).

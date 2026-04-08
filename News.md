@@ -7,7 +7,7 @@ description:
 |---|---|
 |Feb 15, 2025| Phoenix, AZ, USA|
 |---|---|
-I am elected as Early-Career Representative for the section "Atmospheric and Hydrospheric Sciences (W)" in American Association for the Advancement of Science (AAAS) for a two year term.|![AAAS](./assets/images/news/2026_AAAS_EarlyCareer.png) |
+I am elected as Early-Career Representative for the section "Atmospheric and Hydrospheric Sciences (W)" in American Association for the Advancement of Science (AAAS) for a two year term. ![url](https://www.aaas.org/governance/section-w)|![AAAS](./assets/images/news/2026_AAAS_EarlyCareer.png) |
 |---|---|
 | | |
 |Feb 04, 2025| New Orleans, LA, USA|
