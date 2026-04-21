@@ -12,7 +12,7 @@ Transportation Research Record.
 *Manuscript Accepted, in production.*
 Preprint: https://doi.org/10.48550/arXiv.2601.00906
 
-Bharat Sharma, Abhilasha J. Saroj, Evan Scherrer, and Melissa R. Allen-Dumas (2026).
+**Bharat Sharma**, Abhilasha J. Saroj, Evan Scherrer, and Melissa R. Allen-Dumas (2026).
 Modeling Disruptions to Urban Metabolism using Interconnected Networks.
 Cities. *Manuscript under review: JCIT-D-26-01489*.
 Preprint: https://doi.org/10.48550/arXiv.2604.06104

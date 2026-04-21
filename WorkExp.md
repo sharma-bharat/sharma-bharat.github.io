@@ -98,6 +98,7 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 [Early Career Representative, Atmospheric and Hydrospheric Sciences (W), AAAS](https://www.aaas.org/governance/section-w)
 
 ### Journal Reviewer
+[Nature Communications Earth & Environment](https://www.nature.com/commsenv/) <br>
 
 [Environmental Research Letters ](https://iopscience.iop.org/journal/1748-9326) <br>
 
@@ -108,6 +109,8 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 [Biogeosciences (EGU)](https://www.biogeosciences.net/) <br>
 
 [Earth Systems and Environment](https://link.springer.com/journal/41748) <br>
+
+[agriculture](https://www.mdpi.com/journal/agriculture) <br>
 
 [Workshop on Data Mining in Earth System Science](https://www.climatemodeling.org/workshops/dmess2022/) <br>
 
