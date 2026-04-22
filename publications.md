@@ -8,9 +8,11 @@ featured-img: assets/images/earth-wide.jpg
 
 Aliza Sharmin, **Bharat Sharma**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li (2026).
 Dynamic Disruption Resilience in Intermodal Transport Networks: Integrating Flow Weighting and Centrality Measures.
-Transportation Research Record.
-*Manuscript Accepted, in production.*
-Preprint: https://doi.org/10.48550/arXiv.2601.00906
+Transportation Research Record.[https://doi.org/10.1177/03611981261437033](https://doi.org/10.1177/03611981261437033)
+[eCopy](https://journals.sagepub.com/eprint/UZTMPYJXPQC2WSX2ZFGU/full).
+[Citation bib](./papers/ref_bibs/SharminSharma_2026_TRR.bib).
+[Citation text](./papers/ref_text/SharminSharma_2026_TRR.txt).
+[Download](./papers/SharminSharma2026_TRR.pdf).
 
 **Bharat Sharma**, Abhilasha J. Saroj, Evan Scherrer, and Melissa R. Allen-Dumas (2026).
 Modeling Disruptions to Urban Metabolism using Interconnected Networks.

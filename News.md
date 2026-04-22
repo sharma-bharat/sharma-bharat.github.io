@@ -5,6 +5,11 @@ description:
 ---
 |Date|Place|
 |---|---|
+|Apr 21, 2026| Oak Ridge, TN, USA|
+|---|---|
+Excited to share that our paper led by my Ph.D. student, Aliza, is now published “[Dynamic Disruption Resilience in Intermodal Transport Networks: Integrating Flow Weighting and Centrality Measures](https://doi.org/10.1177/03611981261437033)”. [Download link.](./papers/SharminSharma2026_TRR.pdf)|![TRR 2026](./assets/images/news/2026_SharminSharma_TRR.png) |
+|---|---|
+| | |
 |Feb 15, 2025| Phoenix, AZ, USA|
 |---|---|
 I am elected as Early-Career Representative for the section "Atmospheric and Hydrospheric Sciences (W)" in American Association for the Advancement of Science (AAAS) for a two year term. ![url](https://www.aaas.org/governance/section-w)|![AAAS](./assets/images/news/2026_AAAS_EarlyCareer.png) |
@@ -42,7 +47,7 @@ Confirmation to serve in the Program Committe of 3nd ACM SIGSPATIAL Internationa
 | | |
 | Sep 12, 2025| Oak Ridge, TN, USA|
 |---|---|
-|Excited to share that our paper led by my master student, Maedeh, is now published “[Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions](https://doi.org/10.1177/0361198125135551)” got published. [Download link.](./papers/Sharma_2025_TRR.pdf)|![TRR Paper Online](./assets/images/news/2025_TRR_published.png) |
+|Excited to share that our paper led by my master student, Maedeh, is now published “[Investigating Resiliency of Transportation Network under Targeted and Potential Climate Change Disruptions](https://doi.org/10.1177/0361198125135551)”. [Download link.](./papers/Sharma_2025_TRR.pdf)|![TRR Paper Online](./assets/images/news/2025_TRR_published.png) |
 |---|---|
 | | |
 | Jun 20, 2025| Oak Ridge, TN, USA|
