@@ -144,6 +144,13 @@ National Institute Of Technology Hamirpur, India.
 
 ## Conference Presentations
 
+**Bharat Sharma**, Auroop Ganguly, and Olufemi A. Omitaomu, May 22, 2026.
+“Anthropogenic Amplification of Heat Waves Across CONUS: Detection, Attribution, and Urban Implications”
+Proceedings of the 1st International Online Conference on Urban Sciences, 20–22 May 2026.
+Basel, Switzerland.
+[details](https://sciforum.net/paper/view/31001)
+[poster](https://sciforum.net/manuscripts/31001/slides.pdf)
+
 **Bharat Sharma**, Forrest M. Hoffman, Jitendra Kumar, and Auroop Ganguly, December 18, 2025.
 “Assessing GPP Extremes and Their Environmental Drivers: Insights from Observations and CMIP6 Earth System Models”
 2025 American Geophysical Union Fall Meeting. New Orleans LA, USA.

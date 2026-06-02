@@ -5,6 +5,11 @@ description:
 ---
 |Date|Place|
 |---|---|
+|May 22, 2026| Oak Ridge, TN, USA|
+|---|---|
+Presented a poster presentation on “Anthropogenic Amplification of Heat Waves Across CONUS: Detection, Attribution, and Urban Implications” on May 22, 2026 at 1st International Online Conference on Urban Sciences, 20–22 May 2026. Basel, Switzerland. Authors: **Bharat Sharma**, Auroop Ganguly, and Olufemi A. Omitaomu [Submission Details.](https://sciforum.net/paper/view/31001) [Download poster](https://sciforum.net/manuscripts/31001/slides.pdf)|![IOCUS 2026](./assets/images/news/Sharma_2026_IOCUS.png) |
+|---|---|
+| | |
 |Apr 21, 2026| Oak Ridge, TN, USA|
 |---|---|
 Excited to share that our paper led by my Ph.D. student, Aliza, is now published “[Dynamic Disruption Resilience in Intermodal Transport Networks: Integrating Flow Weighting and Centrality Measures](https://doi.org/10.1177/03611981261437033)”. [Download link.](./papers/SharminSharma2026_TRR.pdf)|![TRR 2026](./assets/images/news/2026_SharminSharma_TRR.png) |
