@@ -112,7 +112,11 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 [agriculture](https://www.mdpi.com/journal/agriculture) <br>
 
+[Reliability Engineering & System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety) <br>
+
 [Workshop on Data Mining in Earth System Science](https://www.climatemodeling.org/workshops/dmess2022/) <br>
+
+[International Workshop on Advances in Urban-AI (ACM UrbanAI)](https://easychair.org/cfp/UrbanAI25) <br>
 
 
 ### Convening
@@ -152,9 +156,13 @@ Held in conjunction with the IEEE International Conference on Data Mining (ICDM 
 **Responsibilities**: In-charge of scheduling and coordinating the paper presentations, and maintaining the [website](https://www.climatemodeling.org/~bharat/journal_club.html).
 
 ## Mentorship Roles
-**Pragati Verma** (Indian Institute of Delhi, India), Project Scientist DST, 2025-present <br>
+**Pranav Sesha Sai Govindu** (University of Knoxville, Tennessee), Computer Science Major Intern, 2026-present <br>
+**Sheryl Arya** (Arizona State University, Arizona), Graduate Intern, 2026-present <br>
+**Ruhaan Singh** (Stanford University, California), Undergraduate Intern, 2026-present <br>
 **Aliza Sharmin** (University of Knoxville, Tennessee), PhD Student, 2025-present <br>
 **Pragya Kandel** (University of Knoxville, Tennessee), PhD Student, 2022-present <br>
+**Daniel Saedi Nia** (University of California, Berkeley), Graduate Intern, 2025-26 <br>
+**Pragati Verma** (Indian Institute of Delhi, India), Project Scientist DST, 2025 <br>
 **Maedeh Rahimitouranposhti** (University of Knoxville, Tennessee), Master and PhD Student, 2024-25<br>
 **Shamik Bhattacharya** (North Carolina State University, Raleigh, North Carolina), UG Student, 2023 <br>
 **Russ Limber** (University of Knoxville, Tennessee), PhD Student, 2022 <br>
