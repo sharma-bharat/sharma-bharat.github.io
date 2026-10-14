@@ -9,9 +9,9 @@ featured-img: assets/images/earth-wide.jpg
 Anthropogenic Amplification of Heat Waves Across CONUS: Quantification, Attribution, and Urban Implications.
 Environmental and Earth Sciences Proceedings. [https://doi.org/10.3390/eesp2026045020](https://doi.org/10.3390/eesp2026045020)
 [eCopy](https://doi.org/10.3390/eesp2026045020).
-[Citation bib](./papers/ref_bibs/Sharma_2026_HW.bib).
-[Citation text](./papers/ref_text/Sharma_2026_HW.txt).
-[Download](./papers/Sharma_2026_HW.pdf).
+[Citation bib](./papers/ref_bibs/Sharma_2026_EESP.bib).
+[Citation text](./papers/ref_text/Sharma_2026_EESP.txt).
+[Download](./papers/Sharma_2026_EESP.pdf).
 
 Aliza Sharmin, **Bharat Sharma**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li (2026).
 Dynamic Disruption Resilience in Intermodal Transport Networks: Integrating Flow Weighting and Centrality Measures.

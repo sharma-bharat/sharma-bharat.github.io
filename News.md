@@ -7,7 +7,7 @@ description:
 |---|---|
 |Oct 14, 2026| Oak Ridge, TN, USA|
 |---|---|
-Our paper on “Anthropogenic Amplification of Heat Waves Across CONUS: Quantification, Attribution, and Urban Implications” got published on Oct 13, 2026 in Environmental and Earth Sciences Proceedings. This belongs to 1st International Online Conference on Urban Sciences. https://doi.org/10.3390/eesp2026045020. [Download Paper!](./papers/Sharma_2026_HW.pdf)|![EESP 2026](./assets/images/news/Sharma_HW.png) |
+Our paper on “Anthropogenic Amplification of Heat Waves Across CONUS: Quantification, Attribution, and Urban Implications” got published on Oct 13, 2026 in Environmental and Earth Sciences Proceedings. This belongs to 1st International Online Conference on Urban Sciences. https://doi.org/10.3390/eesp2026045020. [Download Paper!](./papers/Sharma_2026_EESP.pdf)|![EESP 2026](./assets/images/news/Sharma_2026_EESP.png) |
 |---|---|
 | | |
 |May 22, 2026| Oak Ridge, TN, USA|
