@@ -5,10 +5,17 @@ description:
 featured-img: assets/images/earth-wide.jpg
 ---
 ## Journal and Conference Papers
+**Bharat Sharma**, Sheryl Arya, Auroop R. Ganguly, Olufemi A. Omitaomu, and Forrest M. Hoffman (2026).
+Anthropogenic Amplification of Heat Waves Across CONUS: Quantification, Attribution, and Urban Implications.
+Environmental and Earth Sciences Proceedings. [https://doi.org/10.3390/eesp2026045020](https://doi.org/10.3390/eesp2026045020)
+[eCopy](https://doi.org/10.3390/eesp2026045020).
+[Citation bib](./papers/ref_bibs/Sharma_2026_HW.bib).
+[Citation text](./papers/ref_text/Sharma_2026_HW.txt).
+[Download](./papers/Sharma_2026_HW.pdf).
 
 Aliza Sharmin, **Bharat Sharma**, Mustafa Can Camur, Olufemi A. Omitaomu, and Xueping Li (2026).
 Dynamic Disruption Resilience in Intermodal Transport Networks: Integrating Flow Weighting and Centrality Measures.
-Transportation Research Record.[https://doi.org/10.1177/03611981261437033](https://doi.org/10.1177/03611981261437033)
+Transportation Research Record. [https://doi.org/10.1177/03611981261437033](https://doi.org/10.1177/03611981261437033)
 [eCopy](https://journals.sagepub.com/eprint/UZTMPYJXPQC2WSX2ZFGU/full).
 [Citation bib](./papers/ref_bibs/SharminSharma_2026_TRR.bib).
 [Citation text](./papers/ref_text/SharminSharma_2026_TRR.txt).
@@ -19,19 +26,19 @@ Modeling Disruptions to Urban Metabolism using Interconnected Networks.
 Cities. *Manuscript under review: JCIT-D-26-01489*.
 Preprint: https://doi.org/10.48550/arXiv.2604.06104
 
-**Bharat Sharma**, & Kumar, J. (2025).
+**Bharat Sharma**, & Jitendra Kumar (2025).
 Variational AutoEncoders Reveal Intensifying GPP Extremes in Continental United States based on CESM2 Simulations. 2025 IEEE International Conference on Data Mining Workshops (ICDMW). [https://doi.org/10.1109/ICDMW69685.2025.00102](https://ieeexplore.ieee.org/document/11416127).
 [Citation bib](./papers/ref_bibs/Sharma_2025_ICDM.bib).
 [Citation text](./papers/ref_text/Sharma_2025_ICDM.txt).
 [Download](./papers/Sharma_ICDMW2025.pdf).
 
-Saedi Nia, D., Massoud, E. C., **Bharat Sharma**, Kumar, J., Collier, N., & Hoffman, F. M. (2025).
+Daniel Saedi Nia, Elias C. Massoud, Bharat Sharma, Jitendra Kumar, Nathaniel Collier, & Forrest M. Hoffman. (2025).
 ESGF-Assistant: A Domain-Specific Large Language Model for Navigating Earth System Data. 2025 IEEE International Conference on Data Mining Workshops (ICDMW).[https://doi.org/10.1109/ICDMW69685.2025.00100](https://ieeexplore.ieee.org/document/11415955).
 [Citation bib](./papers/ref_bibs/NiaSharma_2025_LLM.bib).
 [Citation text](./papers/ref_text/NiaSharma_2025_LLM.txt).
 [Download](./papers/DanielSharma_ICDMW2025.pdf)
 
-Scherrer, E., Allen-Dumas, M., **Bharat Sharma** (2025).
+Evan Scherrer, Melissa Allen-Dumas, **Bharat Sharma** (2025).
 Analyzing Infrastructure Interdependencies Using Network-Of-Networks Modeling.
 InThe 3rd ACM SIGSPATIAL International Workshop on Advances in Urban-AI
 (UrbanAI ’25), November 3–6, 2025, Minneapolis, MN, USA.
@@ -144,7 +151,13 @@ National Institute Of Technology Hamirpur, India.
 
 ## Conference Presentations
 
+\textbf{Bharat Sharma}, Abhilasha Saroj, Yang Chen, Melissa Allen-Dumas, Olufemi A Omitaomu, Aug 25, 2026.
+"Investigating Resiliency and Restoration of Network of Networks: Coupled Grid and Multimodal Transportation Infrastructure".
+ORNL Collaboration Catalyst on "Secure, Resilient Systems for Abundant Energy".
+
 **Bharat Sharma**, Auroop Ganguly, and Olufemi A. Omitaomu, May 22, 2026.
+
+**Bharat Sharma**, Abhilasha Saroj, Yang Chen, Melissa Allen-Dumas, and Olufemi A Omitaomu, Aug 25, 2026.
 “Anthropogenic Amplification of Heat Waves Across CONUS: Detection, Attribution, and Urban Implications”
 Proceedings of the 1st International Online Conference on Urban Sciences, 20–22 May 2026.
 Basel, Switzerland.

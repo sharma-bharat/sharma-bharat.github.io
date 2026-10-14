@@ -5,6 +5,11 @@ description:
 ---
 |Date|Place|
 |---|---|
+|Oct 14, 2026| Oak Ridge, TN, USA|
+|---|---|
+Our paper on “Anthropogenic Amplification of Heat Waves Across CONUS: Quantification, Attribution, and Urban Implications” got published on Oct 13, 2026 in Environmental and Earth Sciences Proceedings. This belongs to 1st International Online Conference on Urban Sciences. https://doi.org/10.3390/eesp2026045020. [Download Paper!](./papers/Sharma_2026_HW.pdf)|![EESP 2026](./assets/images/news/Sharma_HW.png) |
+|---|---|
+| | |
 |May 22, 2026| Oak Ridge, TN, USA|
 |---|---|
 Presented a poster presentation on “Anthropogenic Amplification of Heat Waves Across CONUS: Detection, Attribution, and Urban Implications” on May 22, 2026 at 1st International Online Conference on Urban Sciences, 20–22 May 2026. Basel, Switzerland. Authors: **Bharat Sharma**, Auroop Ganguly, and Olufemi A. Omitaomu [Submission Details.](https://sciforum.net/paper/view/31001) [Download poster](https://sciforum.net/manuscripts/31001/slides.pdf)|![IOCUS 2026](./assets/images/news/Sharma_2026_IOCUS.png) |

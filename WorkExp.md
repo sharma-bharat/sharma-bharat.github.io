@@ -100,6 +100,8 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 ### Journal Reviewer
 [Nature Communications Earth & Environment](https://www.nature.com/commsenv/) <br>
 
+[Nature Food](https://www.nature.com/natfood/) <br>
+
 [Environmental Research Letters ](https://iopscience.iop.org/journal/1748-9326) <br>
 
 [Journal of Geophysical Research, Biogeosciences](https://agupubs.onlinelibrary.wiley.com/journal/21698961) <br>
@@ -112,7 +114,9 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 [agriculture](https://www.mdpi.com/journal/agriculture) <br>
 
+<!---
 [Reliability Engineering & System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety) <br>
+--->
 
 [Workshop on Data Mining in Earth System Science](https://www.climatemodeling.org/workshops/dmess2022/) <br>
 
@@ -121,11 +125,30 @@ Ranga Raju Vatsavai, North Carolina State University (NCSU). May, 2019
 
 ### Convening
 
+**Convener**, Dec, 2026
+[Global Environmental Change Session GC066](https://studio.m-anage.com/agu/agu26/gc/sessions){:target="_blank"}: Urban Climate, Air Quality, and Critical Infrastructure: Impacts, Feedbacks, and Adaptation for Resilient Cities <br>
+American Geophysical Union (AGU 2026) [link](https://www.agu.org/annual-meeting-2026){:target="_blank"}. <br>
+Dec 7-11, 2026. San Francisco, CA, USA. <br>
+
+**Co-Convener**, Dec, 2026
+[Biogeosciences Session B012](https://studio.m-anage.com/agu/agu26/webprogrampreliminary/Session279929.html){:target="_blank"}: New Approaches for Predicting Biogeochemical Cycles in Biological-Earth-Energy System Modeling <br>
+American Geophysical Union (AGU 2026) [link](https://www.agu.org/annual-meeting-2026){:target="_blank"}. <br>
+Dec 7-11, 2026. San Francisco, CA, USA. <br>
+
+**Co-Convener**, Dec 16, 2025
+[Biogeosciences Session B21E](https://agu.confex.com/agu/agu25/prelim.cgi/Session/249107){:target="_blank"}: New Mechanisms, Interactions, and Approaches for Predicting Global Biogeochemical Cycles <br>
+American Geophysical Union (AGU 2025) [link](https://www.agu.org/annual-meeting-2025){:target="_blank"}. <br>
+Dec 15-19, 2025. New Orleans, Louisiana, USA. <br>
+
+**Co-Convener**, Dec 9, 2024
+[Biogeosciences Session B14](https://studio.m-anage.com/agu/agu24/meetingapp.cgi/Session/239089){:target="_blank"}: The Global Carbon Cycle and Its Feedbacks with Anthropogenic Change. <br>
+American Geophysical Union (AGU 2025) [link](https://www.agu.org/annual-meeting-2025){:target="_blank"}. <br>
+Dec 9-13, 2024. Washington DC, USA. <br>
+
 **Co-Convener**, Jun 24, 2024
 [BG05](https://www.asiaoceania.org/aogs2024/public.asp?page=sessions_and_conveners.asp){:target="_blank"}: Integrated Understanding of Global Carbon, Water, and Other Biogeochemical Cycles and Their Feedbacks <br>
 Asia Oceania Geosciences Society (AOGS 2024) [link](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp/){:target="_blank"}. <br>
 Jun 23-28, 2024. Pyeongchang, Gangwon-do, South Korea. <br>
-
 
 **Co-Convener**, Dec 13, 2023
 [B33G](https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/190931){:target="_blank"}:
@@ -157,10 +180,11 @@ Held in conjunction with the IEEE International Conference on Data Mining (ICDM 
 
 ## Mentorship Roles
 **Pranav Sesha Sai Govindu** (University of Knoxville, Tennessee), Computer Science Major Intern, 2026-present <br>
-**Sheryl Arya** (Arizona State University, Arizona), Graduate Intern, 2026-present <br>
-**Ruhaan Singh** (Stanford University, California), Undergraduate Intern, 2026-present <br>
+**Sheryl Arya** (Arizona State University, Arizona), Graduate Intern, 2026 <br>
+**Ruhaan Singh** (Stanford University, California), Undergraduate Intern, 2026 <br>
 **Aliza Sharmin** (University of Knoxville, Tennessee), PhD Student, 2025-present <br>
-**Pragya Kandel** (University of Knoxville, Tennessee), PhD Student, 2022-present <br>
+**Madelaine  Martinez Ferguson** (University of Knoxville, Tennessee), PhD Student, 2025-present <br>
+**Pragya Kandel** (University of Knoxville, Tennessee), PhD Student, 2022-2026 <br>
 **Daniel Saedi Nia** (University of California, Berkeley), Graduate Intern, 2025-26 <br>
 **Pragati Verma** (Indian Institute of Delhi, India), Project Scientist DST, 2025 <br>
 **Maedeh Rahimitouranposhti** (University of Knoxville, Tennessee), Master and PhD Student, 2024-25<br>
