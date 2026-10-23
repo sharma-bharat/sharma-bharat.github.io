@@ -148,6 +148,10 @@ National Institute Of Technology Hamirpur, India.
 
 **Bharat Sharma**. "Quantifying the Changes in Carbon Cycle Extremes Due to Land Use Change and Attribution to Climate Drivers Through Year 2300". Reducing Uncertainties in Biogeochemical Interactions through Synthesis and Computation. Feb 19, 2021. Url: [bgc-feedbacks.org/research/presentations/](https://www.bgc-feedbacks.org/research/presentations/Sharma_RUBISCO-SFA_20210219.pdf).
 
+## Tutorials
+
+Tutorial on NASA Earthdata and Daymet Daily V4 R1, demonstrating regional and temporal subsetting for the Tennessee Valley Authority (TVA) power service area using NASA Earthdata Cloud via OPeNDAP (Hyrax). Tutorial by **Bharat Sharma** - Built on earlier work by Michele Thornton and Rupesh Shrestha (ORNL DAAC).
+[NASA Earthdata tutorial page](https://www.earthdata.nasa.gov/data/projects/daymet/learn) · [TVA subsetting tutorial](https://ornldaac.github.io/daymet/tutorials/tutorial-daymet-tvasubset/) · [GitHub repository](https://github.com/ornldaac/daymet/tree/main).
 
 ## Conference Presentations
 
