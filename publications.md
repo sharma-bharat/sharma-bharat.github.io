@@ -120,8 +120,9 @@ Codes/Software for the paper "Quantifying Carbon Cycle Extremes and Attributing 
 Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attributing Their Causes Under Climate and Land Use & Land Cover Change from 1850 to 2300, from CESM1(BGC) fully-coupled runs from 1850 to 2300, comprising of historical (1850-2005), Representative Concentration Pathway 8.5 (2005-2100), and Extension Concentration Pathway 8.5 (2101-2300). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5548153.svg)](https://doi.org/10.5281/zenodo.5548153)
 
 ### Earth System Models' Improvement
-- Adding nutrient supplementation status to arguments in FATES dynamics#7542:
-[https://github.com/E3SM-Project/E3SM/pull/7542](https://github.com/E3SM-Project/E3SM/pull/7542)
+- [Adding nutrient supplementation status to arguments in FATES dynamics (#7542)](https://github.com/E3SM-Project/E3SM/pull/7542) — Closed Nov 6, 2025.
+- [ctsm5.3.083: Pass nutrient supplementation status to FATES (#3348)](https://github.com/ESCOMP/CTSM/pull/3348) — Closed Oct 29, 2025.
+- [Supplementation constraints on dynamic L2FR with CNP (#1443)](https://github.com/NGEET/fates/pull/1443) — Closed Oct 29, 2025.
 
 
 

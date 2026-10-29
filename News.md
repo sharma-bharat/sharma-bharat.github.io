@@ -12,7 +12,7 @@ Our paper on “Anthropogenic Amplification of Heat Waves Across CONUS: Quantifi
 | | |
 |Oct 07, 2026| Oak Ridge, TN, USA|
 |---|---|
-Created a tutorial on **NASA Earthdata and Daymet Daily V4 R1**, demonstrating regional and temporal subsetting for the Tennessee Valley Authority (TVA) power service area using NASA Earthdata Cloud via OPeNDAP (Hyrax). Tutorial by **Bharat Sharma** - Built on earlier work by Michele Thornton and Rupesh Shrestha (ORNL DAAC). [NASA Earthdata tutorial page](https://www.earthdata.nasa.gov/data/projects/daymet/learn) · [TVA subsetting tutorial](https://ornldaac.github.io/daymet/tutorials/tutorial-daymet-tvasubset/) · [GitHub repository](https://github.com/ornldaac/daymet/tree/main).|![NASA Earthdata and Daymet tutorial](./assets/images/news/2026_Sharma_NASADAAC.gif). [Highlight](https://sharma-bharat.github.io/assets/images/news/2026_Sharma_NASADAAC.gif) |
+Created a tutorial on **NASA Earthdata and Daymet Daily V4 R1**, demonstrating regional and temporal subsetting for the Tennessee Valley Authority (TVA) power service area using NASA Earthdata Cloud via OPeNDAP (Hyrax). Tutorial by **Bharat Sharma** - Built on earlier work by Michele Thornton and Rupesh Shrestha (ORNL DAAC). [NASA Earthdata tutorial page](https://www.earthdata.nasa.gov/data/projects/daymet/learn) · [TVA subsetting tutorial](https://ornldaac.github.io/daymet/tutorials/tutorial-daymet-tvasubset/) · [GitHub repository](https://github.com/ornldaac/daymet/tree/main). [Highlight](https://sharma-bharat.github.io/assets/images/news/2026_Sharma_NASADAAC.gif)|![NASA Earthdata and Daymet tutorial](./assets/images/news/2026_Sharma_NASADAAC.gif) |
 |---|---|
 | | |
 |May 22, 2026| Oak Ridge, TN, USA|
