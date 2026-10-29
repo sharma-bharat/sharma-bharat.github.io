@@ -122,8 +122,9 @@ Selected fields used in the study, Quantifying Carbon Cycle Extremes and Attribu
 ### Earth System Models' Improvement
 - [Adding nutrient supplementation status to arguments in FATES dynamics (#7542)](https://github.com/E3SM-Project/E3SM/pull/7542) — Closed Nov 6, 2025.
 - [ctsm5.3.083: Pass nutrient supplementation status to FATES (#3348)](https://github.com/ESCOMP/CTSM/pull/3348) — Closed Oct 29, 2025.
-- [Supplementation constraints on dynamic L2FR with CNP (#1443)](https://github.com/NGEET/fates/pull/1443) — Closed Oct 29, 2025.
-
+- [Supplementation constraints on dynamic L2FR with CNP (#1443)](https://github.com/NGEET/fates/pull/1443) — Closed Oct 29, 2025. Original PR [#1353](https://github.com/NGEET/fates/pull/1353)
+- [bugfix logging event NaN error in mass balance check- #996](https://github.com/NGEET/fates/pull/996). Original Issue [#961](https://github.com/NGEET/fates/issues/961)
+- Cold-deciduous climate enveloping: What is the correct value for the cndaysleafoff parameter? [#1345](https://github.com/NGEET/fates/issues/1345)
 
 
 ## Master Thesis
